@@ -1,0 +1,10 @@
+{
+    "consulting": {
+        "name": "Consulting Services",
+        "description": "Our consulting services help businesses in strategy, technology, and operations."
+    },
+    "development": {
+        "name": "Development Services",
+        "description": "We provide custom software development tailored to your needs."
+    }
+}
