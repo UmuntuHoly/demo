@@ -5,6 +5,7 @@
     },
     "development": {
         "name": "Development Services",
-        "description": "We provide custom software development tailored to your needs. Visit our website <ref=https://www.google.com>link</ref>."
+        "description": "We provide custom software development tailored to your needs.",
+        "link": "https://www.facebook.com"
     }
 }
