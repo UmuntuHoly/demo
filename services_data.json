@@ -6,6 +6,6 @@
     "development": {
         "name": "Development Services",
         "description": "We provide custom software development tailored to your needs.",
-        "link": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/3.jpg"
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/3.jpg"
     }
 }
