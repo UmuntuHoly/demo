@@ -7,9 +7,5 @@
         "name": "Development Services",
         "description": "We provide custom software development tailored to your needs.",
         "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/development.jpg"
-    },
-    "res": {
-        "name": "RES",
-        "description": "Royal Eswatini Sugar Corporation"
     }
 }
