@@ -200,6 +200,10 @@
         "name": "NCFE Functions",
         "description": "Represent co-operatives, lobbying and advocate for their needs and aspirations. Mobilization, management and deployement of resources for the benefit of members. Faciliate and co-ordinate all national co-operatives training initiatives and development programmes. Custodianship of good corporate governance and compliance with co-operatives principles and values by co-operatives. Providing universal access to affordable none core functions of co-operatives principles and values of co-operatives and affliliates."
     },
+    "website": {
+        "name": "Website",
+        "description": "www.ncfeswatini.coop"
+    },
     "ncfe": {
         "name": "NCFE",
         "description": "An effective and efficient umbrella body representing, promoting, protecting and serving the interests of all Eswatini co-operative societies."
