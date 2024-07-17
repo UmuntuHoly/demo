@@ -204,6 +204,31 @@
         "name": "Website",
         "description": "www.ncfeswatini.coop"
     },
+    "manager": {
+        "name": "Executive Manager of NCFE",
+        "description": "Thembinkosi Fakudze",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrfakudze.jpg"
+    },
+    "development officer": {
+        "name": "Co-operative Development Officer of NCFE",
+        "description": "Sheena LitchField",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mslitchfield.jpg"
+    },
+    "youth program cordinator": {
+        "name": "Global Youth Program Cordinator of NCFE",
+        "description": "Colisile Masilela",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/msmasilela.jpg"
+    },
+    "administration officer": {
+        "name": "Finance and Administration Officer of NCFE",
+        "description": "Nonhlanhla Manana",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/msmanana.jpg"
+    },
+    "technology officer": {
+        "name": "Co-operative Information Technology Officer of NCFE",
+        "description": "Sandile Gumedze",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrgumedze.jpg"
+    },
     "ncfe": {
         "name": "NCFE",
         "description": "An effective and efficient umbrella body representing, promoting, protecting and serving the interests of all Eswatini co-operative societies."
