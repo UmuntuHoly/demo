@@ -3,6 +3,26 @@
         "name": "You are welcome",
         "description": "Feel free to ask a query and I will try to the best of my abilities to help."
     },
+    "development officer": {
+        "name": "Co-operative Development Officer of NCFE",
+        "description": "Sheena LitchField",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mslitchfield.jpg"
+    },
+    "youth program cordinator": {
+        "name": "Global Youth Program Cordinator of NCFE",
+        "description": "Colisile Masilela",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/msmasilela.jpg"
+    },
+    "administration officer": {
+        "name": "Finance and Administration Officer of NCFE",
+        "description": "Nonhlanhla Manana",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/msmanana.jpg"
+    },
+    "technology officer": {
+        "name": "Co-operative Information Technology Officer of NCFE",
+        "description": "Sandile Gumedze",
+        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrgumedze.jpg"
+    },
     "mission": {
         "name": "NCFE Mission",
         "description": "The NCFE is enjoined to the government’s endeavor to ensure a continued and sustainable economic growth for all Emaswati. It would strive to remove or ease the impediments to establishment of viable economic enterprises formed and managed by the people for their own economic and social benefits."
@@ -204,26 +224,6 @@
         "name": "Executive Manager of NCFE",
         "description": "Thembinkosi Fakudze",
         "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrfakudze.jpg"
-    },
-    "development officer": {
-        "name": "Co-operative Development Officer of NCFE",
-        "description": "Sheena LitchField",
-        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mslitchfield.jpg"
-    },
-    "youth program cordinator": {
-        "name": "Global Youth Program Cordinator of NCFE",
-        "description": "Colisile Masilela",
-        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/msmasilela.jpg"
-    },
-    "administration officer": {
-        "name": "Finance and Administration Officer of NCFE",
-        "description": "Nonhlanhla Manana",
-        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/msmanana.jpg"
-    },
-    "technology officer": {
-        "name": "Co-operative Information Technology Officer of NCFE",
-        "description": "Sandile Gumedze",
-        "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrgumedze.jpg"
     },
     "ccf": {
         "name": "Manage CCF Contributions",
