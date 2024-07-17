@@ -225,6 +225,30 @@
         "description": "Sandile Gumedze",
         "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrgumedze.jpg"
     },
+    "ccf": {
+        "name": "Manage CCF Contributions",
+        "description": "A Central Co-operative Fund to which all co-operatives shall allocate a certain portion of their net surplus every year."
+    },
+    "grant loans": {
+        "name": "Grant Loans to Affiliated Co-operatives",
+        "description": "A Revolving Fund was established accessible by full Members for onward lending to members. The interest rates and the period of the loan shall be determined by the loan policy from time to time as deemed neccesary"
+    },
+    "education and trainings": {
+        "name": "Provide Education and Trainings",
+        "description": "Participating in the organization of fairs, exhibitions, lectures, seminars, symposia, conferences, forums, congresses etc"
+    },
+    "good governance": {
+        "name": "Ensure Good Governance in co-operative",
+        "description": "Custodianship of good corporate governance and compliance with co-operatives principles and values by co-operatives and affiliates before they are registered or their registration renewed"
+    },
+    "conflict resolution": {
+        "name": "Conflict Resolution",
+        "description": "Resolving disputes between affiliates, between co-operatives members and generally within the sector, including instituting or defending legal proceedings affecting members"
+    },
+    "access to core functions": {
+        "name": "Access to Core functions of Co-operatives",
+        "description": "Proving universal access to affordable auxiliary functions of co-operatives and affiliates as shared services"
+    },
     "ncfe": {
         "name": "NCFE",
         "description": "An effective and efficient umbrella body representing, promoting, protecting and serving the interests of all Eswatini co-operative societies."
