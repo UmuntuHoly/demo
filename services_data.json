@@ -11,5 +11,73 @@
     "thank you": {
         "name": "You are welcome",
         "description": "Feel free to ask a query and I will try to the best of my abilities to help."
+    },
+    "ncfe": {
+        "name": "NCFE",
+        "description": "An effective and efficient umbrella body representing, promoting, protecting and serving the interests of all Eswatini co-operative societies."
+    },
+    "mission": {
+        "name": "NCFE Mission",
+        "description": "The NCFE is enjoined to the government’s endeavor to ensure a continued and sustainable economic growth for all Emaswati. It would strive to remove or ease the impediments to establishment of viable economic enterprises formed and managed by the people for their own economic and social benefits."
+    },
+    "objectives": {
+        "name": "NCFE Core Objectives",
+        "description": "The Core objectives of the Federation is to build a strong, united , resilient, competitive and autonomous co-operatives' movement."
+    },
+    "membership": {
+        "name": "Membership Structure of The Federation",
+        "description": "Whilst direct affiliation and membership is only applicable to apex federations in the country, all Eswatini citizens through their membership and participation in their co-operatives at a primary level are eventually members of the National Co-operatives Federation of Eswatini (NCFE). There are currently three apex bodies constituting the NCFE. These are ESASCCO, ESWAMCU, ESNYCA. NCFE has a a mandate to be represented in all meetings and activities deliberating and taking decisions on matters involving and or affecting co-operatives. This will enable it to influence and lobby for fair, reasonable, transparent and inclusive decision making that incorporates the co-operatives voice on matters affecting them"
+    },
+    "services": {
+        "name": "List of NCFE Services",
+        "description": "Manage CCF Contributions, Grant Loans to Affiliated Co-operatives, Provide Education and Trainings, Ensure Good Governance in co-operative, Conflict Resolution, Access to Core functions of Co-operatives"
+    },
+    "values": {
+        "name": "NCFE Values",
+        "description": "Caring for others, Honesty, Solidarity, Democracy, Openness, Social responsibility, Equity, Self-help, Equality, Self-responsibility"
+    },
+    "address": {
+        "name": "NCFE Address",
+        "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
+    },
+    "contact": {
+        "name": "NCFE Contact Details",
+        "description": "Phone: 35402414, Email: info@ncfeswatini.coop"
+    },
+    "phone": {
+        "name": "NCFE Phone",
+        "description": "+268 35402414"
+    },
+    "email": {
+        "name": "NCFE Email",
+        "description": "info@ncfeswatini.coop"
+    },
+    "eswafcu": {
+        "name": "The Eswatini Farmers Cooperative Union (ESWAFCU)",
+        "description": "The Eswatini Farmers Cooperative Union (ESWAFCU) is an apex body representing all Farming and Multi-purpose cooperatives in Eswatini to improve their access to inputs, equipment, markets and technical information. The organization was officially formed and registered on 08 September in 2006. The ESWAMCU provide, organise and supervise central services such as joint procurement and supply of general inputs,raw materials and implements for anyfor of production. They provide information, education, training and advisory services on cooperatives principles and cooperatives practices and on the management of cooperatives enterprise. They also assist in the formation of commitess and cooperatives determinig the feasibility of projects and facilitating the regiatration of new cooperatives. Again, they also provide audit serives of members cooperatives accourding to the provision of the Act. Lastly they provide capacity building and traing to memebers for themto become more competitive and sustainable."
+    },
+    "essacco": {
+        "name": "Eswatini Association of Savings and Credit Cooperatives (ESSACCO)",
+        "description": "ESASCCO LTD- Eswatini Association of Savings and Credit Cooperatives, is an apex body for the Savings and Credit Cooperatives of Eswatini and was registered on the 06 June, 1988 under the Eswatini Cooperative Societies Act of 1964 as amended and granted a Certificate of Registration under Regulation 4 (a) of 2003 No. 162, and registered under the provisions of Section 9 of the Cooperatives Societies Act No.5 of 2005, as amended by the Commissioner for Cooperative Development."
+    },
+    "esynca": {
+        "name": "Eswatini National Youth Cooperatives Alliance (ESYNCA)",
+        "description": "ESNYCA was formed in 2016 and registered by the Commissioner of Co-operatives under the Ministry of Commerce, Industry and Trade, in accordance with the Coopearives Societies Regulations of 2005 in July 2016.The Alliance was Formed with the sole purpose of creating a better life for its members. Their services include pre-coopearive registration training, board orientation,cooperative general business support, Financial management training, leadership training,Application for funding support and bookkeeping and auditing."
+    },
+    "register": {
+        "name": "How do I register a Co-operative?",
+        "description": "Persons wishing to be registered as a co-operative shall submit to the Commissioner through their Chairperson, an application for registration."
+    },
+    "principles": {
+        "name": "Principles of Cooperatives",
+        "description": "Voluntary and Open Membership, Democratic Member Control, Member Economic Participation"
+    },
+    "apex body": {
+        "name": "Co-operative Apex Body",
+        "description": "Highest motherbody of co-operatives under a specific sector. These are: ESWAFCU - Farming Co-ops, ESYNCA - Youth Co-ops, ESSASSCO - Saving and Credit Co-op"
+    },
+    "thank you": {
+        "name": "You are welcome",
+        "description": "Feel free to ask a query and I will try to the best of my abilities to help."
     }
 }
