@@ -72,7 +72,7 @@
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
-    "office": {
+    "ncfe office": {
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
@@ -199,10 +199,6 @@
     "what you are": {
         "name": "I am a enquiry assistant",
         "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information."
-    },
-    "": {
-        "name": "Empty",
-        "description": "Please write something"
     },
     "functions": {
         "name": "NCFE Functions",
