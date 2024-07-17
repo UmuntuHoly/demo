@@ -42,7 +42,7 @@
     },
     "contact": {
         "name": "NCFE Contact Details",
-        "description": "Phone: 35402414, Email: info@ncfeswatini.coop"
+        "description": "Phone: +268 35402414, Email: info@ncfeswatini.coop"
     },
     "phone": {
         "name": "NCFE Phone",
@@ -103,5 +103,9 @@
     "what are you": {
         "name": "I am a enquiry assistant",
         "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information."
+    },
+    "": {
+        "name": "Empty",
+        "description": "Please write something"
     }
 }
