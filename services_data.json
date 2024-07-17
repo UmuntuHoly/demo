@@ -203,5 +203,9 @@
     "": {
         "name": "Empty",
         "description": "Please write something"
+    },
+    "functions": {
+        "name": "NCFE Functions",
+        "description": "Represent co-operatives, lobbying and advocate for their needs and aspirations. Mobilization, management and deployement of resources for the benefit of members. Faciliate and co-ordinate all national co-operatives training initiatives and development programmes. Custodianship of good corporate governance and compliance with co-operatives principles and values by co-operatives. Providing universal access to affordable none core functions of co-operatives principles and values of co-operatives and affliliates."
     }
 }
