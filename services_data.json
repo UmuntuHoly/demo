@@ -12,10 +12,6 @@
         "name": "You are welcome",
         "description": "Feel free to ask a query and I will try to the best of my abilities to help."
     },
-    "ncfe": {
-        "name": "NCFE",
-        "description": "An effective and efficient umbrella body representing, promoting, protecting and serving the interests of all Eswatini co-operative societies."
-    },
     "mission": {
         "name": "NCFE Mission",
         "description": "The NCFE is enjoined to the government’s endeavor to ensure a continued and sustainable economic growth for all Emaswati. It would strive to remove or ease the impediments to establishment of viable economic enterprises formed and managed by the people for their own economic and social benefits."
@@ -72,7 +68,7 @@
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
-    "ncfe office": {
+    "office": {
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
@@ -203,5 +199,9 @@
     "functions": {
         "name": "NCFE Functions",
         "description": "Represent co-operatives, lobbying and advocate for their needs and aspirations. Mobilization, management and deployement of resources for the benefit of members. Faciliate and co-ordinate all national co-operatives training initiatives and development programmes. Custodianship of good corporate governance and compliance with co-operatives principles and values by co-operatives. Providing universal access to affordable none core functions of co-operatives principles and values of co-operatives and affliliates."
-    }
+    },
+    "ncfe": {
+        "name": "NCFE",
+        "description": "An effective and efficient umbrella body representing, promoting, protecting and serving the interests of all Eswatini co-operative societies."
+    },
 }
