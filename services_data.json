@@ -227,7 +227,7 @@
     },
     "ccf": {
         "name": "Manage CCF Contributions",
-        "description": "A Central Co-operative Fund to which all co-operatives shall allocate a certain portion of their net surplus every year."
+        "description": "A Central Co-operative Fund to which all co-operatives shall allocate a certain portion of their 15% net surplus every year."
     },
     "grant loans": {
         "name": "Grant Loans to Affiliated Co-operatives",
