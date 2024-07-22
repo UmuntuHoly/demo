@@ -23,23 +23,23 @@
         "description": "Sandile Gumedze",
         "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrgumedze.jpg"
     },
-    "mission": {
+    "ncfe mission": {
         "name": "NCFE Mission",
         "description": "The NCFE is enjoined to the government’s endeavor to ensure a continued and sustainable economic growth for all Emaswati. It would strive to remove or ease the impediments to establishment of viable economic enterprises formed and managed by the people for their own economic and social benefits."
     },
-    "vision": {
+    "ncfe vision": {
         "name": "NCFE Mission",
         "description": "The NCFE is enjoined to the government’s endeavor to ensure a continued and sustainable economic growth for all Emaswati. It would strive to remove or ease the impediments to establishment of viable economic enterprises formed and managed by the people for their own economic and social benefits."
     },
-    "aim": {
+    "ncfe aim": {
         "name": "NCFE Mission",
         "description": "The NCFE is enjoined to the government’s endeavor to ensure a continued and sustainable economic growth for all Emaswati. It would strive to remove or ease the impediments to establishment of viable economic enterprises formed and managed by the people for their own economic and social benefits."
     },
-    "objectives": {
+    "ncfe objectives": {
         "name": "NCFE Core Objectives",
         "description": "The Core objectives of the Federation is to build a strong, united , resilient, competitive and autonomous co-operatives' movement."
     },
-    "objective": {
+    "ncfe objective": {
         "name": "NCFE Core Objectives",
         "description": "The Core objectives of the Federation is to build a strong, united , resilient, competitive and autonomous co-operatives' movement."
     },
@@ -55,47 +55,47 @@
         "name": "Membership Structure of The Federation",
         "description": "Whilst direct affiliation and membership is only applicable to apex federations in the country, all Eswatini citizens through their membership and participation in their co-operatives at a primary level are eventually members of the National Co-operatives Federation of Eswatini (NCFE). There are currently three apex bodies constituting the NCFE. These are ESASCCO, ESWAMCU, ESNYCA. NCFE has a a mandate to be represented in all meetings and activities deliberating and taking decisions on matters involving and or affecting co-operatives. This will enable it to influence and lobby for fair, reasonable, transparent and inclusive decision making that incorporates the co-operatives voice on matters affecting them"
     },
-    "services": {
+    "ncfe services": {
         "name": "List of NCFE Services",
         "description": "Manage CCF Contributions, Grant Loans to Affiliated Co-operatives, Provide Education and Trainings, Ensure Good Governance in co-operative, Conflict Resolution, Access to Core functions of Co-operatives"
     },
-    "service": {
+    "ncfe service": {
         "name": "List of NCFE Services",
         "description": "Manage CCF Contributions, Grant Loans to Affiliated Co-operatives, Provide Education and Trainings, Ensure Good Governance in co-operative, Conflict Resolution, Access to Core functions of Co-operatives"
     },
-    "values": {
+    "ncfe values": {
         "name": "NCFE Values",
         "description": "Caring for others, Honesty, Solidarity, Democracy, Openness, Social responsibility, Equity, Self-help, Equality, Self-responsibility"
     },
-    "address": {
+    "ncfe address": {
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
-    "headquarter": {
+    "ncfe headquarter": {
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
-    "headquarters": {
+    "ncfe headquarters": {
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
-    "office": {
+    "ncfe office": {
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
-    "offices": {
+    "ncfe offices": {
         "name": "NCFE Address",
         "description": "Impumelelo Sacco Building Trelawney Park, Nazarene , Manzini, Eswatini"
     },
-    "contact": {
+    "ncfe contact": {
         "name": "NCFE Contact Details",
         "description": "Phone: +268 35402414, Email: info@ncfeswatini.coop"
     },
-    "phone": {
+    "ncfe phone": {
         "name": "NCFE Phone",
         "description": "+268 35402414"
     },
-    "email": {
+    "ncfe email": {
         "name": "NCFE Email",
         "description": "info@ncfeswatini.coop"
     },
@@ -147,11 +147,11 @@
         "name": "How do I register a Co-operative?",
         "description": "Persons wishing to be registered as a co-operative shall submit to the Commissioner through their Chairperson, an application for registration."
     },
-    "registration": {
+    "ncfe registration": {
         "name": "How do I register a Co-operative?",
         "description": "Persons wishing to be registered as a co-operative shall submit to the Commissioner through their Chairperson, an application for registration."
     },
-    "principles": {
+    "ncfe principles": {
         "name": "Principles of Cooperatives",
         "description": "Voluntary and Open Membership, Democratic Member Control, Member Economic Participation"
     },
@@ -207,20 +207,20 @@
         "name": "I am a enquiry assistant",
         "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information."
     },
-    "functions": {
+    "ncfe functions": {
         "name": "NCFE Functions",
         "description": "Represent co-operatives, lobbying and advocate for their needs and aspirations. Mobilization, management and deployement of resources for the benefit of members. Faciliate and co-ordinate all national co-operatives training initiatives and development programmes. Custodianship of good corporate governance and compliance with co-operatives principles and values by co-operatives. Providing universal access to affordable none core functions of co-operatives principles and values of co-operatives and affliliates."
     },
-    "website": {
+    "ncfe website": {
         "name": "Website",
         "description": "www.ncfeswatini.coop"
     },
-    "manager": {
+    "ncfe manager": {
         "name": "Executive Manager of NCFE",
         "description": "Thembinkosi Fakudze",
         "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrfakudze.jpg"
     },
-    "executive manager": {
+    "ncfe executive manager": {
         "name": "Executive Manager of NCFE",
         "description": "Thembinkosi Fakudze",
         "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/mrfakudze.jpg"
@@ -252,5 +252,53 @@
     "ncfe": {
         "name": "NCFE",
         "description": "An effective and efficient umbrella body representing, promoting, protecting and serving the interests of all Eswatini co-operative societies."
+    },
+    "morning": {
+        "name": "",
+        "description": "Good morning. How can I assist you this morning?"
+    },
+    "afternoon": {
+        "name": "",
+        "description": "Good day. How can I be of assistance?"
+    },
+    "evening": {
+        "name": "",
+        "description": "Evening. How can I help"
+    },
+    "your name": {
+        "name": "",
+        "description": "You can call me Suku"
+    },
+    "you a robot": {
+        "name": "",
+        "description": "I am an AI assistant programmed to provide information and assist you with enquiries pertaining organizations' products and services"
+    },
+    "you a bot": {
+        "name": "",
+        "description": "I am an AI assistant programmed to provide information and assist you with enquiries pertaining organizations' products and services"
+    },
+    "hobbies": {
+        "name": "",
+        "description": "I am an AI assistant. My hobby is to provide information and assist you with enquiries pertaining organizations' products and services"
+    },
+    "do you like": {
+        "name": "",
+        "description": "As a virtual assistant, I am incapable of that"
+    },
+    "funny": {
+        "name": "",
+        "description": "I am still yet to develop some sense of humour. Probably my next version upgrade"
+    },
+    "do you think": {
+        "name": "",
+        "description": "Since I have no conciousness, I am unable to think. Probably in my next version I will develop this aspect"
+    },
+    "you believe": {
+        "name": "",
+        "description": "I am unable incapable of having beliefs as I am artificial"
+    },
+    "you feel": {
+        "name": "",
+        "description": "I am unable incapable of any emotion since I am a program"
     }
 }
