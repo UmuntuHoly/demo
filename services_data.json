@@ -305,6 +305,14 @@
         "name": "",
         "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
     },
+    "insurance": {
+        "name": "",
+        "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
+    },
+    "brokage": {
+        "name": "",
+        "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
+    },
     "agriculture": {
         "name": "",
         "description": "Africa Chicks, Black Duke, Crookes Plantations Limited, Eagle Air (Pty) Ltd, Eagle’s Nest (Pty) Ltd, Eswatini Cane Growers Association, Eswatini Dairy Board, Eswatini Sugar Association, Eswatini Water & Agricultural Development Enterprise (ESWADE), Hurlingham Sugar Estate, Inyoni Yami Swaziland Irrigation Scheme, Mafuteni Ranch (Pty) Ltd, National Agricultural Marketing Board (NAMBOARD), National Chicks Swaziland, National Maize Corporation (NMC), Royal Swaziland Sugar Corporation (RSSC), Scotts Ranch 2000 Limited, Swaziland Citrus Board, Tongaat Hulett t/a Tambankulu Estate, Ubombo Sugar Limited, Umoba (Pty) Ltd"
@@ -313,15 +321,51 @@
         "name": "",
         "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
     },
+    "construction": {
+        "name": "",
+        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+    },
+    "engineering": {
+        "name": "",
+        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+    },
+    "mining": {
+        "name": "",
+        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+    },
     "energy": {
         "name": "",
-        "description": "Eswatini Electricity Company, Eswatini Water Services Corporation"
+        "description": "Eswatini Electricity Company"
+    },
+    "water": {
+        "name": "",
+        "description": "Eswatini Water Services Corporation"
     },
     "forestry": {
         "name": "",
         "description": "Montigny Investments Limited, Peak Timbers Ltd, Shiselweni Forestry Company Ltd, Swaziland Plantations Ltd"
     },
+    "timber": {
+        "name": "",
+        "description": "Montigny Investments Limited, Peak Timbers Ltd, Shiselweni Forestry Company Ltd, Swaziland Plantations Ltd"
+    },
+    "pulp": {
+        "name": "",
+        "description": "Montigny Investments Limited, Peak Timbers Ltd, Shiselweni Forestry Company Ltd, Swaziland Plantations Ltd"
+    },
     "hotel": {
+        "name": "",
+        "description": "Alliance Foods (Pty) Ltd, Big Game Parks, Happy Valley Hotel, Kusa Kusile (Pty) Ltd t/a Nandos, Mantenga Lodge (Pty) Ltd, Mbabane Hotels t/a Mountain Inn, Mdimba Estates t/a Willows Lodge, Phophonyane Lodge and Nature Reserve, Royal Swazi Spa, Sibane Hotel, Swaziland Tourism Authority, Tibiyo Leisure and Resorts t/a Royal Villas"
+    },
+    "accomodation": {
+        "name": "",
+        "description": "Alliance Foods (Pty) Ltd, Big Game Parks, Happy Valley Hotel, Kusa Kusile (Pty) Ltd t/a Nandos, Mantenga Lodge (Pty) Ltd, Mbabane Hotels t/a Mountain Inn, Mdimba Estates t/a Willows Lodge, Phophonyane Lodge and Nature Reserve, Royal Swazi Spa, Sibane Hotel, Swaziland Tourism Authority, Tibiyo Leisure and Resorts t/a Royal Villas"
+    },
+    "catering": {
+        "name": "",
+        "description": "Alliance Foods (Pty) Ltd, Big Game Parks, Happy Valley Hotel, Kusa Kusile (Pty) Ltd t/a Nandos, Mantenga Lodge (Pty) Ltd, Mbabane Hotels t/a Mountain Inn, Mdimba Estates t/a Willows Lodge, Phophonyane Lodge and Nature Reserve, Royal Swazi Spa, Sibane Hotel, Swaziland Tourism Authority, Tibiyo Leisure and Resorts t/a Royal Villas"
+    },
+    "tourism": {
         "name": "",
         "description": "Alliance Foods (Pty) Ltd, Big Game Parks, Happy Valley Hotel, Kusa Kusile (Pty) Ltd t/a Nandos, Mantenga Lodge (Pty) Ltd, Mbabane Hotels t/a Mountain Inn, Mdimba Estates t/a Willows Lodge, Phophonyane Lodge and Nature Reserve, Royal Swazi Spa, Sibane Hotel, Swaziland Tourism Authority, Tibiyo Leisure and Resorts t/a Royal Villas"
     },
@@ -337,6 +381,14 @@
         "name": "",
         "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), Kudvumisa Foundation, Medecins Sans Frontieres, World Vision International"
     },
+    "ngos": {
+        "name": "",
+        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), Kudvumisa Foundation, Medecins Sans Frontieres, World Vision International"
+    },
+    "ngo": {
+        "name": "",
+        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), Kudvumisa Foundation, Medecins Sans Frontieres, World Vision International"
+    },
     "professional services": {
         "name": "",
         "description": "A M Consultancy, A M Recruitment Services (Pty) Ltd, Architects International, Bicon Consulting Engineers, Building Design Group Swaziland, Business Doctors Swaziland, ELB Labour Consultancy, Eswatini Economic Policy Analysis and Research Centre, Gundane & Sons, Kobla Quashie & Associates, KPMG, Manyatsi Nhleko Quantity Surveyors, Maphanga Mitchell & Associates, Pricewaterhouse Coopers (PWC), Resolution & Management Consultancy, Small Enterprise Development Company Ltd, Steve Hall Development Consultants (Pty) Ltd, Swaziland Consulting Engineers Inc., Swaziland Occupational Safety & Health, The Team Recruitment, Xpedia Consulting (Pty) Ltd"
@@ -345,7 +397,19 @@
         "name": "",
         "description": "Afritool, All Stationery (Pty)Ltd, British American Tobacco (Swaziland), Buy & Save Supermarket (Pty) Ltd, C G Trading Company (Pty) Ltd, CJ Trading t/a Furniture Warehouse, Corys Ltd t/a Pansolutions, Dynamic Distributors (Pty) Ltd, Hoageys Ltd, Linac t/a OK Foods, Lojaf Pick n Pay, Matsapha Trading Company, Mormond Electrical Contractors Ltd, NBR Investments t/a Khuba Traders, Ocean Fresh Import & Export (Pty) Ltd, Ocean Traders International (Pty) Ltd, Plate Glass Swaziland, SANO Holdings, Swaziland Agricultural Supplies, Swaziland Liquor Distributors-Distell SD, Swaziland Sales & Marketing t/a Tri-Star Swaziland, Swaziland Supply Centre, Under African Skies t/a Baobab-Batik"
     },
+    "wholesale": {
+        "name": "",
+        "description": "Afritool, All Stationery (Pty)Ltd, British American Tobacco (Swaziland), Buy & Save Supermarket (Pty) Ltd, C G Trading Company (Pty) Ltd, CJ Trading t/a Furniture Warehouse, Corys Ltd t/a Pansolutions, Dynamic Distributors (Pty) Ltd, Hoageys Ltd, Linac t/a OK Foods, Lojaf Pick n Pay, Matsapha Trading Company, Mormond Electrical Contractors Ltd, NBR Investments t/a Khuba Traders, Ocean Fresh Import & Export (Pty) Ltd, Ocean Traders International (Pty) Ltd, Plate Glass Swaziland, SANO Holdings, Swaziland Agricultural Supplies, Swaziland Liquor Distributors-Distell SD, Swaziland Sales & Marketing t/a Tri-Star Swaziland, Swaziland Supply Centre, Under African Skies t/a Baobab-Batik"
+    },
     "textile": {
+        "name": "",
+        "description": "Fashion International Swd (Pty) Ltd"
+    },
+    "garment": {
+        "name": "",
+        "description": "Fashion International Swd (Pty) Ltd"
+    },
+    "apparel": {
         "name": "",
         "description": "Fashion International Swd (Pty) Ltd"
     },
@@ -357,7 +421,15 @@
         "name": "",
         "description": "Institute of Development Management (IDM), Macmillan Education Swaziland (Pty) Ltd, Pips Pre-School, Sebenta National Institute, St. Michaels High School, Waterford KaMhlababa"
     },
+    "training": {
+        "name": "",
+        "description": "Institute of Development Management (IDM), Macmillan Education Swaziland (Pty) Ltd, Pips Pre-School, Sebenta National Institute, St. Michaels High School, Waterford KaMhlababa"
+    },
     "financial services": {
+        "name": "",
+        "description": "Bizzacc Mbabane, Eswatini National Provident Fund (ENPF), Fairlife Benefit Services Swaziland (Pty) Ltd, Financial Services Regulatory Authority (FSRA), Industrial Development Company of Eswatini (IDCE), Inhlonhla, Public Service Pension Fund, Select Management Services, Stanlib Swaziland, Swaziland Development Finance Corporation (FINCORP)"
+    },
+    "financial service": {
         "name": "",
         "description": "Bizzacc Mbabane, Eswatini National Provident Fund (ENPF), Fairlife Benefit Services Swaziland (Pty) Ltd, Financial Services Regulatory Authority (FSRA), Industrial Development Company of Eswatini (IDCE), Inhlonhla, Public Service Pension Fund, Select Management Services, Stanlib Swaziland, Swaziland Development Finance Corporation (FINCORP)"
     },
@@ -369,6 +441,14 @@
         "name": "",
         "description": "Anot Publishing t/a Times of Swaziland, Data Network Services, Eswatini Mobile Ltd, Eswatini Post and Telecommunications Corporation, Eswatini Television Authority, MTN Swaziland Ltd, Netcomm Swaziland, PC Sytems, Real Image Internet, The Swazi Observer (Pty) Ltd"
     },
+    "tech": {
+        "name": "",
+        "description": "Anot Publishing t/a Times of Swaziland, Data Network Services, Eswatini Mobile Ltd, Eswatini Post and Telecommunications Corporation, Eswatini Television Authority, MTN Swaziland Ltd, Netcomm Swaziland, PC Sytems, Real Image Internet, The Swazi Observer (Pty) Ltd"
+    },
+    "technology": {
+        "name": "",
+        "description": "Anot Publishing t/a Times of Swaziland, Data Network Services, Eswatini Mobile Ltd, Eswatini Post and Telecommunications Corporation, Eswatini Television Authority, MTN Swaziland Ltd, Netcomm Swaziland, PC Sytems, Real Image Internet, The Swazi Observer (Pty) Ltd"
+    },
     "motoring": {
         "name": "",
         "description": "GD Holdings t/a Kia Motors, Leites Toyota, Mbabane Motors Ltd, Swazi Trac (Pty) Ltd, Swaziland Earthmoving Equipment"
@@ -377,11 +457,27 @@
         "name": "",
         "description": "Mbabane Estate Agents, Swaki Investment Corporation (Pty) Ltd, Swazi Plaza Properties, Swaziland National Housing Board, Tisuka Taka Ngwane"
     },
+    "real estate": {
+        "name": "",
+        "description": "Mbabane Estate Agents, Swaki Investment Corporation (Pty) Ltd, Swazi Plaza Properties, Swaziland National Housing Board, Tisuka Taka Ngwane"
+    },
     "service industry": {
         "name": "",
         "description": "A J Electrical Ltd, Africa Power Comms, Atlas Motors (Pty) Ltd, Capital Motor Corporation, Copier Corporation, Eswatini Standards Authority (SWASA), Ezulwini Municipality, Gallagher Electrical (Pty) Ltd, Instrument & Control Systems (Pty) Ltd, Komati Basin Water Authority (KOBWA), Macnabs Refrigeration (Pty) Ltd, Manzini City Council, Matsapha Town Board, Municipal Council of Mbabane, Pigg’s Peak Town Council, Radio Link Security t/a Guard Alert, Swazi Tronix (Pty) Ltd, Swaziland National Sports Council, Swaziland National Trust Commission, T & F Motors, Turbo Diesel, Usizo Technical Services"
     },
     "transport": {
+        "name": "",
+        "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
+    },
+    "logistics": {
+        "name": "",
+        "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
+    },
+    "courier": {
+        "name": "",
+        "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
+    },
+    "couriers": {
         "name": "",
         "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
     }
