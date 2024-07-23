@@ -173,39 +173,39 @@
     },
     "hi": {
         "name": "Hi there",
-        "description": "at the moment I can only assist you with info regarding NCFE"
+        "description": "any enquiry you need assistance with?"
     },
     "hello": {
         "name": "Hi there",
-        "description": "at the moment I can only assist you with info regarding NCFE"
+        "description": "any enquiry you need assistance with?"
     },
     "kunjani": {
         "name": "Hi there",
-        "description": "at the moment I can only assist you with info regarding NCFE"
+        "description": "any enquiry you need assistance with?"
     },
     "unjani": {
         "name": "Hi there",
-        "description": "at the moment I can only assist you with info regarding NCFE"
+        "description": "any enquiry you need assistance with?"
     },
     "unjan": {
         "name": "Hi there",
-        "description": "at the moment I can only assist you with info regarding NCFE"
+        "description": "any enquiry you need assistance with?"
     },
     "sawubona": {
         "name": "Hi there",
-        "description": "at the moment I can only assist you with info regarding NCFE"
+        "description": "any enquiry you need assistance with?"
     },
     "who are you": {
         "name": "I am Suku",
-        "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information. At the moment I can only assist you with info regarding NCFE"
+        "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information"
     },
     "what are you": {
         "name": "I am a enquiry assistant",
-        "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information. At the moment I can only assist you with info regarding NCFE"
+        "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information"
     },
     "what you are": {
         "name": "I am a enquiry assistant",
-        "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information. At the moment I can only assist you with info regarding NCFE"
+        "description": "I am here to assist you with queries you might have about an organization's services or any queries related to that particular organization. Please be advised that the organization should be registered with Suku to access information"
     },
     "ncfe functions": {
         "name": "NCFE Functions",
@@ -255,31 +255,31 @@
     },
     "morning": {
         "name": "",
-        "description": "Good morning. How can I assist you this morning? (At the moment I can only assist you with info regarding NCFE)"
+        "description": "Good morning. Any enquiry you need assistance with this morning?"
     },
     "afternoon": {
         "name": "",
-        "description": "Good day. How can I be of assistance? (At the moment I can only assist you with info regarding NCFE)"
+        "description": "Good day. Any enquiry you need assistance with?"
     },
     "evening": {
         "name": "",
-        "description": "Evening. How can I help? (At the moment I can only assist you with info regarding NCFE)"
+        "description": "Evening. Any enquiry you need assistance with this evening?"
     },
     "your name": {
         "name": "",
-        "description": "You can call me Suku. At the moment I can only assist you with info regarding NCFE"
+        "description": "You can call me Suku."
     },
     "you a robot": {
         "name": "",
-        "description": "I am an AI assistant programmed to provide information and assist you with enquiries pertaining organizations' products and services. At the moment I can only assist you with info regarding NCFE"
+        "description": "I am an AI assistant programmed to provide information and assist you with enquiries pertaining organizations' products and services"
     },
     "you a bot": {
         "name": "",
-        "description": "I am an AI assistant programmed to provide information and assist you with enquiries pertaining organizations' products and services. At the moment I can only assist you with info regarding NCFE"
+        "description": "I am an AI assistant programmed to provide information and assist you with enquiries pertaining organizations' products and services"
     },
     "hobbies": {
         "name": "",
-        "description": "I am an AI assistant. My hobby is to provide information and assist you with enquiries pertaining organizations' products and services. At the moment I can only assist you with info regarding NCFE"
+        "description": "I am an AI assistant. My hobby is to provide information and assist you with enquiries pertaining organizations' products and services"
     },
     "do you like": {
         "name": "",
