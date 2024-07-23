@@ -480,5 +480,553 @@
     "couriers": {
         "name": "Organizations that provide that service are",
         "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
+    },
+    "dups": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.dupsgroup.com | +268 2505 2028 | Cnr Masalesikhundleni & Mahleka St, Opp Estel House Manzini | P.O. Box 114, Manzini"
+    },
+    "ekhaya funeral": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2431 5328 | Msahweni Junction | P.O. Box 773, Piggs Peak"
+    },
+    "eswatini insurance brokers": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2404 3226 | 1st Floor,Umkhiwa House, Karl Grant Street, Mbabane | P.O. Box 222, Mbabane"
+    },
+    "eswatini royal insurance": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.sric.sz | +268 2408 1600 | Insika House, Somhlolo Road, Mbabane | P.O. Box 917, Mbabane"
+    },
+    "financial services regulatory authority": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.fsra.co.sz | +268 2406 8000 | 2nd floor, Ingcamu building ,Mhlambanyatsi Rd, Mbabane | P.O. Box 3365, Mbabane H100"
+    },
+    "healthcare insurance brokers": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.corporatehealthplanners.com | +268 2404 8552 | Sudan Cottage, Emafini, Mbabane | P.O. Box 868, Mbabane H101"
+    },
+    "lidwala insurance": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.lidwalainsurance.com | +268 2505 9123 | 3rd floor, Lidlelantfongeni Building, Manzini | P.O. Box 1552, Manzini"
+    },
+    "medscheme administrators": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.medschemeswaziland.com | +268 2409 8700 | 103 Development House, Swazi Plaza | P.O. Box 3226, Mbabane"
+    },
+    "metropolitan life": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.metropolitan.co.sz | +268 2404 1369 | Lot 219 Somhlolo Road, Mbabane | P.O. Box 45, Eveni"
+    },
+    "old mutual": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": ""
+    },
+    "patula risk": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.montigny.co.sz/patula.html | +268 2404 7850 | Mbabane Office Park | P.O. Box 6120, Mbabane"
+    },
+    "sincephetelo motor vehicle accidents fund": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.mva.org.sz | +268 2408-6800 | SMVA Fund Office Park, Lot 3252 Mbhilibhi Street, Mbabane | P.O. Box 4239, Mbabane, H100"
+    },
+    "mva": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.mva.org.sz | +268 2408-6800 | SMVA Fund Office Park, Lot 3252 Mbhilibhi Street, Mbabane | P.O. Box 4239, Mbabane, H100"
+    },
+    "smvaf": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.mva.org.sz | +268 2408-6800 | SMVA Fund Office Park, Lot 3252 Mbhilibhi Street, Mbabane | P.O. Box 4239, Mbabane, H100"
+    },
+    "swaziland medical aid fund": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.swazimed.com | +268 2405 8000 | Shop NC 101, NedBank Centre Building, Swazi Plaza, Mbabane | P.O. Box 7553, Mbabane"
+    },
+    "swazimed": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.swazimed.com | +268 2405 8000 | Shop NC 101, NedBank Centre Building, Swazi Plaza, Mbabane | P.O. Box 7553, Mbabane"
+    },
+    "tibiyo insurance group": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.tig.co.sz | +268 2417 1729 | Nedbank Centre, Swazi Plaza, Mbabane | P.O. Box 1072,Mbabane H100"
+    },
+    "tibiyo": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.tig.co.sz | +268 2417 1729 | Nedbank Centre, Swazi Plaza, Mbabane | P.O. Box 1072,Mbabane H100"
+    },
+    "africa chicks": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.africachicks.net | +268 2442 4575 | Exit 1, Ngwenya Ind. Site | P.O. Box 9724, Mbabane"
+    },
+    "black duke": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2383 8381 | Portion 4, Farm 802, Manzini | P.O. Box 991, Manzini"
+    },
+    "crookes plantations limited": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.cbl.co.za | +268 2363 6523 | Portion 11 of Farm 161 Ubombo District, Big Bend | P.O. Box 35, Big Bend"
+    },
+    "eagle air": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2373 7268 | Riverside Farm, Big Bend | P.O. Box 89, Tshaneni"
+    },
+    "eagle’s nest": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2528 3080 | Malkerns Farm, Malkerns | P.O. Box 181, Malkerns"
+    },
+    "eswatini cane growers association": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.ecga.co.sz | +268 2404 3561 | 2nd Floor, Nkhontfonjeni Building, Dzeliwe St | P.O. Box 273, Mbabane"
+    },
+    "eswatini dairy board": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.dairyboard.co.sz | +268 2505 8262 | 3rd Floor Enguleni House, Mahleka Street, Manzini | P.O.Box 2975, Manzini"
+    },
+    "eswatini sugar association": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.esa.co.sz | +268 2411 7600 | 4th Flr Nkhotfotjeni Building, Cnr Msakato & Dzeliwe Str, Mbabane | P.O. Box 445,Mbabane"
+    },
+    "eswatini water & agricultural development enterprise": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.swade.co.sz | +268 2404 7950 | Dlanubeka House, Mbabane | P.O. Box 5836, Mbabane"
+    },
+    "eswade": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.swade.co.sz | +268 2404 7950 | Dlanubeka House, Mbabane | P.O. Box 5836, Mbabane"
+    },
+    "swade": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.swade.co.sz | +268 2404 7950 | Dlanubeka House, Mbabane | P.O. Box 5836, Mbabane"
+    },
+    "hurlingham sugar estate": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2313 1162 | Volindi Estate, Mhlume | P.O. Box 55, Mhlume"
+    },
+    "inyoni yami swaziland irrigation scheme": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2323 2502 | IYSIS Livestock Estate, Tshaneni | P.O. Box 1, Tshaneni"
+    },
+    "iysis": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2323 2502 | IYSIS Livestock Estate, Tshaneni | P.O. Box 1, Tshaneni"
+    },
+    "mafutseni ranch": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "+268 2501 1920 | Corner Luve & Siteki Roads, Mafutseni | P.O. Box 390, Manzini"
+    },
+    "national agricultural marketing board": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Regulation, farmer support and development/ marketing of scheduled horticultural production | www.namboard.co.sz | +268 2505 2646/8 | Plot 1A, Lot 365, Cnr Masalesikhundleni & Mbhabha Str, Manzini | P.O. Box 4261, Manzini"
+    },
+    "namboard": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Regulation, farmer support and development/ marketing of scheduled horticultural production | www.namboard.co.sz | +268 2505 2646/8 | Plot 1A, Lot 365, Cnr Masalesikhundleni & Mbhabha Str, Manzini | P.O. Box 4261, Manzini"
+    },
+    "national chicks swaziland": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.natchix.co.za | +268 2518 7238 | Edwaleni, past Summerfields | P.O. Box 1124, Matsapha"
+    },
+    "national maize corporation": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.nmc.co.sz | +268 2518 7432 | Plot 542 11th Street, Matsapha Industrial site | P.O. Box 1775, Manzini"
+    },
+    "nmc": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.nmc.co.sz | +268 2518 7432 | Plot 542 11th Street, Matsapha Industrial site | P.O. Box 1775, Manzini"
+    },
+    "royal swaziland sugar corporation": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.rssc.co.sz | +268 2313 4000 | Simunye Sugar Mill | P.O. Box 1, Simunye"
+    },
+    "res": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.rssc.co.sz | +268 2313 4000 | Simunye Sugar Mill | P.O. Box 1, Simunye"
+    },
+    "rssc": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "www.rssc.co.sz | +268 2313 4000 | Simunye Sugar Mill | P.O. Box 1, Simunye"
+    },
+    "scotts ranch": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Poultry farming | +268 2383 8381 | Mafutseni, Manzini Swaziland | P.O. Box 991, Manzini"
+    },
+    "swaziland citrus board": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Citrus industry | +268 2404 4266 | Plot 11649, Ben Dunn Street, Henwood and Company Building, Queens Gate | P.O. Box 343, Mbabane"
+    },
+    "tongaat hulett": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Sugar cane growers | www.hullett.co.za | +268 2373 7111 | Portion 1, Farm 95, Lubombo, Tambankulu | Private Bag Mhlume"
+    },
+    "ubombo sugar": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Cane growing, sugar milling and refining | www.illovosugar.com | +268 2363 8000 | Portion Farm 161, Old Main Road, Big Bend | P.O. Box 23, Big Bend"
+    },
+    "ubombo": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Cane growing, sugar milling and refining | www.illovosugar.com | +268 2363 8000 | Portion Farm 161, Old Main Road, Big Bend | P.O. Box 23, Big Bend"
+    },
+    "umoba": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Mechanical cane harvesting | +268 2363 6522 | Corner 16 Old Bar, siteki Road | P.O. Box 3, Big Bend"
+    },
+    "ag thomas": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Asphalt and earthworks | +268 2518 4499 | Plot 132 1st Avenue Matsapha | P.O. Box 100, Manzini"
+    },
+    "alusol": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Aluminium fabrication and installation & sales of granite stone | www.alusoleswatini.com | +268 2518 7033 | Sedco Estate, Plot 280, Workshop B2 Oswin Road, Opposite Matsapha Landfill | P.O. Box 2108, Matsapha"
+    },
+    "construction logistics": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Interior designing and fabrication | +268 2518 4952 | Plot 175, 1st Avenue, Matsapha Industrial Sites | P.O. Box 345, Matsapha"
+    },
+    "inyatsi": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Construction works, civil roads, buildings and infrastructure development | www.inyatsi.net | +268 2508 1000 | Inyatsi House, 3rd Floor, 760 Dr David Hynd Rd, Manzini | P.O. Box 4426, Manzini"
+    },
+    "isolution": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Interior designing and fabrication | +268 2518 8639 | Matsapha Ind, Park 1st Avenue Unit 23 | P.O. Box 4556, Mbabane"
+    },
+    "kukhanya civil engineering": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Construction | www.kukhanya.com | +268 2505 3658 | Plot 496 Inyoni Park,MR£ Road Moneni Manzini M200 | P.O. Box C73 Hub, Manzini"
+    },
+    "kwalini": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Quarry mining and stones production | +268 2518 4488 | Portion 3 of Farm 1185 Malkerns | P.O. Box 242, Mbabane"
+    },
+    "maloma colliery": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Mining | +268 2207 9193 | Farm 422, Maloma | P.O. Box 103, Matata"
+    },
+    "maloma": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Mining | +268 2207 9193 | Farm 422, Maloma | P.O. Box 103, Matata"
+    },
+    "sbm enterprises": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Steel fabricators and boiler making | www.sdudlaengineering.co.sz | +268 2518 7232/7602 2287 | Warehouse No.4, Plot 7 Sobhuza 11 Avenue, Matsapha | P.O. Box 1571, Matsapha"
+    },
+    "stefanutti stocks": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Building, roads and earthworks contractor | www.stefanuttistocks.com | +268 2518 5006 | Plot 238, King Mswati 111, Avenue Matsapha Ind. Sites | P.O. Box 1181, Mbabane"
+    },
+    "stefanutti": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Building, roads and earthworks contractor | www.stefanuttistocks.com | +268 2518 5006 | Plot 238, King Mswati 111, Avenue Matsapha Ind. Sites | P.O. Box 1181, Mbabane"
+    },
+    "sdudla engineering": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Building, roads and earthworks contractor | www.stefanuttistocks.com | +268 2518 5006 | Plot 238, King Mswati 111, Avenue Matsapha Ind. Sites | P.O. Box 1181, Mbabane"
+    },
+    "eswatini electricity company": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Electricity service provider | www.sec.co.sz | +268 2409 4000 | Eluvatsini House, Mhlambanyatsi Road, Mbabane | P.O. Box 258, Mbabane"
+    },
+    "eec": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Electricity service provider | www.sec.co.sz | +268 2409 4000 | Eluvatsini House, Mhlambanyatsi Road, Mbabane | P.O. Box 258, Mbabane"
+    },
+    "eswatini water services corporation": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Water services provider | www.swsc.co.sz | +268 2416 9000 | Emthonjeni Building, Cultural Village Road,MR 103, Ezulwini | P.O. Box 20, Mbabane"
+    },
+    "ewsc": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Water services provider | www.swsc.co.sz | +268 2416 9000 | Emthonjeni Building, Cultural Village Road,MR 103, Ezulwini | P.O. Box 20, Mbabane"
+    },
+    "montigny": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Timber farms and timber processing | www.montigny.com | +268 2452 5000 | Mhlambanyatsi Road, Mill Site, Bhunya | Private Bag Mbabane, H00"
+    },
+    "peak timbers": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Timber and pulp manufacturers | +268 2431 2006 | Balekane Rd Piggs Peak | P. O. Box 3, Pigg's Peak"
+    },
+    "shiselweni forestry": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Timber farms and timber processing | +268 2207 8711 | Nhlangano, Gege Road | P.O. Box 98, Nhlangano"
+    },
+    "swaziland plantations": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturing and processing of pulp | www.swaziplant.com | +268 2431 1070 | King Mswati 11 Highway, Piggs Peak | P.O. Box 4, Piggs Peak"
+    },
+    "alliance foods": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Business Genre Hotel, Catering & Tourism | +268 2505 7272 | 2nd Floor, Nedbank Centre, Mbabane | P.O. Box 5727, Mbabane"
+    },
+    "big game parks": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Wildlife sanctuary | www.biggameparks.org | +268 2528 3943/4 | Hlane, Mkhaya, Mlilwane | P.O. Box 311, Malkerns"
+    },
+    "happy valley": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Hospitality service | www.happyvalleyhotel.com | +268 2416 1199/ 2629 | MR103 Road Opposite the Gables | P.O. Box 5, Ezulwini"
+    },
+    "nandos": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Food outlet | +268 2505 9058/ 6562 | Bhunu Mall Shop No.1, Manzini | P.O. Box 1042, Manzini"
+    },
+    "mantenga lodge": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Hotel, conference facilities and restaurant | www.mantengalodge.com | +268 2416 2515 | Mantenga Drive, Ezulwini | P.O. Box 68, Ezulwini H100"
+    },
+    "mountain inn": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Accomodation and conferencing | www.mountaininn.sz | +268 2404 2773/ 81 | Umsebe Crescent, Mbabane | P.O. Box 223, Mbabane H100"
+    },
+    "willows lodge": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Hotel, conference facilities and restaurant | www.willowslodgeswaziland.com | +268 7602 1284 | Malkerns, Ezulwini Valley, Manzini M204 | P.O. Box 865, Malkerns"
+    },
+    "phophonyane": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Accomodation and sight-seeing | www.phophonyane.co.sz | +268 2431 3429 | Farm 603, Phophonyane | P.O. Box 199, Pigg's Peak"
+    },
+    "royal swazi spa": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Hotel and catering | www.suninternational.com | +268 2416 5000 | Main Road Ezulwini, Lobamba H100 | Private Bag, Ezulwini H106"
+    },
+    "royal swazi": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Hotel and catering | www.suninternational.com | +268 2416 5000 | Main Road Ezulwini, Lobamba H100 | Private Bag, Ezulwini H106"
+    },
+    "sibane": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Hospitality (accomodation, food and conferences) | www.sibane.net | +268 2416 4170 | Farm 1202, MR103, Ezulwini | P.O. Box 2374, Mbabane"
+    },
+    "swaziland tourism authority": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Tourism promotion authority | www.thekingdomofeswatini.com| +268 2404 6420 | 4th Floor North Wing, Sibekelo Building, Mhlambanyatsi Road | P.O Box 2652, Mbabane"
+    },
+    "eswatini tourism authority": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Tourism promotion authority | www.thekingdomofeswatini.com| +268 2404 6420 | 4th Floor North Wing, Sibekelo Building, Mhlambanyatsi Road | P.O Box 2652, Mbabane"
+    },
+    "eswatini tourism": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Tourism promotion authority | www.thekingdomofeswatini.com| +268 2404 6420 | 4th Floor North Wing, Sibekelo Building, Mhlambanyatsi Road | P.O Box 2652, Mbabane"
+    },
+    "swaziland tourism": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Tourism promotion authority | www.thekingdomofeswatini.com| +268 2404 6420 | 4th Floor North Wing, Sibekelo Building, Mhlambanyatsi Road | P.O Box 2652, Mbabane"
+    },
+    "royal villas": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Hotel and leisure resort | www.royalvillas.co.sz | +268 2416 7035/2042 | Manzini Old Road, Behind MTN Golf Park, Nthsakabili Road, Ezulwini | P.O. Box 511, Ezulwini"
+    },
+    "afrisam swaziland": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Cement manufacturing | www.afrisam.co.za | +268 2518 7078 | Plot 104/05, 9th Street, Matsapha Industrial Site | P.O. Box 653,Manzini"
+    },
+    "afrisam eswatini": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Cement manufacturing | www.afrisam.co.za | +268 2518 7078 | Plot 104/05, 9th Street, Matsapha Industrial Site | P.O. Box 653,Manzini"
+    },
+    "afrisam": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Cement manufacturing | www.afrisam.co.za | +268 2518 7078 | Plot 104/05, 9th Street, Matsapha Industrial Site | P.O. Box 653,Manzini"
+    },
+    "swazi oxyggen": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Industrial and medical gases and welding products | +268 2518 4244 | King Sobhuza II Avenue ,Matsapha Industrial Site | P.O. Box 1351, Manzini"
+    },
+    "swazi oxygen": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Industrial and medical gases and welding products | +268 2518 4244 | King Sobhuza II Avenue ,Matsapha Industrial Site | P.O. Box 1351, Manzini"
+    },
+    "afrox": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Industrial and medical gases and welding products | +268 2518 4244 | King Sobhuza II Avenue ,Matsapha Industrial Site | P.O. Box 1351, Manzini"
+    },
+    "apollo": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Printing and Stationery | +268 2404 2711/ 8016 | Siquca Cresent, Mbabane Industrial Site | P.O. Box 35, Mbabane"
+    },
+    "arrowfeeds": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Animal feed manufacturers | +268 2518 6300/ 4643 | King Mswati 111 , Avenue West, Matsapha | P.O. Box 474, Matsapha"
+    },
+    "atlanta products": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Sugar packing | +268 2518 7979/80 | Lot 860 Usuthu Crescent Matsapha Industrial Site Matsapha | P.O. Box 1828, Matsapha"
+    },
+    "atlanta": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Sugar packing | +268 2518 7979/80 | Lot 860 Usuthu Crescent Matsapha Industrial Site Matsapha | P.O. Box 1828, Matsapha"
+    },
+    "barrat board": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Furniture manufacturers | +268 2422 1201/1840 | Plot 1010 Litsemba Street, Sidwashini Industrial Site | P.O. Box 461, Mbabane"
+    },
+    "black mamba foods": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturing & Processing | blackmambachilli.com | +268 350 23 499 | Plot 675 7th Street Matsapha | D86 The Gables"
+    },
+    "clover swaziland": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Dairy and allied food products | +268 2518 4957/9 | Lot 511, King Mswati 111 Avenue Matsapha Industrial Site | P.O. Box 1896, Manzini"
+    },
+    "clover eswatini": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Dairy and allied food products | +268 2518 4957/9 | Lot 511, King Mswati 111 Avenue Matsapha Industrial Site | P.O. Box 1896, Manzini"
+    },
+    "clover": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Dairy and allied food products | +268 2518 4957/9 | Lot 511, King Mswati 111 Avenue Matsapha Industrial Site | P.O. Box 1896, Manzini"
+    },
+    "conco": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of soft drinks concentrate | +268 2517 1010 | Lot 476, Conco Crescent, Matsapha Ind. Site | P.O. Box 2040, Manzini"
+    },
+    "dd williamson": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of natural colouring | www.ddwcolour.com | +268 2518 4869 | Smithco Industrial Park, King Mswati III Ave, Plot 471 Matsapha Ind Site | P.O. Box 1084, Matsapha M202"
+    },
+    "dulux swaziland": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Paint manufacturing and distribution | www.akzonobel.com/www.dulux.com | +268 2518 4091/5041 | 10th Street, Matsapha Industrial Site | P.O. Box 1020, Matsapha"
+    },
+    "dulux eswatini": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Paint manufacturing and distribution | www.akzonobel.com/www.dulux.com | +268 2518 4091/5041 | 10th Street, Matsapha Industrial Site | P.O. Box 1020, Matsapha"
+    },
+    "dulux": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Paint manufacturing and distribution | www.akzonobel.com/www.dulux.com | +268 2518 4091/5041 | 10th Street, Matsapha Industrial Site | P.O. Box 1020, Matsapha"
+    },
+    "dyson & lincoln": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Sugar packing and wholesalers | +268 2343 4137 | Plot 2 Jacaranda Avenue,Siteki | P.O. Box 69, Siteki L300"
+    },
+    "dyson and lincoln": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Sugar packing and wholesalers | +268 2343 4137 | Plot 2 Jacaranda Avenue,Siteki | P.O. Box 69, Siteki L300"
+    },
+    "elcor": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Supply of gas and related equipment | +268 2518 7596 | Corner 9th & 1st Street, Matsapha"
+    },
+    "eswatini beverages": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of beverages | +268 2518 6033 | King Sobhuza 11 Avenue, Matsapha Ind Site | P.O. Box 100, Matsapha"
+    },
+    "exipro": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of plumbing wear | +268 2518 5537 | Plot 93,1st Avenue Matsapha | P.O. Box 1255, Matsapha"
+    },
+    "global paints": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Paint manufacturers | +268 2518 5797/5835 | Plot 244,King Mswati 111,Avenue,Matsapha | P.O. Box 1603, Matsapha"
+    },
+    "infraset": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of concrete products | www.infraset.com | +268 2518 4263 | Matsapha Industrial Sites | P.O. Box 2140, Manzini"
+    },
+    "macmillan": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Publishers and distributors of school or educational books | www.macmillan.co.sz | +268 2518 4533 | Plot 230/231, 1st Avenue Matsapha, Industrial Site | P.O. Box 1235, Manzini"
+    },
+    "macsteel": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturing & Processing | +268 2518 4235/4625/4381 | Matsapha Industrial Site | P.O. Box 1700, Matsapha M202"
+    },
+    "mananga sugar packers": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Sugar Packers | +268 2313-6000/6103/6104 | Mhlume Factory | P.O. Box 225, Mhlume"
+    },
+    "mondelez": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufactureres of confectionery | +268 2518 6030/6168 | Matsapha Industrial Estate 12th St | P.O. Box 679, Matsapha"
+    },
+    "ngwane mills": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Wheat milling services and manufacturing of maize meal products | +268 2518 5510/5487 | King Mswati III Ave West Matsapha | P.O. Box 1169"
+    },
+    "ngwenya glass": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Hand-made glass-ware | www.ngwenyaglass.co.sz | +268 2442 4053 | Industrial Estate, Ngwenya | P.O. Box 45, Ngwenya"
+    },
+    "parmalat": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturing and distribution of dairy products | www.parmalat.co.za | +268 2518 4411 | Lot 447,10th Street, Matsapha Industrial Site | P.O. Box 1789, Manzini"
+    },
+    "premier swazi": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Milling, bakeries, confectionery | www.premierfmcg.com | +268 2518 7451 | King Mswati III Ave W, Matsapha, Swaziland | P.O. Box 131, Manzini M200"
+    },
+    "printpak": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Commercial printers | +268 2404 6405 | Suite C, Printpak Square ,Portion 821/2 Sheffield Road, Mbabane | P.O. Box A420, Swazi Plaza"
+    },
+    "rhodes food": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Producers of canned fruits | www.rhodesfoodgroup.com | +268 2528 3001/2 | Mahlanya-Bhunya Main Road, Malkerns | P.O. Box 77, Malkerns"
+    },
+    "starpaint": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers and retailers of paint | www.starpaint.co.za | +268 2518 6200/7797 | Plot 179,1st Street Mbabane | P.O. Box 152, Matsapha"
+    },
+    "stonewood": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of kitchen fittings | +268 2422 0046 | Plot 1010, Litsemba Street, Sidvwashini Industrial Sites | P.O. Box 2901, Mbabane"
+    },
+    "swazi mahewu": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of emahewu | +268 2518 7000 | P.O. Box 2111, Matsapha"
+    },
+    "eswatini mahewu": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of emahewu | +268 2518 7000 | P.O. Box 2111, Matsapha"
+    },
+    "swazi plastic": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Plastic packaging | www.gungle.co.za | +268 2518 4546/7 | Stand 138, Ist Avenue, Matsapha Industrial Site | P.O. Box 97, Matsapha"
+    },
+    "eswatini plastic": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Plastic packaging | www.gungle.co.za | +268 2518 4546/7 | Stand 138, Ist Avenue, Matsapha Industrial Site | P.O. Box 97, Matsapha"
+    },
+    "swazi poultry": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Chicken production | +268 2518 7147/8 | Lot 579, Usuthu Crescent, Matsapha Ind. Site | P.O. Box 1125, Mbabane"
+    },
+    "eswatini poultry": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Chicken production | +268 2518 7147/8 | Lot 579, Usuthu Crescent, Matsapha Ind. Site | P.O. Box 1125, Mbabane"
+    },
+    "swazi wire": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturing of fabricated metal products | www.swaziwire.co.sz | +268 2518 4010 | Plot No. 224, Matsapha Industrial Site | P.O. Box 9, Matsapha"
+    },
+    "eswatini wire": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturing of fabricated metal products | www.swaziwire.co.sz | +268 2518 4010 | Plot No. 224, Matsapha Industrial Site | P.O. Box 9, Matsapha"
+    },
+    "swaziland meat": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Meat processing | +268 2518 4006/9 | 1st Avenue Matsapha | P.O. Box 446, Manzini"
+    },
+    "eswatini meat": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Meat processing | +268 2518 4006/9 | 1st Avenue Matsapha | P.O. Box 446, Manzini"
+    },
+    "unifoods": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Food products | +268 2518 5555 | King Mswati 111 Avenue Matsapha | P. O. Box 357, Matsapha"
+    },
+    "vicker": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Manufacturers of builders' tools, brick towels and plastering towels | www.vicker-tools.co.sz | +268 7602 5364 | Plot 41, Dumpsite Rd Mpolonjeni,Mbabane | P.O. Box 4675, Mbabane"
+    },
+    "yebo art": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": "Creative consultancy, corporate art design work | +268 2416 2984 | Mpumalanga Road, Ezulwini | P.O. Box H126, Ezulwini"
+    },
+    "": {
+        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+        "description": ""
     }
 }
