@@ -1864,5 +1864,349 @@
     "how are you": {
         "name": "As always, I am great",
         "description": "any enquiry you need assistance with?"
+    },
+    "lodge": {
+        "name": "Organizations that provide that service are",
+        "description": "Phophonyane Lodge, Willows Lodge, Mantenga Lodge"
+    },
+    "game reserve": {
+        "name": "Organizations that provide that service are",
+        "description": "Phophonyane Lodge and Nature Reserve"
+    },
+    "nature reserve": {
+        "name": "Organizations that provide that service are",
+        "description": "Phophonyane Lodge and Nature Reserve"
+    },
+    "restuarant": {
+        "name": "Organizations that provide that service are",
+        "description": "Willows Lodge, Mantenga Lodge"
+    },
+    "restaurant": {
+        "name": "Organizations that provide that service are",
+        "description": "Willows Lodge, Mantenga Lodge"
+    },
+    "conference": {
+        "name": "Organizations that provide that service are",
+        "description": "Willows Lodge, Mantenga Lodge, Sibane Hotel"
+    },
+    "resort": {
+        "name": "Organizations that provide that service are",
+        "description": "Royal Villas"
+    },
+    "cement": {
+        "name": "Organizations that provide that service are",
+        "description": "Afrisam"
+    },
+    "welding": {
+        "name": "Organizations that provide that service are",
+        "description": "Afrox, Swazi Oxyggen"
+    },
+    "printing": {
+        "name": "Organizations that provide that service are",
+        "description": "Apollo"
+    },
+    "stationery": {
+        "name": "Organizations that provide that service are",
+        "description": "Apollo, All Stationery"
+    },
+    "packing": {
+        "name": "Organizations that provide that service are",
+        "description": "Dyson & Lincoln, Atlanta Products"
+    },
+    "paint": {
+        "name": "Organizations that provide that service are",
+        "description": "Global Paints, Starpaint"
+    },
+    "gas": {
+        "name": "Organizations that provide that service are",
+        "description": "Elcor Industries, Afrox, Swazi Oxyggen"
+    },
+    "concrete": {
+        "name": "Organizations that provide that service are",
+        "description": "Infraset"
+    },
+    "books": {
+        "name": "Organizations that provide that service are",
+        "description": "Macmillan"
+    },
+    "glass": {
+        "name": "Organizations that provide that service are",
+        "description": "Plate Glass Swaziland, Ngwenya Glass"
+    },
+    "bakery": {
+        "name": "Organizations that provide that service are",
+        "description": "Premier Swazi"
+    },
+    "printers": {
+        "name": "Organizations that provide that service are",
+        "description": "Printpak, Apollo"
+    },
+    "fruit": {
+        "name": "Organizations that provide that service are",
+        "description": "Rhodes Food Group, Swaziland Citrus Board"
+    },
+    "fruits": {
+        "name": "Organizations that provide that service are",
+        "description": "Rhodes Food Group, Swaziland Citrus Board"
+    },
+    "fittings": {
+        "name": "Organizations that provide that service are",
+        "description": "Stonewood Creations"
+    },
+    "fitting": {
+        "name": "Organizations that provide that service are",
+        "description": "Stonewood Creations"
+    },
+    "plastic": {
+        "name": "Organizations that provide that service are",
+        "description": "Swazi Plastic Industries"
+    },
+    "metal": {
+        "name": "Organizations that provide that service are",
+        "description": "Macsteel Eswatini, Swazi Wire Industries, Sdudla Engineering / SBM Enterprises"
+    },
+    "steel": {
+        "name": "Organizations that provide that service are",
+        "description": "Macsteel Eswatini, Swazi Wire Industries, Sdudla Engineering / SBM Enterprises"
+    },
+    "meat": {
+        "name": "Organizations that provide that service are",
+        "description": "Swaziland Meat Industries"
+    },
+    "brick": {
+        "name": "Organizations that provide that service are",
+        "description": "Vicker Swaziland"
+    },
+    "bricks": {
+        "name": "Organizations that provide that service are",
+        "description": "Vicker Swaziland"
+    },
+    "plaster": {
+        "name": "Organizations that provide that service are",
+        "description": "Vicker Swaziland"
+    },
+    "plasting": {
+        "name": "Organizations that provide that service are",
+        "description": "Vicker Swaziland"
+    },
+    "social work": {
+        "name": "Organizations that provide that service are",
+        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS)"
+    },
+    "accounting": {
+        "name": "Organizations that provide that service are",
+        "description": "A M Consultancy, Kobla Quashie & Associates, KPMG, Pricewaterhouse Coopers (PWC)"
+    },
+    "recruitment": {
+        "name": "Organizations that provide that service are",
+        "description": "The Team Recruitment, A M Recruitment Services (Pty) Ltd"
+    },
+    "architect": {
+        "name": "Organizations that provide that service are",
+        "description": "Architects International, Building Design Group Swaziland, Steve Hall Development Consultants (Pty) Ltd"
+    },
+    "architects": {
+        "name": "Organizations that provide that service are",
+        "description": "Architects International, Building Design Group Swaziland, Steve Hall Development Consultants (Pty) Ltd"
+    },
+    "architecture": {
+        "name": "Organizations that provide that service are",
+        "description": "Architects International, Building Design Group Swaziland, Steve Hall Development Consultants (Pty) Ltd"
+    },
+    "consulting": {
+        "name": "Organizations that provide that service are",
+        "description": "Swaziland Consulting Engineers Inc, Xpedia Consulting (Pty) Ltd, Bicon Consulting Engineers "
+    },
+    "auditor": {
+        "name": "Organizations that provide that service are",
+        "description": "Kobla Quashie & Associates, KPMG"
+    },
+    "auditors": {
+        "name": "Organizations that provide that service are",
+        "description": "Kobla Quashie & Associates, KPMG"
+    },
+    "chartered accountants": {
+        "name": "Organizations that provide that service are",
+        "description": "Pricewaterhouse Coopers (PWC)"
+    },
+    "accountant": {
+        "name": "Organizations that provide that service are",
+        "description": "A M Consultancy, Kobla Quashie & Associates, KPMG, Pricewaterhouse Coopers (PWC)"
+    },
+    "surveyor": {
+        "name": "Organizations that provide that service are",
+        "description": "Manyatsi Nhleko Quantity Surveyors, Maphanga Mitchell & Associates"
+    },
+    "surveying": {
+        "name": "Organizations that provide that service are",
+        "description": "Manyatsi Nhleko Quantity Surveyors, Maphanga Mitchell & Associates"
+    },
+    "civil engineering": {
+        "name": "Organizations that provide that service are",
+        "description": "Swaziland Consulting Engineers Inc, Kukhanya Civil Engineering Contractors"
+    },
+    "civil engineer": {
+        "name": "Organizations that provide that service are",
+        "description": "Swaziland Consulting Engineers Inc, Kukhanya Civil Engineering Contractors"
+    },
+    "wholesale": {
+        "name": "Organizations that provide that service are",
+        "description": "Dyson & Lincoln (Pty) Ltd, Afritool, All Stationery (Pty)Ltd, British American Tobacco, Buy & Save Supermarket, Furniture Warehouse / CJ Trading, Pansolutions, Dynamic Distributors (Pty) Ltd, Hoageys Ltd, Matsapha Trading Company, Ocean Fresh Import & Export, Ocean Traders International (Pty) Ltd, Plate Glass Swaziland, Swaziland Agricultural Supplies, Swaziland Liquor Distributors-Distell SD, Tri-Star Swaziland, Swaziland Supply Centre, Baobab-Batik, Swazi Pharm Wholesalers (Pty) Ltd    "
+    },
+    "investment": {
+        "name": "Organizations that provide that service are",
+        "description": "Stanlib Swaziland, Select Management Services, Inhlonhla"
+    },
+    "investments": {
+        "name": "Organizations that provide that service are",
+        "description": "Stanlib Swaziland, Select Management Services, Inhlonhla"
+    },
+    "hospital": {
+        "name": "Organizations that provide that service are",
+        "description": "Eswatini Nazarene Health Institute, Good Shepherd Hospital"
+    },
+    "medical": {
+        "name": "Organizations that provide that service are",
+        "description": "MSO Eswatini Pty Ltd, Medisun Clinic, Lancet Laboratories, Medecins Sans Frontieres, Swaziland Medical Aid Fund (SwaziMed), Medscheme Administrators (Pty) Ltd, Healthcare Insurance Brokers"
+    },
+    "clinic": {
+        "name": "Organizations that provide that service are",
+        "description": "Medisun Clinic, Mkhiwa Clinic, The Clinic Group (Pty) Ltd "
+    },
+    "pharmacy": {
+        "name": "Organizations that provide that service are",
+        "description": "Mbabane Pharmacy, Swazi Pharm Wholesalers (Pty) Ltd"
+    },
+    "pharmaceutical": {
+        "name": "Organizations that provide that service are",
+        "description": "Swazi Pharm Wholesalers (Pty) Ltd, Mbabane Pharmacy"
+    },
+    "newspaper": {
+        "name": "Organizations that provide that service are",
+        "description": "Times of Swaziland, The Swazi Observer (Pty) Ltd"
+    },
+    "repair": {
+        "name": "Organizations that provide that service are",
+        "description": "Macnabs Refrigeration (Pty) Ltd, Gallagher Electrical (Pty) Ltd, Netcomm Swaziland, V & H Surgical & Patient Care"
+    },
+    "computers": {
+        "name": "Organizations that provide that service are",
+        "description": "PC Sytems, Pansolutions, Copier Corporation, Netcomm Swaziland"
+    },
+    "internet": {
+        "name": "Organizations that provide that service are",
+        "description": "Real Image Internet"
+    },
+    "motor dealers": {
+        "name": "Organizations that provide that service are",
+        "description": "Kia Motors, Mbabane Motors Ltd, Swaziland Earthmoving Equipment"
+    },
+    "motor dealer": {
+        "name": "Organizations that provide that service are",
+        "description": "Kia Motors, Mbabane Motors Ltd, Swaziland Earthmoving Equipment"
+    },
+    "dealer": {
+        "name": "Organizations that provide that service are",
+        "description": "Kia Motors, Mbabane Motors Ltd, Swaziland Earthmoving Equipment"
+    },
+    "property valuation": {
+        "name": "Organizations that provide that service are",
+        "description": "Mbabane Estate Agents"
+    },
+    "panel beater": {
+        "name": "Organizations that provide that service are",
+        "description": "Capital Motor Corporation"
+    },
+    "panel beaters": {
+        "name": "Organizations that provide that service are",
+        "description": "Capital Motor Corporation"
+    },
+    "panel beating": {
+        "name": "Organizations that provide that service are",
+        "description": "Capital Motor Corporation"
+    },
+    "office equipment": {
+        "name": "Organizations that provide that service are",
+        "description": "Copier Corporation, Pansolutions"
+    },
+    "council": {
+        "name": "Organizations that provide that service are",
+        "description": "Manzini City Council, Municipal Council of Mbabane, Pigg’s Peak Town Council, Swaziland National Sports Council"
+    },
+    "electrical": {
+        "name": "Organizations that provide that service are",
+        "description": "Gallagher Electrical (Pty) Ltd, A J Electrical Ltd, Mormond Electrical Contractors Ltd, Hoageys Ltd"
+    },
+    "electricity": {
+        "name": "Organizations that provide that service are",
+        "description": "Gallagher Electrical (Pty) Ltd, A J Electrical Ltd, Mormond Electrical Contractors Ltd, Hoageys Ltd"
+    },
+    "security": {
+        "name": "Organizations that provide that service are",
+        "description": "Guard Alert / Radio Link Security, Swazi Tronix (Pty) Ltd"
+    },
+    "courier": {
+        "name": "Organizations that provide that service are",
+        "description": "DHL Swaziland, Interfreight (Pty) Ltd"
+    },
+    "airline": {
+        "name": "Organizations that provide that service are",
+        "description": "Airlink Swaziland (Pty) Ltd"
+    },
+    "aluminium": {
+        "name": "Organizations that provide that service are",
+        "description": "Alusol Swaziland"
+    },
+    "granite": {
+        "name": "Organizations that provide that service are",
+        "description": "Alusol Swaziland"
+    },
+    "asphalt": {
+        "name": "Organizations that provide that service are",
+        "description": "A G Thomas"
+    },
+    "interior design": {
+        "name": "Organizations that provide that service are",
+        "description": "Construction Logistics (Pty) Ltd, Isolution"
+    },
+    "quarry": {
+        "name": "Organizations that provide that service are",
+        "description": "Kwalini (Pty) Ltd"
+    },
+    "chickens": {
+        "name": "Organizations that provide that service are",
+        "description": "Africa Chicks"
+    },
+    "poultry": {
+        "name": "Organizations that provide that service are",
+        "description": "Scotts Ranch"
+    },
+    "animal feed": {
+        "name": "Organizations that provide that service are",
+        "description": "Swaki Investment Corporation (Pty) Ltd, Arrowfeeds Ltd, Eagle’s Nest (Pty) Ltd"
+    },
+    "eggs": {
+        "name": "Organizations that provide that service are",
+        "description": "Eagle’s Nest"
+    },
+    "egg": {
+        "name": "Organizations that provide that service are",
+        "description": "Eagle’s Nest"
+    },
+    "dairy": {
+        "name": "Organizations that provide that service are",
+        "description": "Eswatini Dairy Board"
+    },
+    "farming": {
+        "name": "Organizations that provide that service are",
+        "description": "Hurlingham Sugar Estate, Mafutseni Ranch, NAMBOARD"
+    },
+    "maize": {
+        "name": "Organizations that provide that service are",
+        "description": "National Maize Corporation"
+    },
+    "your day": {
+        "name": "Nothing much",
+        "description": "Just on standby in case you needed my assistance"
     }
 }
