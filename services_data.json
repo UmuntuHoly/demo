@@ -1844,5 +1844,9 @@
     "suku": {
         "name": "",
         "description": "How can I help?"
+    },
+    "how are you": {
+        "name": "As always, I am great",
+        "description": "any enquiry you need assistance with?"
     }
 }
