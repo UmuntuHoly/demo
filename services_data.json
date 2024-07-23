@@ -305,6 +305,10 @@
         "name": "Organizations that provide that service are",
         "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
     },
+    "funeral parlor": {
+        "name": "Organizations that provide that service are",
+        "description": "Dups Holdings, Ekhaya Funeral Services"
+    },
     "insurance": {
         "name": "Organizations that provide that service are",
         "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
@@ -312,6 +316,18 @@
     "brokage": {
         "name": "Organizations that provide that service are",
         "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
+    },
+    "medical aid": {
+        "name": "Organizations that provide that service are",
+        "description": "Healthcare Insurance Brokers, Medscheme Administrators (Pty) Ltd, Swaziland Medical Aid Fund (SwaziMed)"
+    },
+    "retirement": {
+        "name": "Organizations that provide that service are",
+        "description": "Metropolitan Life Swaziland, Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
+    },
+    "pension": {
+        "name": "Organizations that provide that service are",
+        "description": "Metropolitan Life Swaziland, Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
     },
     "agriculture": {
         "name": "Organizations that provide that service are",
