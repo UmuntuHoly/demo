@@ -403,43 +403,59 @@
     },
     "local retirement funds": {
         "name": "Local Retirement Funds (1/7)",
-        "description": "Central Bank of Eswatini Pension Fund, City Council of Mbabane Employee Pension Fund, City Council of Mbabane Pension and Group Life Assurance Scheme, Conco Limited (SD Branch) Provident Fund, ESRIC Preservation Pension Fund, ESRIC Preservation Provident Fund, ESRIC Staff Pension Fund, ESRIC Umbrella Provident Fund, Eswatini Bank Pension Fund...Type 'View Retirement 2' to view more "
+        "description": "Central Bank of Eswatini Pension Fund, City Council of Mbabane Employee Pension Fund, City Council of Mbabane Pension and Group Life Assurance Scheme, Conco Limited (SD Branch) Provident Fund, ESRIC Preservation Pension Fund, ESRIC Preservation Provident Fund, ESRIC Staff Pension Fund, ESRIC Umbrella Provident Fund, Eswatini Bank Pension Fund...Type 'View local 2' to view more "
     },
     "local retirement fund": {
         "name": "Local Retirement Funds (1/7)",
-        "description": "Central Bank of Eswatini Pension Fund, City Council of Mbabane Employee Pension Fund, City Council of Mbabane Pension and Group Life Assurance Scheme, Conco Limited (SD Branch) Provident Fund, ESRIC Preservation Pension Fund, ESRIC Preservation Provident Fund, ESRIC Staff Pension Fund, ESRIC Umbrella Provident Fund, Eswatini Bank Pension Fund...Type 'View Retirement 2' to view more "
+        "description": "Central Bank of Eswatini Pension Fund, City Council of Mbabane Employee Pension Fund, City Council of Mbabane Pension and Group Life Assurance Scheme, Conco Limited (SD Branch) Provident Fund, ESRIC Preservation Pension Fund, ESRIC Preservation Provident Fund, ESRIC Staff Pension Fund, ESRIC Umbrella Provident Fund, Eswatini Bank Pension Fund...Type 'View local 2' to view more "
     },
-    "view retirement 2": {
+    "view local 1": {
+        "name": "Local Retirement Funds (1/7)",
+        "description": "Central Bank of Eswatini Pension Fund, City Council of Mbabane Employee Pension Fund, City Council of Mbabane Pension and Group Life Assurance Scheme, Conco Limited (SD Branch) Provident Fund, ESRIC Preservation Pension Fund, ESRIC Preservation Provident Fund, ESRIC Staff Pension Fund, ESRIC Umbrella Provident Fund, Eswatini Bank Pension Fund...Type 'View local 2' to view more "
+    },
+    "view local 2": {
         "name": "More Local Retirement Funds (2/7)",
-        "description": "Eswatini Civil Aviation Authority Provident Fund, Eswatini Electricity Company Pension Fund, Eswatini National Provident Fund, Eswatini National Provident Fund Staff Pension Scheme, Eswatini Nazarene Health Institutions Staff Pension Fund, Eswatini Observer Provident Fund, Eswatini Post & Telecommunications Corporation Pension Fund...Type 'View Retirement 3' to view more"
+        "description": "Eswatini Civil Aviation Authority Provident Fund, Eswatini Electricity Company Pension Fund, Eswatini National Provident Fund, Eswatini National Provident Fund Staff Pension Scheme, Eswatini Nazarene Health Institutions Staff Pension Fund, Eswatini Observer Provident Fund, Eswatini Post & Telecommunications Corporation Pension Fund...Type 'View local 3' to view more"
     },
-    "view retirement 3": {
+    "view local 3": {
         "name": "More Local Retirement Funds (3/7)",
-        "description": "Eswatini Railway Pension Fund, Eswatini Railway Provident Fund, Eswatini Revenue Authority Pension Fund, Eswatini Revenue Authority Provident Fund, Eswatini Sugar Association Staff Provident Fund, Eswatini Television Authority Pension Fund, Eswatini Water Service Corporation Pension Fund, Exams Council Pension Fund...Type 'View Retirement 4' to view more"
+        "description": "Eswatini Railway Pension Fund, Eswatini Railway Provident Fund, Eswatini Revenue Authority Pension Fund, Eswatini Revenue Authority Provident Fund, Eswatini Sugar Association Staff Provident Fund, Eswatini Television Authority Pension Fund, Eswatini Water Service Corporation Pension Fund, Exams Council Pension Fund...Type 'View local 4' to view more"
     },
-    "view retirement 4": {
+    "view local 4": {
         "name": "More Local Retirement Funds (4/7)",
-        "description": "First National Bank of Swaziland Pension Fund, FSRA Staff Provident Fund, Institute of Development Management Pension Fund Eswatini, Inyatsi Provident Fund, Lilunga Umbrella Pension Fund, Ludziwo Umbrella Provident Fund, M.V.A Staff Pension Fund, Mananga Provident Fund, Mbabane Hotels Provident Fund, Members of Parliament & Designated Office Bearers Pension Fund...Type 'View Retirement 5' to view more"
+        "description": "First National Bank of Swaziland Pension Fund, FSRA Staff Provident Fund, Institute of Development Management Pension Fund Eswatini, Inyatsi Provident Fund, Lilunga Umbrella Pension Fund, Ludziwo Umbrella Provident Fund, M.V.A Staff Pension Fund, Mananga Provident Fund, Mbabane Hotels Provident Fund, Members of Parliament & Designated Office Bearers Pension Fund...Type 'View local 5' to view more"
     },
-    "view retirement 5": {
+    "view local 5": {
         "name": "More Local Retirement Funds (5/7)",
-        "description": "Municipal Council of Manzini Staff Pension Fund, Namboard Pension Fund, NedBank (Swaziland) Limited Pension Fund, Nhlangano Town Council Pension Fund, Non-Governmental Health Sector Pension Fund, Old Mutual Lihawu Umbrella Pension Fund, Old Mutual Lihawu Umbrella Provident Fund, Premier Swazi Bakeries Pension Fund, Public Service Pension Fund, Public Service Pension Fund Staff Pension Scheme...Type 'View Retirement 6' to view more"
+        "description": "Municipal Council of Manzini Staff Pension Fund, Namboard Pension Fund, NedBank (Swaziland) Limited Pension Fund, Nhlangano Town Council Pension Fund, Non-Governmental Health Sector Pension Fund, Old Mutual Lihawu Umbrella Pension Fund, Old Mutual Lihawu Umbrella Provident Fund, Premier Swazi Bakeries Pension Fund, Public Service Pension Fund, Public Service Pension Fund Staff Pension Scheme...Type 'View local 6' to view more"
     },
-    "view retirement 6": {
+    "view local 6": {
         "name": "More Local Retirement Funds (6/7)",
-        "description": "Rainmaker Plus Pension Umbrella Fund Swaziland, Rainmaker Plus Provident Umbrella Fund Swaziland, Royal Eswatini Sugar Corporation Provident Fund, Sebenta National Institute Pension Fund, Sibaya Umbrella Pension Fund, Sibaya Umbrella Provident Fund, Sifundzani School Provident Fund, Silulu Provident Fund, Standard Bank Eswatini Pension Fund, SWAKI Pension Fund, Swaziland Building Society Pension Fund...Type 'View Retirement 7' to view more"
+        "description": "Rainmaker Plus Pension Umbrella Fund Swaziland, Rainmaker Plus Provident Umbrella Fund Swaziland, Royal Eswatini Sugar Corporation Provident Fund, Sebenta National Institute Pension Fund, Sibaya Umbrella Pension Fund, Sibaya Umbrella Provident Fund, Sifundzani School Provident Fund, Silulu Provident Fund, Standard Bank Eswatini Pension Fund, SWAKI Pension Fund, Swaziland Building Society Pension Fund...Type 'View local 7' to view more"
     },
-    "view retirement 7": {
+    "view local 7": {
         "name": "More Local Retirement Funds (7/7)",
         "description": "Thokoza Church Centre Provident Fund, Tibiyo TakaNgwane Pension Fund, Tibiyo TakaNgwane Provident Fund, Tisuka TakaNgwane Provident Fund, Ubombo Sugar Pension Fund, Ubombo Sugar Provident Fund - Umzabalazo, Ubombo-Ingcamu Provident Fund, Umfuso Umbrella Pension Fund, Umfuso Umbrella Retirement Fund, UNESWA Pension Fund, YKK Southern Africa Factory Pension Fund"
     },
-    "": {
-        "name": "",
-        "description": ""
+    "foreign retirement funds": {
+        "name": "Foreign Retirement Funds (1/3)",
+        "description": "Ampath Trust Provident Fund, Aveng (Africa) Ltd-Infraset Pension Fund, BKB Group Retirement Fund, Crookes Brothers Pension Fund, Destiny Umbrella Provident Fund, DHL Provident Fund, Distell Retirement Fund, Engen Pension Fund, Engen Retirement Fund, FSN Southern Africa Pension Fund, Imperial Group Pension Fund, Imperial Group Provident Fund...Type 'View foreign 2' for more"
     },
-    "": {
-        "name": "",
-        "description": ""
+    "foreign retirement fund": {
+        "name": "Foreign Retirement Funds (1/3)",
+        "description": "Ampath Trust Provident Fund, Aveng (Africa) Ltd-Infraset Pension Fund, BKB Group Retirement Fund, Crookes Brothers Pension Fund, Destiny Umbrella Provident Fund, DHL Provident Fund, Distell Retirement Fund, Engen Pension Fund, Engen Retirement Fund, FSN Southern Africa Pension Fund, Imperial Group Pension Fund, Imperial Group Provident Fund...Type 'View foreign 2' for more"
+    },
+    "view foreign 1": {
+        "name": "Foreign Retirement Funds (1/3)",
+        "description": "Ampath Trust Provident Fund, Aveng (Africa) Ltd-Infraset Pension Fund, BKB Group Retirement Fund, Crookes Brothers Pension Fund, Destiny Umbrella Provident Fund, DHL Provident Fund, Distell Retirement Fund, Engen Pension Fund, Engen Retirement Fund, FSN Southern Africa Pension Fund, Imperial Group Pension Fund, Imperial Group Provident Fund...Type 'View foreign 2' for more"
+    },
+    "view foreign 2": {
+        "name": "More Foreign Retirement Funds (2/3)",
+        "description": "Investment Solutions Executive Umbrella Provident Fund, Investment Solutions Retirement Annuity Fund, Knight Piesold Staff Pension Fund, KPMG Provident Fund, Lewis Stores Provident Fund, Mr Price Group Retirement Fund, Nampak Group Pension Fund, Old Mutual Super Fund Pension Fund, Old Mutual Super Funds Provident Fund, Pannar Group Pension Fund, Pricewaterhouse Cooper Staff Provident Fund, Pricewaterhouse Coopers Directors Provident Fund...Type 'View foreign 3' for more"
+    },
+    "view foreign 3": {
+        "name": "More Foreign Retirement Funds (3/3)",
+        "description": "Retail Provident Fund, Retail Retirement Fund, Retirement-On-Line Pension Fund, Sanlam Staff Umbrella Pension Fund, Sanlam Staff Umbrella Provident Fund, Sanlam Umbrella Provident Fund, Sun International Pension Fund, Sun International Provident Fund, Infraset Provident Fund, The Preservation Pension Fund, The Preservation Provident Fund, The Provident Fund, Total South Africa Provident Fund, Umbrella Provident Fund"
     },
     "": {
         "name": "",
