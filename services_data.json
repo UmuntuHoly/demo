@@ -657,77 +657,497 @@
         "name": "Organizations that provide that service are",
         "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
     },
-    "dups": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.dupsgroup.com | +268 2505 2028 | Cnr Masalesikhundleni & Mahleka St, Opp Estel House Manzini | P.O. Box 114, Manzini"
+    "esric": {
+        "name": "ESRIC Beneficiary Fund",
+        "description": "(+268) 2404 3231/9 | Address: P.O Box 317 Mbabane | SRIC Insika House Opp Lilunga Mbabane"
     },
-    "ekhaya funeral": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "+268 2431 5328 | Msahweni Junction | P.O. Box 773, Piggs Peak"
+    "fairlife": {
+        "name": "Fairlife Benefit Services",
+        "description": "(+268) 2505 2016 | Address: P. O. Box C465 the Hub Manzini | Plot 1661, Mhlakuvane Street, Shop No: 2 Ground Floor"
     },
-    "eswatini insurance brokers": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "+268 2404 3226 | 1st Floor,Umkhiwa House, Karl Grant Street, Mbabane | P.O. Box 222, Mbabane"
+    "likhwane": {
+        "name": "Likhwane Beneficiary",
+        "description": "(+268) 2404 2628 | Address: P. O. Box 1988 Mbabane | New Mall Suite 109 Mbabane"
     },
-    "eswatini royal insurance": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.sric.sz | +268 2408 1600 | Insika House, Somhlolo Road, Mbabane | P.O. Box 917, Mbabane"
+    "amazon insurance": {
+        "name": "Amazon Insurance Brokers",
+        "description": "Address: P. O. Box 773 Manzini | Plot # 3236 Ext 8 Lenhle Proper es Building Sidvwashini"
     },
-    "financial services regulatory authority": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.fsra.co.sz | +268 2406 8000 | 2nd floor, Ingcamu building ,Mhlambanyatsi Rd, Mbabane | P.O. Box 3365, Mbabane H100"
+    "b3": {
+        "name": "B3 Group",
+        "description": "(+268) 2404 4681 / (+268) 2505 3777 | Address: P. O. Box 1242 Mbabane | Corner Station and Stores Street"
     },
-    "healthcare insurance brokers": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.corporatehealthplanners.com | +268 2404 8552 | Sudan Cottage, Emafini, Mbabane | P.O. Box 868, Mbabane H101"
+    "b3 group": {
+        "name": "B3 Group",
+        "description": "(+268) 2404 4681 / (+268) 2505 3777 | Address: P. O. Box 1242 Mbabane | Corner Station and Stores Street"
     },
-    "lidwala insurance": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.lidwalainsurance.com | +268 2505 9123 | 3rd floor, Lidlelantfongeni Building, Manzini | P.O. Box 1552, Manzini"
-    },
-    "medscheme administrators": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.medschemeswaziland.com | +268 2409 8700 | 103 Development House, Swazi Plaza | P.O. Box 3226, Mbabane"
-    },
-    "metropolitan life": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.metropolitan.co.sz | +268 2404 1369 | Lot 219 Somhlolo Road, Mbabane | P.O. Box 45, Eveni"
-    },
-    "old mutual": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
+    "": {
+        "name": "",
         "description": ""
     },
-    "patula risk": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.montigny.co.sz/patula.html | +268 2404 7850 | Mbabane Office Park | P.O. Box 6120, Mbabane"
+    "": {
+        "name": "",
+        "description": ""
     },
-    "sincephetelo motor vehicle accidents fund": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.mva.org.sz | +268 2408-6800 | SMVA Fund Office Park, Lot 3252 Mbhilibhi Street, Mbabane | P.O. Box 4239, Mbabane, H100"
+    "": {
+        "name": "",
+        "description": ""
     },
-    "mva": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.mva.org.sz | +268 2408-6800 | SMVA Fund Office Park, Lot 3252 Mbhilibhi Street, Mbabane | P.O. Box 4239, Mbabane, H100"
+    "": {
+        "name": "",
+        "description": ""
     },
-    "smvaf": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.mva.org.sz | +268 2408-6800 | SMVA Fund Office Park, Lot 3252 Mbhilibhi Street, Mbabane | P.O. Box 4239, Mbabane, H100"
+    "": {
+        "name": "",
+        "description": ""
     },
-    "swaziland medical aid fund": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.swazimed.com | +268 2405 8000 | Shop NC 101, NedBank Centre Building, Swazi Plaza, Mbabane | P.O. Box 7553, Mbabane"
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
     },
     "swazimed": {
         "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
         "description": "www.swazimed.com | +268 2405 8000 | Shop NC 101, NedBank Centre Building, Swazi Plaza, Mbabane | P.O. Box 7553, Mbabane"
-    },
-    "tibiyo insurance group": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.tig.co.sz | +268 2417 1729 | Nedbank Centre, Swazi Plaza, Mbabane | P.O. Box 1072,Mbabane H100"
-    },
-    "tibiyo": {
-        "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
-        "description": "www.tig.co.sz | +268 2417 1729 | Nedbank Centre, Swazi Plaza, Mbabane | P.O. Box 1072,Mbabane H100"
     },
     "africa chicks": {
         "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
