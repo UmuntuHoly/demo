@@ -1537,6 +1537,594 @@
         "name": "B3 Insurance",
         "description": "(+268) 2404 4681 | Address: P.O. Box 1242 Mbabane | Corner Siteshi & stores Street Mbabane, Opp. SEDCO"
     },
+    "central bank of eswatini pension fund": {
+        "name": "Central Bank of Eswatini Pension Fund",
+        "description": "(+268) 2408 2000 | Address: P. O. Box 546 Mbabane | Central Bank of Swaziland Building, Mahlokohla Street Mbabane"
+    },
+    "central bank of eswatini": {
+        "name": "Central Bank of Eswatini",
+        "description": "(+268) 2408 2000 | Address: P. O. Box 546 Mbabane | Central Bank of Swaziland Building, Mahlokohla Street Mbabane"
+    },
+    "central bank": {
+        "name": "Central Bank of Eswatini",
+        "description": "(+268) 2408 2000 | Address: P. O. Box 546 Mbabane | Central Bank of Swaziland Building, Mahlokohla Street Mbabane"
+    },
+    "city council of mbabane employee pension fund": {
+        "name": "City Council of Mbabane Employee Pension Fund",
+        "description": "(+268) 2409 7000 | Address: P. O. Box 1 Mbabane | Mahlokohla Street, Civic Building Mbabane"
+    },
+    "city council of mbabane pension and group life assurance scheme": {
+        "name": "City Council of Mbabane Pension and Group Life Assurance Scheme",
+        "description": "(+268) 2409 7000 | Address: P. O. Box 1 Mbabane | Mahlokohla Street, Civic Building Mbabane"
+    },
+    "conco limited (SD Branch) provident fund": {
+        "name": "Conco Limited (SD Branch) Provident Fund",
+        "description": "(+268) 2517 1000 | Address: P.O. Box 2040 Mbabane | Plot 476, Conco Crescent Matsapha"
+    },
+    "conco limited provident fund": {
+        "name": "Conco Limited (SD Branch) Provident Fund",
+        "description": "(+268) 2517 1000 | Address: P.O. Box 2040 Mbabane | Plot 476, Conco Crescent Matsapha"
+    },
+    "esric preservation pension fund": {
+        "name": "ESRIC Preservation Pension Fund",
+        "description": "(+268) 2404 3231 | Address: P. O. Box 917 Mbabane | SRIC Insika House Somhlolo Rd Mbabane"
+    },
+    "esric preservation pension": {
+        "name": "ESRIC Preservation Pension Fund",
+        "description": "(+268) 2404 3231 | Address: P. O. Box 917 Mbabane | SRIC Insika House Somhlolo Rd Mbabane"
+    },
+    "esric staff pension fund": {
+        "name": "ESRIC Staff Pension Fund",
+        "description": "(+268) 2404 3231 | Address: P. O. Box 917 Mbabane | 3rd Floor, Lilunga House Somhlolo Rd Mbabane"
+    },
+    "esric staff pension": {
+        "name": "ESRIC Staff Pension Fund",
+        "description": "(+268) 2404 3231 | Address: P. O. Box 917 Mbabane | 3rd Floor, Lilunga House Somhlolo Rd Mbabane"
+    },
+    "esric umbrella provident fund": {
+        "name": "ESRIC Umbrella Provident Fund",
+        "description": "(+268) 2404 3231 | Address: P. O. Box 917 Mbabane | SRIC Insika House Somhlolo Rd Mbabane"
+    },
+    "esric umbrella provident": {
+        "name": "ESRIC Umbrella Provident Fund",
+        "description": "(+268) 2404 3231 | Address: P. O. Box 917 Mbabane | SRIC Insika House Somhlolo Rd Mbabane"
+    },
+    "eswatini bank pension fund": {
+        "name": "Eswatini Bank Pension Fund",
+        "description": "(+268) 2409 5000 | Address: P.O Box 336 Mbabane | Gwamile and Engungwini Building Mbabane Swaziland"
+    },
+    "eswatini bank pension": {
+        "name": "Eswatini Bank Pension Fund",
+        "description": "(+268) 2409 5000 | Address: P.O Box 336 Mbabane | Gwamile and Engungwini Building Mbabane Swaziland"
+    },
+    "eswatini civil aviation authority provident fund": {
+        "name": "Eswatini Civil Aviation Authority Provident Fund",
+        "description": "(+268) 2404 6617 | Address: P. O. Box D361 The Gables | Matsapha International Airport, Swaziland"
+    },
+    "civil aviation authority provident": {
+        "name": "Eswatini Civil Aviation Authority Provident Fund",
+        "description": "(+268) 2404 6617 | Address: P. O. Box D361 The Gables | Matsapha International Airport, Swaziland"
+    },
+    "eswatini electricity company pension fund": {
+        "name": "Eswatini Electricity Company Pension Fund",
+        "description": "(+268) 2409 4000 | Address: P. O. Box 258 Mbabane | Eluvatsini House Mhlambanyatsi Rd Mbabane"
+    },
+    "electricity company pension": {
+        "name": "Eswatini Electricity Company Pension Fund",
+        "description": "(+268) 2409 4000 | Address: P. O. Box 258 Mbabane | Eluvatsini House Mhlambanyatsi Rd Mbabane"
+    },
+    "eswatini national provident fund": {
+        "name": "Eswatini National Provident Fund",
+        "description": "(+268) 2508 2000 | Address: P. O. Box 1857, Manzini"
+    },
+    "national provident fund": {
+        "name": "Eswatini National Provident Fund",
+        "description": "(+268) 2508 2000 | Address: P. O. Box 1857, Manzini"
+    },
+    "eswatini national provident fund staff pension scheme": {
+        "name": "Eswatini National Provident Fund Staff Pension Scheme",
+        "description": "(+268) 2508 2000 | Address: P. O. Box 1857 Manzini | Lindlelantfongeni Building, Corner Ngwane & Martin Street"
+    },
+    "national provident fund staff pension scheme": {
+        "name": "Eswatini National Provident Fund Staff Pension Scheme",
+        "description": "(+268) 2508 2000 | Address: P. O. Box 1857 Manzini | Lindlelantfongeni Building, Corner Ngwane & Martin Street"
+    },
+    "eswatini nazarene health institutions staff pension fund": {
+        "name": "Eswatini Nazarene Health Institutions Staff Pension Fund",
+        "description": "(+268) 2508 4000 | Address: P.O Box 14 Manzini | Dr David Hynd Rd, Manzini Eswatini"
+    },
+    "nazarene health institutions staff pension": {
+        "name": "Eswatini Nazarene Health Institutions Staff Pension Fund",
+        "description": "(+268) 2508 4000 | Address: P.O Box 14 Manzini | Dr David Hynd Rd, Manzini Eswatini"
+    },
+    "nazarene health institution staff pension": {
+        "name": "Eswatini Nazarene Health Institutions Staff Pension Fund",
+        "description": "(+268) 2508 4000 | Address: P.O Box 14 Manzini | Dr David Hynd Rd, Manzini Eswatini"
+    },
+    "eswatini observer provident fund": {
+        "name": "Eswatini Observer Provident Fund",
+        "description": "(+268) 2404 9600 | Address: P. O. Box A385 Swazi Plaza | Observer House, Betfusile Street, Mbabane"
+    },
+    "swazi observer provident fund": {
+        "name": "Eswatini Observer Provident Fund",
+        "description": "(+268) 2404 9600 | Address: P. O. Box A385 Swazi Plaza | Observer House, Betfusile Street, Mbabane"
+    },
+    "observer provident": {
+        "name": "Eswatini Observer Provident Fund",
+        "description": "(+268) 2404 9600 | Address: P. O. Box A385 Swazi Plaza | Observer House, Betfusile Street, Mbabane"
+    },
+    "eswatini post & telecommunications corporation pension fund": {
+        "name": "Eswatini Post & Telecommunications Corporation Pension Fund",
+        "description": "(+268) 2505 2000 | Address: P. O. Box 125 Mbabane | Phutfumani Building, Mahlokohla Street Mbabane"
+    },
+    "post & telecommunications corporation pension": {
+        "name": "Eswatini Post & Telecommunications Corporation Pension Fund",
+        "description": "(+268) 2505 2000 | Address: P. O. Box 125 Mbabane | Phutfumani Building, Mahlokohla Street Mbabane"
+    },
+    "eswatini railway pension fund": {
+        "name": "Eswatini Railway Pension Fund",
+        "description": "(+268) 2404 2486 | Address: P. O. Box 475 MbabaneP. O. Box 475 Mbabane | 1st Floor Ingcamu Building Mhlambanyatsi Rd Mbabane"
+    },
+    "railway pension": {
+        "name": "Eswatini Railway Pension Fund",
+        "description": "(+268) 2404 2486 | Address: P. O. Box 475 MbabaneP. O. Box 475 Mbabane | 1st Floor Ingcamu Building Mhlambanyatsi Rd Mbabane"
+    },
+    "eswatini railway provident fund": {
+        "name": "Eswatini Railway Provident Fund",
+        "description": "(+268) 2404 2486 | Address: P. O. Box 475 Mbabane | 1st Floor, Ingcamu (PSPF) Building, Mhlambanyatsi Rd Mbabane"
+    },
+    "railway provident": {
+        "name": "Eswatini Railway Provident Fund",
+        "description": "(+268) 2404 2486 | Address: P. O. Box 475 Mbabane | 1st Floor, Ingcamu (PSPF) Building, Mhlambanyatsi Rd Mbabane"
+    },
+    "eswatini revenue authority pension fund": {
+        "name": "Eswatini Revenue Authority Pension Fund",
+        "description": "(+268) 2406 4000 | Address: P. O. Box 5628 Mbabane | 2nd Floor Imfumbe Building, Mahlokohla Street Mbabane"
+    },
+    "revenue authority pension": {
+        "name": "Eswatini Revenue Authority Pension Fund",
+        "description": "(+268) 2406 4000 | Address: P. O. Box 5628 Mbabane | 2nd Floor Imfumbe Building, Mahlokohla Street Mbabane"
+    },
+    "revenue pension": {
+        "name": "Eswatini Revenue Authority Pension Fund",
+        "description": "(+268) 2406 4000 | Address: P. O. Box 5628 Mbabane | 2nd Floor Imfumbe Building, Mahlokohla Street Mbabane"
+    },
+    "eswatini revenue authority provident fund": {
+        "name": "Eswatini Revenue Authority Provident Fund",
+        "description": "(+268) 2406 4000 | Address: P. O. Box 5628 Mbabane | SRA Headquarters, PSPF Office Complex, Mbabane, Swaziland"
+    },
+    "revenue authority provident": {
+        "name": "Eswatini Revenue Authority Provident Fund",
+        "description": "(+268) 2406 4000 | Address: P. O. Box 5628 Mbabane | SRA Headquarters, PSPF Office Complex, Mbabane, Swaziland"
+    },
+    "revenue provident": {
+        "name": "Eswatini Revenue Authority Provident Fund",
+        "description": "(+268) 2406 4000 | Address: P. O. Box 5628 Mbabane | SRA Headquarters, PSPF Office Complex, Mbabane, Swaziland"
+    },
+    "eswatini sugar association staff provident fund": {
+        "name": "Eswatini Sugar Association Staff Provident Fund",
+        "description": "(+268) 2411 1600 | Address: P. O. Box 445 Mbabane | 4th Floor, Nkhotfotjeni Bldg, Corner Msakato and Dzeliwe Street"
+    },
+    "sugar association staff provident": {
+        "name": "Eswatini Sugar Association Staff Provident Fund",
+        "description": "(+268) 2411 1600 | Address: P. O. Box 445 Mbabane | 4th Floor, Nkhotfotjeni Bldg, Corner Msakato and Dzeliwe Street"
+    },
+    "eswatini television authority pension fund": {
+        "name": "Eswatini Television Authority Pension Fund",
+        "description": "(+268) 2404 3036 | Address: P. O. Box A146 Swazi Plaza | Hospital Hill Mbabane"
+    },
+    "television authority pension": {
+        "name": "Eswatini Television Authority Pension Fund",
+        "description": "(+268) 2404 3036 | Address: P. O. Box A146 Swazi Plaza | Hospital Hill Mbabane"
+    },
+    "television pension": {
+        "name": "Eswatini Television Authority Pension Fund",
+        "description": "(+268) 2404 3036 | Address: P. O. Box A146 Swazi Plaza | Hospital Hill Mbabane"
+    },
+    "eswatini water service corporation pension fund": {
+        "name": "Eswatini Water Service Corporation Pension Fund",
+        "description": "(+268) 2416 9000 | Address: P. O. Box 20 Mbabane | Emtfonjeni Building, Cultural Village Rd, Ezulwini"
+    },
+    "water service corporation pension": {
+        "name": "Eswatini Water Service Corporation Pension Fund",
+        "description": "(+268) 2416 9000 | Address: P. O. Box 20 Mbabane | Emtfonjeni Building, Cultural Village Rd, Ezulwini"
+    },
+    "exams council pension fund": {
+        "name": "Exams Council Pension Fund",
+        "description": "(+268) 2416 2865 | Address: P. O. Box 1394 Mbabane | Examinations Council of Swaziland Offices, Ezulwini"
+    },
+    "exams council pension": {
+        "name": "Exams Council Pension Fund",
+        "description": "(+268) 2416 2865 | Address: P. O. Box 1394 Mbabane | Examinations Council of Swaziland Offices, Ezulwini"
+    },
+    "first national bank of swaziland pension fund": {
+        "name": "First National Bank of Swaziland Pension Fund",
+        "description": "(+268) 2404 5401 | Address: P. O. Box 261 Eveni | 2nd Floor, Sales House Building, Mbabane"
+    },
+    "first national bank of eswatini pension": {
+        "name": "First National Bank of Swaziland Pension Fund",
+        "description": "(+268) 2404 5401 | Address: P. O. Box 261 Eveni | 2nd Floor, Sales House Building, Mbabane"
+    },
+    "fnb pension": {
+        "name": "First National Bank of Swaziland Pension Fund",
+        "description": "(+268) 2404 5401 | Address: P. O. Box 261 Eveni | 2nd Floor, Sales House Building, Mbabane"
+    },
+    "fsra staff provident fund": {
+        "name": "FSRA Staff Provident Fund",
+        "description": "(+268) 2406 8000 | Address: P. O. Box 3365 Mbabane | 2nd & 5th Floor Ingcamu (PSPF) Building Mhlambanyatsi Road, Mbabane"
+    },
+    "fsra staff provident": {
+        "name": "FSRA Staff Provident Fund",
+        "description": "(+268) 2406 8000 | Address: P. O. Box 3365 Mbabane | 2nd & 5th Floor Ingcamu (PSPF) Building Mhlambanyatsi Road, Mbabane"
+    },
+    "institute of development management pension fund eswatini": {
+        "name": "Institute of Development Management Pension Fund Eswatini",
+        "description": "(+268) 2518 5743 | Address: P. O. Box 1534 Mbabane | IDM Eswatini Campus Matsapha"
+    },
+    "institute of development management pension": {
+        "name": "Institute of Development Management Pension Fund Eswatini",
+        "description": "(+268) 2518 5743 | Address: P. O. Box 1534 Mbabane | IDM Eswatini Campus Matsapha"
+    },
+    "idm pension fund": {
+        "name": "Institute of Development Management Pension Fund Eswatini",
+        "description": "(+268) 2518 5743 | Address: P. O. Box 1534 Mbabane | IDM Eswatini Campus Matsapha"
+    },
+    "idm pension": {
+        "name": "Institute of Development Management Pension Fund Eswatini",
+        "description": "(+268) 2518 5743 | Address: P. O. Box 1534 Mbabane | IDM Eswatini Campus Matsapha"
+    },
+    "lilunga umbrella pension fund": {
+        "name": "Lilunga Umbrella Pension Fund",
+        "description": "(+268) 2404 3231 | Address: P. O. Box 917 Mbabane | SRIC Insika House Somhlolo Rd Mbabane"
+    },
+    "lilunga umbrella pension": {
+        "name": "Lilunga Umbrella Pension Fund",
+        "description": "(+268) 2404 3231 | Address: P. O. Box 917 Mbabane | SRIC Insika House Somhlolo Rd Mbabane"
+    },
+    "ludziwo umbrella provident fund": {
+        "name": "Ludziwo Umbrella Provident Fund",
+        "description": "(+268) 2404 5485 | Address: 3640 Mbabane | East Wing, Ground Floor Embassy House Msakato Street Mbabane"
+    },
+    "ludziwo umbrella provident": {
+        "name": "Ludziwo Umbrella Provident Fund",
+        "description": "(+268) 2404 5485 | Address: 3640 Mbabane | East Wing, Ground Floor Embassy House Msakato Street Mbabane"
+    },
+    "mva staff pension fund": {
+        "name": "M.V.A Staff Pension Fund",
+        "description": "(+268) 2404 7161 / 2408 6800 | Manzini Branch (SWAKI Building) Contact: 2505 9553 | Address: P. O. Box 4239 Mbabane | MVA Office Park, Mbhilibhi Street Mbabane"
+    },
+    "mva staff pension": {
+        "name": "M.V.A Staff Pension Fund",
+        "description": "(+268) 2404 7161 / 2408 6800 | Manzini Branch (SWAKI Building) Contact: 2505 9553 | Address: P. O. Box 4239 Mbabane | MVA Office Park, Mbhilibhi Street Mbabane"
+    },
+    "m.v.a staff pension fund": {
+        "name": "M.V.A Staff Pension Fund",
+        "description": "(+268) 2404 7161 / 2408 6800 | Manzini Branch (SWAKI Building) Contact: 2505 9553 | Address: P. O. Box 4239 Mbabane | MVA Office Park, Mbhilibhi Street Mbabane"
+    },
+    "m.v.a staff pension": {
+        "name": "M.V.A Staff Pension Fund",
+        "description": "(+268) 2404 7161 / 2408 6800 | Manzini Branch (SWAKI Building) Contact: 2505 9553 | Address: P. O. Box 4239 Mbabane | MVA Office Park, Mbhilibhi Street Mbabane"
+    },
+    "mananga provident fund": {
+        "name": "Mananga Provident Fund",
+        "description": "(+268) 2313 4801 | Address: P. O. Box 1 Simunye | RES, Simunye Sugar Estate Swaziland"
+    },
+    "mananga provident": {
+        "name": "Mananga Provident Fund",
+        "description": "(+268) 2313 4801 | Address: P. O. Box 1 Simunye | RES, Simunye Sugar Estate Swaziland"
+    },
+    "mbabane hotels provident fund": {
+        "name": "Mbabane Hotels Provident Fund",
+        "description": "(+268) 2404 2781 | Address: P. O. Box 225 Mbabane | Mountain Inn, Princess Drive Mbabane"
+    },
+    "mbabane hotels provident": {
+        "name": "Mbabane Hotels Provident Fund",
+        "description": "(+268) 2404 2781 | Address: P. O. Box 225 Mbabane | Mountain Inn, Princess Drive Mbabane"
+    },
+    "members of parliament & designated office bearers pension": {
+        "name": "Members of Parliament & Designated Office Bearers Pension Fund",
+        "description": "(+268) 2505 8357 | Address: P. O. Box 4639 Manzini | Liqhaga Building, Manzini Swaziland"
+    },
+    "members of parliament and designated office bearers pension": {
+        "name": "Members of Parliament & Designated Office Bearers Pension Fund",
+        "description": "(+268) 2505 8357 | Address: P. O. Box 4639 Manzini | Liqhaga Building, Manzini Swaziland"
+    },
+    "members of parliament pension": {
+        "name": "Members of Parliament & Designated Office Bearers Pension Fund",
+        "description": "(+268) 2505 8357 | Address: P. O. Box 4639 Manzini | Liqhaga Building, Manzini Swaziland"
+    },
+    "municipal council of manzini staff pension fund": {
+        "name": "Municipal Council of Manzini Staff Pension Fund",
+        "description": "(+268) 2505 2481 | Address: P. O. Box 418 Manzini | Ngwane & Nkoseluhlaza Street, City Council Building Manzini"
+    },
+    "municipal council of manzini staff pension": {
+        "name": "Municipal Council of Manzini Staff Pension Fund",
+        "description": "(+268) 2505 2481 | Address: P. O. Box 418 Manzini | Ngwane & Nkoseluhlaza Street, City Council Building Manzini"
+    },
+    "namboard pension fund": {
+        "name": "Namboard Pension Fund",
+        "description": "(+268) 2505 2646 | Address: P. O. Box 4261 Mbabane"
+    },
+    "namboard pension": {
+        "name": "Namboard Pension Fund",
+        "description": "(+268) 2505 2646 | Address: P. O. Box 4261 Mbabane"
+    },
+    "nedbank (swaziland) limited pension": {
+        "name": "NedBank (Swaziland) Limited Pension Fund",
+        "description": "(+268) 2408 1000 | Address: P. O. Box 68 Mbabane | 3rd Floor, Nedbank Centre, Swazi Plaza Mbabane"
+    },
+    "nedbank (eswatini) limited pension": {
+        "name": "NedBank (Swaziland) Limited Pension Fund",
+        "description": "(+268) 2408 1000 | Address: P. O. Box 68 Mbabane | 3rd Floor, Nedbank Centre, Swazi Plaza Mbabane"
+    },
+    "nedbank pension": {
+        "name": "NedBank (Swaziland) Limited Pension Fund",
+        "description": "(+268) 2408 1000 | Address: P. O. Box 68 Mbabane | 3rd Floor, Nedbank Centre, Swazi Plaza Mbabane"
+    },
+    "nhlangano town council pension": {
+        "name": "Nhlangano Town Council Pension Fund",
+        "description": "(+268) 2207 8451 | Address: P. O. Box 888 Nhlangano | 6th Street & Corner, First Avenue, Nhlangano"
+    },
+    "non-governmental health sector pension fund": {
+        "name": "Non-Governmental Health Sector Pension Fund",
+        "description": "(+268) 2505 2438 | Address: P. O. Box C2559 Hub Manzini | St Theresa's Clinic Manzini, Swaziland"
+    },
+    "non-governmental health sector pension": {
+        "name": "Non-Governmental Health Sector Pension Fund",
+        "description": "(+268) 2505 2438 | Address: P. O. Box C2559 Hub Manzini | St Theresa's Clinic Manzini, Swaziland"
+    },
+    "nongovernmental health sector pension": {
+        "name": "Non-Governmental Health Sector Pension Fund",
+        "description": "(+268) 2505 2438 | Address: P. O. Box C2559 Hub Manzini | St Theresa's Clinic Manzini, Swaziland"
+    },
+    "non governmental health sector pension": {
+        "name": "Non-Governmental Health Sector Pension Fund",
+        "description": "(+268) 2505 2438 | Address: P. O. Box C2559 Hub Manzini | St Theresa's Clinic Manzini, Swaziland"
+    },
+    "non governmental health pension": {
+        "name": "Non-Governmental Health Sector Pension Fund",
+        "description": "(+268) 2505 2438 | Address: P. O. Box C2559 Hub Manzini | St Theresa's Clinic Manzini, Swaziland"
+    },
+    "nongovernmental health pension": {
+        "name": "Non-Governmental Health Sector Pension Fund",
+        "description": "(+268) 2505 2438 | Address: P. O. Box C2559 Hub Manzini | St Theresa's Clinic Manzini, Swaziland"
+    },
+    "non-governmental health pension": {
+        "name": "Non-Governmental Health Sector Pension Fund",
+        "description": "(+268) 2505 2438 | Address: P. O. Box C2559 Hub Manzini | St Theresa's Clinic Manzini, Swaziland"
+    },
+    "old mutual lihawu umbrella pension fund": {
+        "name": "Old Mutual Lihawu Umbrella Pension Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor Ingcamu (PSPF) Building, Mbabane"
+    },
+    "old mutual lihawu umbrella pension": {
+        "name": "Old Mutual Lihawu Umbrella Pension Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor Ingcamu (PSPF) Building, Mbabane"
+    },
+    "old mutual umbrella pension": {
+        "name": "Old Mutual Lihawu Umbrella Pension Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor Ingcamu (PSPF) Building, Mbabane"
+    },
+    "old mutual pension": {
+        "name": "Old Mutual Lihawu Umbrella Pension Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor Ingcamu (PSPF) Building, Mbabane"
+    },
+    "old mutual lihawu umbrella provident fund": {
+        "name": "Old Mutual Lihawu Umbrella Provident Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor, Ingcamu (PSPF) Building, Mhlambanyatsi Rd Mbabane"
+    },
+    "old mutual lihawu umbrella provident": {
+        "name": "Old Mutual Lihawu Umbrella Provident Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor, Ingcamu (PSPF) Building, Mhlambanyatsi Rd Mbabane"
+    },
+    "old mutual lihawu provident": {
+        "name": "Old Mutual Lihawu Umbrella Provident Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor, Ingcamu (PSPF) Building, Mhlambanyatsi Rd Mbabane"
+    },
+    "old mutual umbrella provident": {
+        "name": "Old Mutual Lihawu Umbrella Provident Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor, Ingcamu (PSPF) Building, Mhlambanyatsi Rd Mbabane"
+    },
+    "old mutual provident": {
+        "name": "Old Mutual Lihawu Umbrella Provident Fund",
+        "description": "(+268) 2411 7859 | Address: P. O. Box 95 Mbabane | 4th Floor, Ingcamu (PSPF) Building, Mhlambanyatsi Rd Mbabane"
+    },
+    "premier swazi bakeries pension fund": {
+        "name": "Premier Swazi Bakeries Pension Fund",
+        "description": "(+268) 2518 4044 | Address: King Mswati 111 Avenue | Matsapha Industrial Site"
+    },
+    "premier swazi bakeries pension": {
+        "name": "Premier Swazi Bakeries Pension Fund",
+        "description": "(+268) 2518 4044 | Address: King Mswati 111 Avenue | Matsapha Industrial Site"
+    },
+    "public service pension fund": {
+        "name": "Public Service Pension Fund",
+        "description": "(+268) 2411 9000 | Mbabane Branch (New Mall) Contact: (+268) 2404 6252 | Address: P. O. Box 4469 Mbabane | 7th Floor, Ingcamu Building Mhlambanyatsi Rd Mbabane"
+    },
+    "public service pension": {
+        "name": "Public Service Pension Fund",
+        "description": "(+268) 2411 9000 | Mbabane Branch (New Mall) Contact: (+268) 2404 6252 | Address: P. O. Box 4469 Mbabane | 7th Floor, Ingcamu Building Mhlambanyatsi Rd Mbabane"
+    },
+    "public service pension fund staff pension scheme": {
+        "name": "Public Service Pension Fund Staff Pension Scheme",
+        "description": "(+268) 2404 8740 | Address: P. O. Box 4469 Mbabane | 7th Floor, Ingcamu Building Mhlambanyatsi Rd Mbabane"
+    },
+    "rainmaker plus pension umbrella fund": {
+        "name": "Rainmaker Plus Pension Umbrella Fund Swaziland",
+        "description": "(+268) 2409 0285 | Address: P. O. Box 45 Eveni | Metropolitan Life Swaziland, Plot771 3rd Floor Dzeliwe"
+    },
+    "rainmaker plus pension": {
+        "name": "Rainmaker Plus Pension Umbrella Fund Swaziland",
+        "description": "(+268) 2409 0285 | Address: P. O. Box 45 Eveni | Metropolitan Life Swaziland, Plot771 3rd Floor Dzeliwe"
+    },
+    "rainmaker plus provident umbrella fund": {
+        "name": "Rainmaker Plus Provident Umbrella Fund Swaziland",
+        "description": "(+268) 2410 4127 | Address: P. O. Box 45 Eveni | Lot 219 Somhlolo Rd Mbabane"
+    },
+    "rainmaker plus provident": {
+        "name": "Rainmaker Plus Provident Umbrella Fund Swaziland",
+        "description": "(+268) 2410 4127 | Address: P. O. Box 45 Eveni | Lot 219 Somhlolo Rd Mbabane"
+    },
+    "royal eswatini sugar corporation provident": {
+        "name": "Royal Eswatini Sugar Corporation Provident Fund",
+        "description": "(+268) 2313 4801 | Address: P. O. Box 1 Simunye | Simunye and Mhlume Sugar Estates"
+    },
+    "res provident": {
+        "name": "Royal Eswatini Sugar Corporation Provident Fund",
+        "description": "(+268) 2313 4801 | Address: P. O. Box 1 Simunye | Simunye and Mhlume Sugar Estates"
+    },
+    "sebenta national institute pension": {
+        "name": "Sebenta National Institute Pension",
+        "description": "(+268) 2404 2644 | Address: P. O. Box 64 Mbabane | SCOT Campus, Mbabane Swaziland"
+    },
+    "sebenta pension": {
+        "name": "Sebenta National Institute Pension",
+        "description": "(+268) 2404 2644 | Address: P. O. Box 64 Mbabane | SCOT Campus, Mbabane Swaziland"
+    },
+    "sibaya umbrella pension": {
+        "name": "Sibaya Umbrella Pension Fund",
+        "description": "(+268) 2417 1729/1730 | Address: P. O. Box 3159 Mbabane | 1st Floor, Tibiyo Insurance House, The Office, Ezulwini"
+    },
+    "sibaya pension": {
+        "name": "Sibaya Umbrella Pension Fund",
+        "description": "(+268) 2417 1729/1730 | Address: P. O. Box 3159 Mbabane | 1st Floor, Tibiyo Insurance House, The Office, Ezulwini"
+    },
+    "sibaya umbrella provident": {
+        "name": "Sibaya Umbrella Provident Fund",
+        "description": "(+268) 2417 1729/1730 | Address: P. O. Box 3159 Mbabane | 1st Floor, 1st Floor, Tibiyo Insurance House, The Office, Ezulwini"
+    },
+    "sibaya provident": {
+        "name": "Sibaya Umbrella Provident Fund",
+        "description": "(+268) 2417 1729/1730 | Address: P. O. Box 3159 Mbabane | 1st Floor, 1st Floor, Tibiyo Insurance House, The Office, Ezulwini"
+    },
+    "sifundzani school provident": {
+        "name": "Sifundzani School Provident",
+        "description": "(+268) 2404 2465 | Address: A286 Swazi Plaza | Pine Valley Rd Mbabane Swaziland"
+    },
+    "silulu provident": {
+        "name": "Silulu Provident Fund",
+        "description": "(+268) 2518 6168 | Address: P. O. Box 679 Matsapha | 12th Street, Industrial Site Matsapha"
+    },
+    "standard bank eswatini pension": {
+        "name": "Standard Bank Eswatini Pension Fund",
+        "description": "(+268) 2404 1540 | Address: A294 Swazi Plaza | 4th & 5th Floor, Corporate Place Building, Mbabane"
+    },
+    "standardbank eswatini pension": {
+        "name": "Standard Bank Eswatini Pension Fund",
+        "description": "(+268) 2404 1540 | Address: A294 Swazi Plaza | 4th & 5th Floor, Corporate Place Building, Mbabane"
+    },
+    "standard bank pension": {
+        "name": "Standard Bank Eswatini Pension Fund",
+        "description": "(+268) 2404 1540 | Address: A294 Swazi Plaza | 4th & 5th Floor, Corporate Place Building, Mbabane"
+    },
+    "standardbank pension": {
+        "name": "Standard Bank Eswatini Pension Fund",
+        "description": "(+268) 2404 1540 | Address: A294 Swazi Plaza | 4th & 5th Floor, Corporate Place Building, Mbabane"
+    },
+    "swaki pension": {
+        "name": "SWAKI Pension Fund",
+        "description": "(+268) 2417 1700 | Address: P. O. Box 1839 Manzini | SWAKI Group offices, Ezulwini Main Rd"
+    },
+    "swaziland building society pension": {
+        "name": "Swaziland Building Society Pension Fund",
+        "description": "(+268) 2404 2107 / 2405 6000 | Address: P. O. Box 300 Mbabane | Asakhe House, Corner Mdada and Dzeliwe Street"
+    },
+    "eswatini building society pension": {
+        "name": "Swaziland Building Society Pension Fund",
+        "description": "(+268) 2404 2107 / 2405 6000 | Address: P. O. Box 300 Mbabane | Asakhe House, Corner Mdada and Dzeliwe Street"
+    },
+    "building society pension": {
+        "name": "Swaziland Building Society Pension Fund",
+        "description": "(+268) 2404 2107 / 2405 6000 | Address: P. O. Box 300 Mbabane | Asakhe House, Corner Mdada and Dzeliwe Street"
+    },
+    "thokoza church centre provident": {
+        "name": "Thokoza Church Centre Provident Fund",
+        "description": "(+268) 2404 6681 | Address: 342 Mbabane | Polinjane Rd, Mbabane Township"
+    },
+    "tibiyo takangwane pension": {
+        "name": "Tibiyo TakaNgwane Pension Fund",
+        "description": "(+268) 2510 1306 | Address: P. O. Box 181 Kwaluseni | Lozitha Palace Rd, Kwaluseni"
+    },
+    "tibiyo taka ngwane pension": {
+        "name": "Tibiyo TakaNgwane Pension Fund",
+        "description": "(+268) 2510 1306 | Address: P. O. Box 181 Kwaluseni | Lozitha Palace Rd, Kwaluseni"
+    },
+    "tibiyo takangwane provident": {
+        "name": "Tibiyo TakaNgwane Provident Fund",
+        "description": "(+268) 2510 1306 | Address: P. O. Box 181 Kwaluseni | Lozitha Palace Rd, Kwaluseni"
+    },
+    "tibiyo taka ngwane provident": {
+        "name": "Tibiyo TakaNgwane Provident Fund",
+        "description": "(+268) 2510 1306 | Address: P. O. Box 181 Kwaluseni | Lozitha Palace Rd, Kwaluseni"
+    },
+    "tisuka takangwane provident": {
+        "name": "Tisuka TakaNgwane Provident Fund",
+        "description": "(+268) 2510 1655 | Address: P. O. Box 1385 Mbabane | 5 Central Chambers Building, Lozitha Swaziland"
+    },
+    "tisuka taka ngwane provident": {
+        "name": "Tisuka TakaNgwane Provident Fund",
+        "description": "(+268) 2510 1655 | Address: P. O. Box 1385 Mbabane | 5 Central Chambers Building, Lozitha Swaziland"
+    },
+    "ubombo sugar pension": {
+        "name": "Ubombo Sugar Pension Fund",
+        "description": "(+268) 2363 8000 | Address: 23 Big Bend | Portion 161 Old Main Rd, Big Bend Eswatini"
+    },
+    "ubombo pension": {
+        "name": "Ubombo Sugar Pension Fund",
+        "description": "(+268) 2363 8000 | Address: 23 Big Bend | Portion 161 Old Main Rd, Big Bend Eswatini"
+    },
+    "ubombo sugar provident fund - umzabalazo": {
+        "name": "Ubombo Sugar Provident Fund - Umzabalazo",
+        "description": "(+268) 2363 8000 | Address: P. O. Box 23 Big Bend | Ubombo Sugar Limited, Big Bend Swaziland"
+    },
+    "ubombo sugar provident": {
+        "name": "Ubombo Sugar Provident Fund - Umzabalazo",
+        "description": "(+268) 2363 8000 | Address: P. O. Box 23 Big Bend | Ubombo Sugar Limited, Big Bend Swaziland"
+    },
+    "ubombo - umzabalazo provident": {
+        "name": "Ubombo Sugar Provident Fund - Umzabalazo",
+        "description": "(+268) 2363 8000 | Address: P. O. Box 23 Big Bend | Ubombo Sugar Limited, Big Bend Swaziland"
+    },
+    "ubombo umzabalazo provident": {
+        "name": "Ubombo Sugar Provident Fund - Umzabalazo",
+        "description": "(+268) 2363 8000 | Address: P. O. Box 23 Big Bend | Ubombo Sugar Limited, Big Bend Swaziland"
+    },
+    "ubombo-ingcamu provident": {
+        "name": "Ubombo-Ingcamu Provident Fund",
+        "description": "(+268) 2363 8140 | Address: P. O. Box 23 Big Bend | Portion 161 Old Main Rd, Big Bend Swaziland"
+    },
+    "ubombo ingcamu provident": {
+        "name": "Ubombo-Ingcamu Provident Fund",
+        "description": "(+268) 2363 8140 | Address: P. O. Box 23 Big Bend | Portion 161 Old Main Rd, Big Bend Swaziland"
+    },
+    "umfuso umbrella pension": {
+        "name": "Umfuso Umbrella Pension Fund",
+        "description": "(+268) 2404 3226 | Address: P. O. Box 222 Mbabane | 1st Floor Umkhiwa House, Karl Grant Street Mbabane"
+    },
+    "umfuso pension": {
+        "name": "Umfuso Umbrella Pension Fund",
+        "description": "(+268) 2404 3226 | Address: P. O. Box 222 Mbabane | 1st Floor Umkhiwa House, Karl Grant Street Mbabane"
+    },
+    "umfuso umbrella retirement": {
+        "name": "Umfuso Umbrella Retirement Fund",
+        "description": "(+268) 2404 3226 | Address: P. O. Box 222 Mbabane | 1st Floor Umkhiwa House, Karl Grant Street Mbabane"
+    },
+    "umfuso retirement": {
+        "name": "Umfuso Umbrella Retirement Fund",
+        "description": "(+268) 2404 3226 | Address: P. O. Box 222 Mbabane | 1st Floor Umkhiwa House, Karl Grant Street Mbabane"
+    },
+    "uneswa pension": {
+        "name": "UNESWA Pension Fund",
+        "description": "(+268) 2517 0001 | Address: P. O. Box 4 Kwaluseni | UNISWA Office No 005, Administration Building, Kwaluseni"
+    },
+    "ykk southern africa factory pension": {
+        "name": "YKK Southern Africa Factory Pension Fund",
+        "description": "(+268) 2518 6188 | Address: P. O. Box 1425 Mbabane | Sobhuza Avenue. Matsapha Industrial Site"
+    },
+    "ykk factory pension": {
+        "name": "YKK Southern Africa Factory Pension Fund",
+        "description": "(+268) 2518 6188 | Address: P. O. Box 1425 Mbabane | Sobhuza Avenue. Matsapha Industrial Site"
+    },
     "swazimed": {
         "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
         "description": "www.swazimed.com | +268 2405 8000 | Shop NC 101, NedBank Centre Building, Swazi Plaza, Mbabane | P.O. Box 7553, Mbabane"
