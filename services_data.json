@@ -301,6 +301,98 @@
         "name": "",
         "description": "I am unable incapable of any emotion since I am a program"
     },
+    "insurance": {
+        "name": "Which category do you want",
+        "description": "Beneficiary Funds, Insurance Brokers, Foreign Retirement Funds, Local Retirement Funds, Medical Aid Funds, Corporate Agents, Medical Aid Schemes Administrators, Fund Administrators, Short-Term Insurers, Composite Insurers, Long-Term Insurers, Reinsurers, Micro-Insurers"
+    },
+    "micro insurers": {
+        "name": "Micro-Insurers",
+        "description": "B3 Insurance"
+    },
+    "micro insurance": {
+        "name": "Micro-Insurers",
+        "description": "B3 Insurance"
+    },
+    "short term insurer": {
+        "name": "Short-Term Insurers",
+        "description": "Lidwala Insurance, Medscheme Health Insurance, Oracle Insure, Phoenix of Swaziland Assurance, United General Insurance, United Health Insurance"
+    },
+    "short term insurance": {
+        "name": "Short-Term Insurers",
+        "description": "Lidwala Insurance, Medscheme Health Insurance, Oracle Insure, Phoenix of Swaziland Assurance, United General Insurance, United Health Insurance"
+    },
+    "short term": {
+        "name": "Short-Term Insurers",
+        "description": "Lidwala Insurance, Medscheme Health Insurance, Oracle Insure, Phoenix of Swaziland Assurance, United General Insurance, United Health Insurance"
+    },
+    "long term insurers": {
+        "name": "Long-Term Insurers",
+        "description": "Dups Direct Insurance, Finsure Assurance, Liberty Life, Old Mutual Life Assurance, Oracle Life, Orchard Insurance, Safrican Swaziland Insurance"
+    },
+    "long term insurance": {
+        "name": "Long-Term Insurers",
+        "description": "Dups Direct Insurance, Finsure Assurance, Liberty Life, Old Mutual Life Assurance, Oracle Life, Orchard Insurance, Safrican Swaziland Insurance"
+    },
+    "long term": {
+        "name": "Long-Term Insurers",
+        "description": "Dups Direct Insurance, Finsure Assurance, Liberty Life, Old Mutual Life Assurance, Oracle Life, Orchard Insurance, Safrican Swaziland Insurance"
+    },
+    "medical aid schemes administrators": {
+        "name": "Medical Aid Schemes Administrators",
+        "description": "Medscheme Administrators"
+    },
+    "medical aid schemes": {
+        "name": "Medical Aid Schemes Administrators",
+        "description": "Medscheme Administrators"
+    },
+    "composite insurers": {
+        "name": "Composite Insures",
+        "description": "Eswatini Royal Insurance Corporation"
+    },
+    "composite insurance": {
+        "name": "Composite Insures",
+        "description": "Eswatini Royal Insurance Corporation"
+    },
+    "composite": {
+        "name": "Composite Insures",
+        "description": "Eswatini Royal Insurance Corporation"
+    },
+    "reinsurers": {
+        "name": "Reinsurers",
+        "description": "Eswatini Re-Limited, Ezulwini Reinsurance Company"
+    },
+    "fund administrators": {
+        "name": "Fund Administrators",
+        "description": "Eswatini Insurance Brokers, Eswatini Royal Insurance Corporation, Negotiated Benefit Consultant Swaziland , Oracle Life, Swaziland Employee Benefit Consultants"
+    },
+    "medical aid funds": {
+        "name": "Medical Aid Funds",
+        "description": "emaSwati Care, Swazi HMO-Mpilwenhle, Swaziland Medical Aid Fund"
+    },
+    "beneficiary funds": {
+        "name": "Beneficiary Funds",
+        "description": "ESRIC Beneficiary Fund, Fairlife Benefit Services, Likhwane Beneficiary"
+    },
+    "beneficiary fund": {
+        "name": "Beneficiary Funds",
+        "description": "ESRIC Beneficiary Fund, Fairlife Benefit Services, Likhwane Beneficiary"
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
+    "": {
+        "name": "",
+        "description": ""
+    },
     "agency": {
         "name": "Organizations that provide that service are",
         "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
@@ -309,11 +401,11 @@
         "name": "Organizations that provide that service are",
         "description": "Dups Holdings, Ekhaya Funeral Services"
     },
-    "insurance": {
+    "insurance companies": {
         "name": "Organizations that provide that service are",
         "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
     },
-    "brokage": {
+    "brokers": {
         "name": "Organizations that provide that service are",
         "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
     },
