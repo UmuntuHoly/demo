@@ -3772,5 +3772,13 @@
     "your day": {
         "name": "Nothing much",
         "description": "Just on standby in case you needed my assistance"
+    },
+    "yes": {
+        "name": "Ok",
+        "description": "I am here to assist you"
+    },
+    "no": {
+        "name": "Okay",
+        "description": "no problem. I am on standby if you need my assistance"
     }
 }
