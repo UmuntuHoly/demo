@@ -379,17 +379,21 @@
     },
     "insurance brokers": {
         "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'More Insurance Brokers' to view more"
+        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
     },
     "brokers": {
         "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'More Insurance Brokers' to view more"
+        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
     },
     "broker": {
         "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'More Insurance Brokers' to view more"
+        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
     },
-    "more insurance brokers": {
+    "view broker 1": {
+        "name": "Insurance Brokers (1/2)",
+        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
+    },
+    "view broker 2": {
         "name": "More Insurance Brokers (2/2)",
         "description": "Glenrand MIB, Global Impact Consultancy, Healthcare Insurance Brokers, LG Financial Services and Consultancy, Mbabane Burial Benefit Society, Minx Insurance Brokers, Namaga Consultancy, Nico Insurance Brokers, Optimal Investment Solutions, Patula Risk, SASCCO, Sekusile Insurance Brokers, The Link Insurance Brokers, Tibiyo Insurance Brokers, Zanton Insurance Brokers"
     },
@@ -397,7 +401,11 @@
         "name": "Corporate Agents (1/2)",
         "description": "Bunye Betfu Buhle Betfu SACCO, Buzzby Services, Consolidated Insurance Agency, Crucifix Funeral Directors and Coffin Manufacturers, Cutting Edge Management Consultants, Edgars Stores Eswatini, First National Bank, JD Group , Letshego Financial Services, Maq Alf, Marlett Investments, Mphumusa Investments, Nedbank, Nhlangano Funeral Parlour...Type 'More Corporate Agents' to view more"
     },
-    "more corporate agents": {
+    "view agents 1": {
+        "name": "Corporate Agents (1/2)",
+        "description": "Bunye Betfu Buhle Betfu SACCO, Buzzby Services, Consolidated Insurance Agency, Crucifix Funeral Directors and Coffin Manufacturers, Cutting Edge Management Consultants, Edgars Stores Eswatini, First National Bank, JD Group , Letshego Financial Services, Maq Alf, Marlett Investments, Mphumusa Investments, Nedbank, Nhlangano Funeral Parlour...Type 'View Agents 2' to view more"
+    },
+    "view agents 2": {
         "name": "More Corporate Agents (2/2)",
         "description": "OK Bazaars Mbabane, Select Limited, Standard Bank Eswatini Limited, Standard Bank Swaziland Limited, Swaziland Building Society, Swaziland Conference of Churches, Swaziland Development and Savings Bank, Swaziland Development and Savings Bank, Swaziland Nurses Association, Taurus Investments, WellPoint Investments"
     },
@@ -456,10 +464,6 @@
     "view foreign 3": {
         "name": "More Foreign Retirement Funds (3/3)",
         "description": "Retail Provident Fund, Retail Retirement Fund, Retirement-On-Line Pension Fund, Sanlam Staff Umbrella Pension Fund, Sanlam Staff Umbrella Provident Fund, Sanlam Umbrella Provident Fund, Sun International Pension Fund, Sun International Provident Fund, Infraset Provident Fund, The Preservation Pension Fund, The Preservation Provident Fund, The Provident Fund, Total South Africa Provident Fund, Umbrella Provident Fund"
-    },
-    "": {
-        "name": "",
-        "description": ""
     },
     "agency": {
         "name": "Organizations that provide that service are",
