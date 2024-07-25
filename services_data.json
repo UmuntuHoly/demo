@@ -303,7 +303,7 @@
     },
     "insurance": {
         "name": "Which category do you want",
-        "description": "Beneficiary Funds, Insurance Brokers, Foreign Retirement Funds, Local Retirement Funds, Medical Aid Funds, Corporate Agents, Medical Aid Schemes Administrators, Fund Administrators, Short-Term Insurers, Composite Insurers, Long-Term Insurers, Reinsurers, Micro-Insurers"
+        "description": "Short-Term Insurers, Composite Insurers, Long-Term Insurers, Reinsurers, Micro-Insurers, Beneficiary Funds, Insurance Brokers, Foreign Retirement Funds, Local Retirement Funds, Medical Aid Funds, Corporate Agents, Medical Aid Schemes Administrators, Fund Administrators"
     },
     "micro insurers": {
         "name": "Micro-Insurers (1/1)",
