@@ -123,10 +123,6 @@
         "name": "Eswatini Association of Savings and Credit Cooperatives (ESASCCO)",
         "description": "ESASCCO LTD- Eswatini Association of Savings and Credit Cooperatives, is an apex body for the Savings and Credit Cooperatives of Eswatini and was registered on the 06 June, 1988 under the Eswatini Cooperative Societies Act of 1964 as amended and granted a Certificate of Registration under Regulation 4 (a) of 2003 No. 162, and registered under the provisions of Section 9 of the Cooperatives Societies Act No.5 of 2005, as amended by the Commissioner for Cooperative Development."
     },
-    "savings and credit": {
-        "name": "Eswatini Association of Savings and Credit Cooperatives (ESSACCO)",
-        "description": "ESASCCO LTD- Eswatini Association of Savings and Credit Cooperatives, is an apex body for the Savings and Credit Cooperatives of Eswatini and was registered on the 06 June, 1988 under the Eswatini Cooperative Societies Act of 1964 as amended and granted a Certificate of Registration under Regulation 4 (a) of 2003 No. 162, and registered under the provisions of Section 9 of the Cooperatives Societies Act No.5 of 2005, as amended by the Commissioner for Cooperative Development."
-    },
     "credit cooperative": {
         "name": "Eswatini Association of Savings and Credit Cooperatives (ESSACCO)",
         "description": "ESASCCO LTD- Eswatini Association of Savings and Credit Cooperatives, is an apex body for the Savings and Credit Cooperatives of Eswatini and was registered on the 06 June, 1988 under the Eswatini Cooperative Societies Act of 1964 as amended and granted a Certificate of Registration under Regulation 4 (a) of 2003 No. 162, and registered under the provisions of Section 9 of the Cooperatives Societies Act No.5 of 2005, as amended by the Commissioner for Cooperative Development."
@@ -143,7 +139,19 @@
         "name": "Eswatini National Youth Cooperatives Alliance (ESYNCA)",
         "description": "ESNYCA was formed in 2016 and registered by the Commissioner of Co-operatives under the Ministry of Commerce, Industry and Trade, in accordance with the Coopearives Societies Regulations of 2005 in July 2016.The Alliance was Formed with the sole purpose of creating a better life for its members. Their services include pre-coopearive registration training, board orientation,cooperative general business support, Financial management training, leadership training,Application for funding support and bookkeeping and auditing."
     },
-    "register": {
+    "coop registration": {
+        "name": "How do I register a Co-operative?",
+        "description": "Persons wishing to be registered as a co-operative shall submit to the Commissioner through their Chairperson, an application for registration."
+    },
+    "cooperation registration": {
+        "name": "How do I register a Co-operative?",
+        "description": "Persons wishing to be registered as a co-operative shall submit to the Commissioner through their Chairperson, an application for registration."
+    },
+    "cooperative registration": {
+        "name": "How do I register a Co-operative?",
+        "description": "Persons wishing to be registered as a co-operative shall submit to the Commissioner through their Chairperson, an application for registration."
+    },
+    "register cooperative": {
         "name": "How do I register a Co-operative?",
         "description": "Persons wishing to be registered as a co-operative shall submit to the Commissioner through their Chairperson, an application for registration."
     },
@@ -2140,6 +2148,426 @@
     "ykk factory pension": {
         "name": "YKK Southern Africa Factory Pension Fund",
         "description": "(+268) 2518 6188 | Address: P. O. Box 1425 Mbabane | Sobhuza Avenue. Matsapha Industrial Site"
+    },
+    "impumelelo savings and credit cooperative society": {
+        "name": "Impumelelo Savings and Credit Cooperative Society",
+        "description": "is a financial service entity that provides its members the opportunity to own their economic future through savings and then providing credit in form of loans to the members."
+    },
+    "impumelelo cooperative": {
+        "name": "Impumelelo Savings and Credit Cooperative Society",
+        "description": "is a financial service entity that provides its members the opportunity to own their economic future through savings and then providing credit in form of loans to the members."
+    },
+    "impumelelo co-operative": {
+        "name": "Impumelelo Savings and Credit Cooperative Society",
+        "description": "is a financial service entity that provides its members the opportunity to own their economic future through savings and then providing credit in form of loans to the members."
+    },
+    "impumelelo coop": {
+        "name": "Impumelelo Savings and Credit Cooperative Society",
+        "description": "is a financial service entity that provides its members the opportunity to own their economic future through savings and then providing credit in form of loans to the members."
+    },
+    "impumelelo email": {
+        "name": "Impumelelo Email",
+        "description": "info@impumelelosacco.com"
+    },
+    "impumelelo phone": {
+        "name": "Impumelelo Phone",
+        "description": "(+268) 2505 9847/8"
+    },
+    "impumelelo cell": {
+        "name": "Impumelelo Phone",
+        "description": "(+268) 2505 9847/8"
+    },
+    "impumelelo cellnumber": {
+        "name": "Impumelelo Phone",
+        "description": "(+268) 2505 9847/8"
+    },
+    "impumelelo contact": {
+        "name": "Contact Impumelelo Via",
+        "description": "Email: info@impumelelosacco.com | Phone: (+268) 2505 9847/8"
+    },
+    "impumelelo address": {
+        "name": "Impumelelo Address",
+        "description": "Impumelelo Sacco Plot 94/868 Trelawney Park, Manzini, Eswatini between Evangelical Bible Church and Kingdom Hall of Jehovah's Witnesses"
+    },
+    "impumelelo location": {
+        "name": "Impumelelo Address",
+        "description": "Impumelelo Sacco Plot 94/868 Trelawney Park, Manzini, Eswatini between Evangelical Bible Church and Kingdom Hall of Jehovah's Witnesses"
+    },
+    "impumelelo vision": {
+        "name": "Impumelelo Vision",
+        "description": "To be the best dynamic and professionally run SACCO"
+    },
+    "impumelelo mission": {
+        "name": "Impumelelo Mission",
+        "description": "To afford members an opportunity to save and access affordable credit facilities, improve the socio-economic status of members through efficient and effective management, diversification of products and use of advanced technology while recognizing the interest of stakeholders"
+    },
+    "impumelelo's mission": {
+        "name": "Impumelelo Mission",
+        "description": "To afford members an opportunity to save and access affordable credit facilities, improve the socio-economic status of members through efficient and effective management, diversification of products and use of advanced technology while recognizing the interest of stakeholders"
+    },
+    "mission of impumelelo": {
+        "name": "Impumelelo Mission",
+        "description": "To afford members an opportunity to save and access affordable credit facilities, improve the socio-economic status of members through efficient and effective management, diversification of products and use of advanced technology while recognizing the interest of stakeholders"
+    },
+    "impumelelo values": {
+        "name": "Impumelelo Values",
+        "description": "Equality, Integrity, Confidentiality, Accountability, Transparency, Customer Focus, Professionalism, Humanity"
+    },
+    "impumelelo's values": {
+        "name": "Impumelelo Values",
+        "description": "Equality, Integrity, Confidentiality, Accountability, Transparency, Customer Focus, Professionalism, Humanity"
+    },
+    "values of impumelelo": {
+        "name": "Impumelelo Values",
+        "description": "Equality, Integrity, Confidentiality, Accountability, Transparency, Customer Focus, Professionalism, Humanity"
+    },
+    "impumelelo services": {
+        "name": "Impumelelo's Services",
+        "description": "Impumelelo Savings, Impumelelo Investments, Impumelelo Loans"
+    },
+    "impumelelo's services": {
+        "name": "Impumelelo's Services",
+        "description": "Impumelelo Savings, Impumelelo Investments, Impumelelo Loans"
+    },
+    "impumelelo savings": {
+        "name": "Impumelelo Savings",
+        "description": "Impumelelo Ordinary Savings, Impumelelo Holiday Savings, Impumelelo School Savings"
+    },
+    "impumelelo investments": {
+        "name": "Impumelelo Investments",
+        "description": "Umtfunti Investment, Impumelelo Provisional Shares, Insika Savings, Umliba Savings"
+    },
+    "impumelelo loans": {
+        "name": "Impumelelo Loans",
+        "description": "Impumelelo Long Term Loan, Impumelelo Executive Loan Term, Impumelelo Relief Loan, Impumelelo Special Loan, Mlamuli Loan, Impumelelo Educational Loan, Titselo Loan, Msimisi Loan, Impumelelo Short Loan"
+    },
+    "impumelelo long term loan": {
+        "name": "Impumelelo Long Term Loan",
+        "description": "They are based on member’s savings. Members are given two/three times their saved amount (T&Cs apply). A member can apply for a new loan after paying 75% of his/her loan."
+    },
+    "impumelelo executive loan term": {
+        "name": "Impumelelo Executive Loan Term",
+        "description": "To qualify have savings of E70,000"
+    },
+    "impumelelo relief loan": {
+        "name": "Impumelelo Relief/Special Loan",
+        "description": "Every member is entitled to this loan. Payable over twelve(12) months. No proof is required to obtain this loan. Maximum loan cannot exceed fifteen thousand Emalangeni (E15,000). Can be granted concurrently with other products. A non-defaulting shall be able to revolve to a new loan agreement after 50% repayment, of which can be allowed in the form of cash deposit"
+    },
+    "impumelelo special loan": {
+        "name": "Impumelelo Relief/Special Loan",
+        "description": "Every member is entitled to this loan. Payable over twelve(12) months. No proof is required to obtain this loan. Maximum loan cannot exceed fifteen thousand Emalangeni (E15,000). Can be granted concurrently with other products. A non-defaulting shall be able to revolve to a new loan agreement after 50% repayment, of which can be allowed in the form of cash deposit"
+    },
+    "mlamuli loan": {
+        "name": "Mlamuli Loan",
+        "description": "They are based on member’s savings. The member is given 75% of his/her total savings. Payable in 24 months. The loan is given in cases of unforseen circumstances such as death"
+    },
+    "educational loan": {
+        "name": "Educational Loan",
+        "description": "A member can obtain a maximum amount of E30,000. The maximum repayment is 24 months. Ordinary savings shall be at least E10 000 to obtain this loan"
+    },
+    "titselo loan": {
+        "name": "Titselo Loan",
+        "description": "This loan is to support members in achieving whatever they would like to achieve to improve their lives. The member has to meet the 5C’s of credit. The member must have fully paid up shares. The member shall be checked through ITC for clearance. Maximum amount of E50,000. The loan shall be repaid within 30 months (T&Cs apply). This loan can be granted concurrently with other products or on its own"
+    },
+    "msimisi loan": {
+        "name": "Msimisi Loan",
+        "description": "Members are bailed out of other financial institutions. Members must have savings of not less than E20,000. Maximum loan is E100,000. A member is bailed out once in five (5) years"
+    },
+    "impumelelo short loan": {
+        "name": "Impumelelo Short Loan",
+        "description": "Maximum amount is E4,000. Payable in 6 months. Turnaround time is 1 day (same day)"
+    },
+    "impumelelo ordinary savings": {
+        "name": "Impumelelo Ordinary Savings",
+        "description": "Money cannot be withdrawn. They are the base of obtaining a loan. They form the backbone of the organisation. They earn interest for members"
+    },
+    "impumelelo holiday savings": {
+        "name": "Iimpumelelo Holiday Savings",
+        "description": "This is the money saved by members for the year end entertainment. Can be withdrawn on request. Earns interest for the member"
+    },
+    "impumelelo school savings": {
+        "name": "Impumelelo School Savings",
+        "description": "This money is saved to pay school fees. Can be withdrawn on request. Earns interest for the member"
+    },
+    "umtfunti investment": {
+        "name": "Umtfunti Investment",
+        "description": "This is an investment product for retired members. A lump sum of not less than E30,000 with traceable records shall be deposited once a year. A top-up of not less than E2,500 shall be allowed once a year. There shall be no monthly deposit. Non-withdrawable untill maturity at 12 months. Interest shall be re-invested on the product. On resignation, the member shall be subjected to a penalty of 5% of the interest earned"
+    },
+    "impumelelo provisional shares": {
+        "name": "Impumelelo Provisional Shares",
+        "description": "This is an investment product with an attractive interest. A member shall deposit a minimum of E3,000. Monthly deposits shall be accepted as top up, not exceeding total provisional shares of E60,000. Maximum investment shall not exceed E60,000. Can be transferred to ordinary savings. Can be used as collateral"
+    },
+    "insika savings": {
+        "name": "Insika Savings",
+        "description": "This is a non-withdrawable savings product for retirement. Joining is Voluntary. Minimum saving is E50. It acts as immediate pension after retirement. It act as collateral for member’s loan. Interest shall be calculated annually at a rate similar to school or holiday savings. This product is non-withdrawable until retirement however, 30% can be withdrawn once in 10 years. The member shall notify the office in writing, 2 months before the retirement date. If the member resigns before the retirement date funds will be accessible. The lump sum is payable within 2 weeks of retirement as per request"
+    },
+    "umliba savings": {
+        "name": "Umliba Savings",
+        "description": "This is a long-term saving product for children below 18 years. Every child must join under principal member. The monthly minimum savings shall be E50. The amount shall be deducted from the principal member. The savings shall be non-withdrawable untill the child is 18 years. The principal member shall not borrow in any loan product against children’s product. To serve as collateral for principal member’s loans. Interest from this product shall be re-invested"
+    },
+    "become a impumelelo member": {
+        "name": "Become a Impumelelo Member",
+        "description": "Go to: www.impumelelosacco.com/members/forms/"
+    },
+    "family life association of eswatini": {
+        "name": "Family Life Association of Eswatini (FLAS)",
+        "description": "The Family Life Association of Eswatini (FLAS) is a volunteer-based non-profit organization which focuses on the provision of integrated Sexual and Reproductive Health (SRH) and HIV services and information with a primary target on young people aged 10 – 24 while adults and those below 10 become a secondary target."
+    },
+    "family life association of swaziland": {
+        "name": "Family Life Association of Eswatini (FLAS)",
+        "description": "The Family Life Association of Eswatini (FLAS) is a volunteer-based non-profit organization which focuses on the provision of integrated Sexual and Reproductive Health (SRH) and HIV services and information with a primary target on young people aged 10 – 24 while adults and those below 10 become a secondary target."
+    },
+    "flas": {
+        "name": "Family Life Association of Eswatini (FLAS)",
+        "description": "The Family Life Association of Eswatini (FLAS) is a volunteer-based non-profit organization which focuses on the provision of integrated Sexual and Reproductive Health (SRH) and HIV services and information with a primary target on young people aged 10 – 24 while adults and those below 10 become a secondary target."
+    },
+    "flas email": {
+        "name": "Flas Email",
+        "description": ""
+    },
+    "fFlas phone": {
+        "name": "Call FLAS on",
+        "description": "Manzini: +268 2505 3082 - Mbabane: +268 2404 9916"
+    },
+    "call flas": {
+        "name": "Call FLAS on",
+        "description": "Manzini: +268 2505 3082 - Mbabane: +268 2404 9916"
+    },
+    "flas phone": {
+        "name": "Call FLAS on",
+        "description": "Manzini: +268 2505 3082 - Mbabane: +268 2404 9916"
+    },
+    "flas number": {
+        "name": "Call FLAS on",
+        "description": "Manzini: +268 2505 3082 - Mbabane: +268 2404 9916"
+    },
+    "flas manzini": {
+        "name": "Call FLAS on",
+        "description": "+268 2505 3082"
+    },
+    "flas mbabane": {
+        "name": "Call FLAS on",
+        "description": "+268 2404 9916"
+    },
+    "flas operation hours": {
+        "name": "Operation Hours",
+        "description": "Monday to Friday (8:00am - 4:30pm)"
+    },
+    "flas address": {
+        "name": "Flas Address",
+        "description": "Mbhabha Street, Beside Swazi Milling Company, Manzini | Mbabane, Along Karl Grant Street, Behind Mona Flats"
+    },
+    "flas mission": {
+        "name": "Flas Mission",
+        "description": "To champion access to quality gender-sensitive equitable and non-discriminatory SRHR services and information in Eswatini through advocacy, direct service delivery, and Partnerships"
+    },
+    "flas vision": {
+        "name": "Flas Vision",
+        "description": "An empowered generation that freely accesses full SRHR Information and services as a basic human need"
+    },
+    "maternal neonate child health": {
+        "name": "Maternal Neonate Child Health",
+        "description": "You can carry out a pregnancy test from the first day after a missed period. Pregnancy tests work by detecting a pregnancy hormone: First visit Antenatal Care, Revisit Antenatal Care, 7 days Post Natal Care, Revisit at six (6) weeks, Child growth monitoring and immunization."
+    },
+    "contraceptives and family planning": {
+        "name": "Contraceptives and Family Planning",
+        "description": "Contraception, sometimes known as birth control, is a device, medicine or a method that aims to prevent pregnancy"
+    },
+    "screening services": {
+        "name": "Screening Services",
+        "description": "You can get sexually transmitted infections (STIs) through unprotected sex, including oral, anal and vaginal sex. Any sexually active. Screenings done are: Pregnancy Test, Breast Examination, Cervical Cancer Screening using VIA, Cervical Cancer Screening using water-based Pap Smear, Blood Group Testing, Blood Sugar Testing, Prostate Vancer Screening, Sexually Transmitted Infections"
+    },
+    "voluntary medical male circumcision": {
+        "name": "Voluntary Medical Male Circumcision",
+        "description": "The WHO and MOH recommend voluntary medical male circumcision (VMMC) to reduce heterosexual HIV acquisition"
+    },
+    "ultrasound scan": {
+        "name": "Ultrasound Scan",
+        "description": "Services include: 1.Obstetrics, 2.Pelvic Ultrasound, 3.Abdominal Ultrasound, 4.Prostate Screening"
+    },
+    "contraception": {
+        "name": "CONTRACEPTION AND FAMILY PLANNING SERVICES (TEKUVIKELA KUKHULELWA)",
+        "description": "CONTRACEPTION AND FAMILY PLANNING SERVICES (TEKUVIKELA KUKHULELWA)"
+    },
+    "family planning": {
+        "name": "CONTRACEPTION AND FAMILY PLANNING",
+        "description": "Tekuvikela Kukhulelwa"
+    },
+    "flas services": {
+        "name": "Flas Services",
+        "description": "Maternal Neonate Child Health, Contraceptives and Family Planning, Screening Services, Voluntary medical male circumcision, Ultrasound Scan Services, Contraception and Family Planning Services"
+    },
+    "flas membership": {
+        "name": "Flas Membership",
+        "description": "FLAS Individual Members (IM) and FLAS Honorary Life Member (HLM)"
+    },
+    "flas individual members": {
+        "name": "Flas Individual Members",
+        "description": "This is a person that pays a once off annual membership fee of E200 to support the work of the Family Life Association of Eswatini (FLAS). This type of member is encouraged to volunteer their time to help FLAS. Members will receive regular emails and other forms of communication that will update them about FLAS' activities & achivements. These will include newsletters, annual reports & other related information. Access to FLAS clinical services - registration fee is waived. "
+    },
+    "flas honorary life member": {
+        "name": "Flas Honorary Life Member",
+        "description": "This member does not have to pay a membership fee. However, they will be encouraged to make an annual donation. Members will be senior long serving volunteers or any other eminent people in Eswatini who have or will play a significant role in FLAS' work. They will be conferred with this title by the FLAS Board. Members will receive regular emails & other communication that will update them about FLAS' activities & achievements. These will include newsletters, annual reports & other related information. Access to FLAS clinical services - registration fee waived."
+    },
+    "flas partnership": {
+        "name": "Flas Partnership",
+        "description": "This is for Non-Government Organisations (NGOs) that pay a once off annual fee of E250. These are organisations that have a similar version and mission as FLAS and wish to contribute to the organisation. Members will receive regular emails & other communication that will update them about FLAS' activities and achievements. These will include newsletters, annual reports and other related information. Collaborative activities prioritised."
+    },
+    "flas donate": {
+        "name": "Flas Donate",
+        "description": "When philantropy invests in women's foundations and gender justice funders, we empower a deeply intersectional movement that fights for policies and standards across lines of race, class & gender. WFN is the largest philanthropic alliance in the world dedicated to advancing the essential role of these funders in the unwavering fight for gender equality & justice. To donate, go to: www.flas.org.sz/donate"
+    },
+    "snat sacco": {
+        "name": "SNAT SACCO",
+        "description": "SNAT SACCO an exclusively teachers’ Savings and Credit Co-operative in the Kingdom of Eswatini, formed and launched in 1986. SNAT SACCO is the leading savings and credit cooperative in the kingdom both in membership and assets. The SACCO is affiliated to the Eswatini Association of Savings and Credit Co-operatives (ESASCCO), regulated by the Co-operatives Societies Act of 2003 and the Financial Services Regulatory Authority Act of 2010. SNAT. Led by a Board of Directors that comprise the Executive, Supervisory, Credit and Education Committees, the SACCO has a management team that is led by the General Manager, with about 40 employees."
+    },
+    "snat mission": {
+        "name": "Snat Mission",
+        "description": "We enhance the economic wellbeing of our members through affordable and quality financial products and services"
+    },
+    "snat vision": {
+        "name": "Snat Vision",
+        "description": "Ethical Behaviour, Excellence, People Centric, Innovative, Collaboration"
+    },
+    "snat email": {
+        "name": "Snat Email",
+        "description": "customerservice@snatco-ops.co.sz OR admin@snatco-ops.co.sz"
+    },
+    "snat phone": {
+        "name": "Call SNAT SACCO on",
+        "description": "+268 2505 6459 OR +268 7632 6853 OR +268 7932 6853"
+    },
+    "snat address": {
+        "name": "SNAT Address",
+        "description": "1st & 2nd Floor, SNAT CO-OP House, Mancishane Street, P O Box 1917, Manzini, M200, Eswatini"
+    },
+    "snat sacco address": {
+        "name": "SNAT Address",
+        "description": "1st & 2nd Floor, SNAT CO-OP House, Mancishane Street, P O Box 1917, Manzini, M200, Eswatini"
+    },
+    "snat location": {
+        "name": "SNAT Address",
+        "description": "1st & 2nd Floor, SNAT CO-OP House, Mancishane Street, P O Box 1917, Manzini, M200, Eswatini"
+    },
+    "snat sacco location": {
+        "name": "SNAT Address",
+        "description": "1st & 2nd Floor, SNAT CO-OP House, Mancishane Street, P O Box 1917, Manzini, M200, Eswatini"
+    },
+    "snat operation hours": {
+        "name": "SNAT Operation Hours",
+        "description": "Mon - Fri (8:30am - 4pm) | Sat (8:30am - 12:00 noon)"
+    },
+    "khulisa umntfwana shoe drive": {
+        "name": "Khulisa Umntfwana Shoe Drive",
+        "description": "SNAT SACCO incorporate the true spirit of corporate social responsibility and it is committed to the highest standards. It has a deeply rooted tradition of acting in a responsible and ethical manner, and of being actively and positively present in the communities more especially in children’s lives. Hence the development of the KHULISA UMNTFWANA SHOE DRIVE where SNAT SACCO donate school shoes to the less privilege kids in schools."
+    },
+    "snat services": {
+        "name": "SNAT Services",
+        "description": "SNAT Savings, SNAT Loans, SNAT Funeral Cover, SNAT Family Cover"
+    },
+    "snat savings": {
+        "name": "SNAT Savings",
+        "description": "SNAT Ordinary Savings, SNAT Withdrawable (School) Savings"
+    },
+    "snat ordinary savings": {
+        "name": "SNAT Ordinary Savings",
+        "description": "Compulsory Saving Account, Non-Withdrawable, Minimum is E100.00, Generate interest, distributed annually according to the SNAT SACCO financial performance. "
+    },
+    "snat withdrawable savings": {
+        "name": "SNAT Withdrawable Savings",
+        "description": "Optional Savings Account, Withdrawable once in 3 months, Minimum E100.00, Generate interest, distributed annually according to the SNAT SACCO financial performance."
+    },
+    "snat loans": {
+        "name": "SNAT Loans",
+        "description": "SNAT Standard Loan, SNAT Personal Loan, SNAT Short Loan, SNAT School Fees Loan, SNAT Special Loan, SNAT Hybrid Loan, SNAT Car Loan, SNAT Helpline Loan, SNAT Business Loan, SNAT Consolidation Loan"
+    },
+    "snat standard loan": {
+        "name": "SNAT Standard Loan",
+        "description": "Borrow up to 3 times of members general savings. Maximum amount is E300 000.00. Maximum period is 120 months. Interest is on a reducing balance."
+    },
+    "snat personal loan": {
+        "name": "SNAT Personal Loan",
+        "description": "Borrow Up to 3/4 of the members general savings. Maximum amount is E60 000.00 (subject to members savings). Maximum period is 18 months. Interest is on a reducing balance."
+    },
+    "snat short loan": {
+        "name": "SNAT Short Loan",
+        "description": "Maximum amount is E5 000.00. Maximum period is 5 months. Interest is on a reducing balance"
+    },
+    "snat school fees loan": {
+        "name": "SNAT School Fees Loan",
+        "description": "Borrow up to 2 times of members savings. Maximum amount subject to members savings. Maximum period is 12 months. Interest is on a reducing balance. "
+    },
+    "snat special loan": {
+        "name": "SNAT Special Loan",
+        "description": "Mainly for Title deed and immovable property. Maximum amount is E500 000.00. Maximum period is 15 years. Interest is on a reducing balance."
+    },
+    "snat hybrid loan": {
+        "name": "SNAT Hybrid Loan",
+        "description": "Requires property (title deed) as collateral/ security. Maximum amount is 90% of the value of property. Maximum period is 10 years. Interest is on a reducing balance. "
+    },
+    "snat car loan": {
+        "name": "SNAT Car Loan",
+        "description": "Requires the car as collateral/security. Maximum amount is E350 000.00. Maximum repayment period determined by the vehicle year of manufacture not exceeding 60 months. Interest is on a reducing balance."
+    },
+    "snat helpline loan": {
+        "name": "SNAT Helpline Loan",
+        "description": "Maximum amount is E20 000.00. Maximum period is 12 months. Interest is on a reducing balance. "
+    },
+    "snat business loan": {
+        "name": "SNAT Business Loan",
+        "description": "Maximum amount is E200 000.00. Maximum period is 60 months. On repayment 50% of the installment is from the business. Interest is on a reducing balance."
+    },
+    "snat consolidation loan": {
+        "name": "SNAT Consolidation Loan",
+        "description": "Maximum amount is E200 000.00. Maximum period is 84 months. Interest is 1.375% per month on a reducing balance. Settlement fee shall be charged at 3.5%."
+    },
+    "snat funeral cover": {
+        "name": "SNAT Funeral Cover",
+        "description": "All SNAT SACCO active members are entitled to E20 000.00 funeral cover benefit, without paying a monthly premium. Claims are processed and paid within 48hrs. (Funeral Cover Claim) Deceased Documents: 1. Three (3) certified copied of National ID card, 2. Three (3) certified copies of death certificate, 3. Current payslip, 4. Doctors’ death confirmation letter (BMD1), 5. Body confirmation letter from mortuary. Beneficiary Documents: 1. One (1) certified copy of national ID card, 2. Bank statement. NB: All Document must be submitted to the office within 6 months of the deceased date."
+    },
+    "snat family cover": {
+        "name": "SNAT Family Cover",
+        "description": "SNAT SACCO through Orchard Insurance provides a family support cover that cover the death of a member or a spouse. This family support cover is designed to provide monthly support to members’ beneficiaries in the unfortunate event of death of our member or their spouse. There is a monthly premium with two options: Option 1 is E15.00 and Option 2 is E35.00. Our Family Support Cover provides a E12 000.00 cover which is paid to the members beneficiary in instalments of E2 000.00 per month for 6 months. "
+    },
+    "snat loan requirements": {
+        "name": "SNAT Loan Requirements",
+        "description": "SNAT SACCO loans are based on members ordinary savings. The following document are requirement of a loan application: 1. Current Payslip, 2. 3 months Bank statement (except for short loans), 3. Member’s net pay should be within 33%"
+    },
+    "snat sacco joininig fee": {
+        "name": "SNAT SACCO",
+        "description": "Joining fee is E550.00 once off"
+    },
+    "snat joininig fee": {
+        "name": "SNAT SACCO",
+        "description": "Joining fee is E550.00 once off"
+    },
+    "who can join snat sacco": {
+        "name": "Who can join SNAT SACCO",
+        "description": "Only teachers employed as civil servants (temporal or permanent) can join SNAT Savings and Credit Co-operative Society. This potential member must be willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination."
+    },
+    "who can join snat": {
+        "name": "Who can join SNAT SACCO",
+        "description": "Only teachers employed as civil servants (temporal or permanent) can join SNAT Savings and Credit Co-operative Society. This potential member must be willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination."
+    },
+    "documents do i need to join snat sacco": {
+        "name": "Documents needed to join SNAT SACCO",
+        "description": "1. Current Payslip, 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+    },
+    "documents i need to join snat": {
+        "name": "Documents needed to join SNAT SACCO",
+        "description": "1. Current Payslip, 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+    },
+    "documents needed to join snat sacco": {
+        "name": "Documents needed to join SNAT SACCO",
+        "description": "1. Current Payslip, 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+    },
+    "documents do i need to bring when joining snat sacco": {
+        "name": "Documents needed to join SNAT SACCO",
+        "description": "1. Current Payslip, 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+    },
+    "documents do i need to bring when joining snat": {
+        "name": "Documents needed to join SNAT SACCO",
+        "description": "1. Current Payslip, \n 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
     },
     "swazimed": {
         "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
