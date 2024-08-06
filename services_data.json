@@ -311,15 +311,11 @@
     },
     "restuarant": {
         "name": "Organizations that provide that service are",
-        "description": "Willows Lodge, Mantenga Lodge"
+        "description": "Willows Lodge, \n Mantenga Lodge"
     },
     "restaurant": {
         "name": "Organizations that provide that service are",
-        "description": "Willows Lodge, Mantenga Lodge"
-    },
-    "insurance": {
-        "name": "Which category do you want",
-        "description": "Short-Term Insurers, Composite Insurers, Long-Term Insurers, Reinsurers, Micro-Insurers, Beneficiary Funds, Insurance Brokers, Foreign Retirement Funds, Local Retirement Funds, Medical Aid Funds, Corporate Agents, Medical Aid Schemes Administrators, Fund Administrators"
+        "description": "Willows Lodge, \n Mantenga Lodge"
     },
     "micro insurers": {
         "name": "Micro-Insurers (1/1)",
@@ -331,27 +327,27 @@
     },
     "short term insurer": {
         "name": "Short-Term Insurers (1/1)",
-        "description": "Lidwala Insurance, Medscheme Health Insurance, Oracle Insure, Phoenix of Swaziland Assurance, United General Insurance, United Health Insurance"
+        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
     },
     "short term insurance": {
         "name": "Short-Term Insurers (1/1)",
-        "description": "Lidwala Insurance, Medscheme Health Insurance, Oracle Insure, Phoenix of Swaziland Assurance, United General Insurance, United Health Insurance"
+        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
     },
     "short term": {
         "name": "Short-Term Insurers (1/1)",
-        "description": "Lidwala Insurance, Medscheme Health Insurance, Oracle Insure, Phoenix of Swaziland Assurance, United General Insurance, United Health Insurance"
+        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
     },
     "long term insurers": {
         "name": "Long-Term Insurers (1/1)",
-        "description": "Dups Direct Insurance, Finsure Assurance, Liberty Life, Old Mutual Life Assurance, Oracle Life, Orchard Insurance, Safrican Swaziland Insurance"
+        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
     },
     "long term insurance": {
         "name": "Long-Term Insurers (1/1)",
-        "description": "Dups Direct Insurance, Finsure Assurance, Liberty Life, Old Mutual Life Assurance, Oracle Life, Orchard Insurance, Safrican Swaziland Insurance"
+        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
     },
     "long term": {
         "name": "Long-Term Insurers (1/1)",
-        "description": "Dups Direct Insurance, Finsure Assurance, Liberty Life, Old Mutual Life Assurance, Oracle Life, Orchard Insurance, Safrican Swaziland Insurance"
+        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
     },
     "medical aid schemes administrators": {
         "name": "Medical Aid Schemes Administrators (1/1)",
@@ -375,159 +371,123 @@
     },
     "reinsurers": {
         "name": "Reinsurers (1/1)",
-        "description": "Eswatini Re-Limited, Ezulwini Reinsurance Company"
+        "description": "Eswatini Re-Limited, \n Ezulwini Reinsurance Company"
     },
     "fund administrators": {
         "name": "Fund Administrators (1/1)",
-        "description": "Eswatini Insurance Brokers, Eswatini Royal Insurance Corporation, Negotiated Benefit Consultant Swaziland , Oracle Life, Swaziland Employee Benefit Consultants"
+        "description": "Eswatini Insurance Brokers, \n Eswatini Royal Insurance Corporation, \n Negotiated Benefit Consultant Swaziland, \n Oracle Life, \n Swaziland Employee Benefit Consultants"
     },
     "medical aid funds": {
         "name": "Medical Aid Funds (1/1)",
-        "description": "emaSwati Care, Swazi HMO-Mpilwenhle, Swaziland Medical Aid Fund"
+        "description": "emaSwati Care, \n Swazi HMO-Mpilwenhle, \n Swaziland Medical Aid Fund"
     },
     "beneficiary funds": {
         "name": "Beneficiary Funds (1/1)",
-        "description": "ESRIC Beneficiary Fund, Fairlife Benefit Services, Likhwane Beneficiary"
+        "description": "ESRIC Beneficiary Fund, \n Fairlife Benefit Services, \n Likhwane Beneficiary"
     },
     "beneficiary fund": {
         "name": "Beneficiary Funds (1/1)",
-        "description": "ESRIC Beneficiary Fund, Fairlife Benefit Services, Likhwane Beneficiary"
+        "description": "ESRIC Beneficiary Fund, \n Fairlife Benefit Services, \n Likhwane Beneficiary"
     },
     "insurance brokers": {
         "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
-    },
-    "brokers": {
-        "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
-    },
-    "broker": {
-        "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
+        "description": "Amazon Insurance Brokers, \n B3 Group, \n BSK Insurance Brokers, \n Client First Insurance Brokers, \n Coverite Insurance Brokers, \n Eazy Grow International, \n Eliz Corporate Consultants, \n Ensure Insurance Brokers, \n Eswatini Employee Benefit Consultants, \n Eswatini Insurance Brokers, \n Excellence Financial Services, \n Excorp Insurance, \n Fingroup Swaziland, \n Finsure Insurance Brokers...\n \n Type 'View Brokers 2' to view more"
     },
     "view broker 1": {
         "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
+        "description": "Amazon Insurance Brokers, \n B3 Group, \n BSK Insurance Brokers, \n Client First Insurance Brokers, \n Coverite Insurance Brokers, \n Eazy Grow International, \n Eliz Corporate Consultants, \n Ensure Insurance Brokers, \n Eswatini Employee Benefit Consultants, \n Eswatini Insurance Brokers, \n Excellence Financial Services, \n Excorp Insurance, \n Fingroup Swaziland, \n Finsure Insurance Brokers...\n \n Type 'View Brokers 2' to view more"
     },
     "view broker 2": {
         "name": "More Insurance Brokers (2/2)",
-        "description": "Glenrand MIB, Global Impact Consultancy, Healthcare Insurance Brokers, LG Financial Services and Consultancy, Mbabane Burial Benefit Society, Minx Insurance Brokers, Namaga Consultancy, Nico Insurance Brokers, Optimal Investment Solutions, Patula Risk, SASCCO, Sekusile Insurance Brokers, The Link Insurance Brokers, Tibiyo Insurance Brokers, Zanton Insurance Brokers"
+        "description": "Glenrand MIB, \n Global Impact Consultancy, \n Healthcare Insurance Brokers, \n LG Financial Services and Consultancy, \n Mbabane Burial Benefit Society, \n Minx Insurance Brokers, \n Namaga Consultancy, \n Nico Insurance Brokers, \n Optimal Investment Solutions, \n Patula Risk, \n SASCCO, \n Sekusile Insurance Brokers, \n The Link Insurance Brokers, \n Tibiyo Insurance Brokers, \n Zanton Insurance Brokers"
     },
     "corporate agents": {
         "name": "Corporate Agents (1/2)",
-        "description": "Bunye Betfu Buhle Betfu SACCO, Buzzby Services, Consolidated Insurance Agency, Crucifix Funeral Directors and Coffin Manufacturers, Cutting Edge Management Consultants, Edgars Stores Eswatini, First National Bank, JD Group , Letshego Financial Services, Maq Alf, Marlett Investments, Mphumusa Investments, Nedbank, Nhlangano Funeral Parlour...Type 'More Corporate Agents' to view more"
+        "description": "Bunye Betfu Buhle Betfu SACCO, \nBuzzby Services, \nConsolidated Insurance Agency, \nCrucifix Funeral Directors and Coffin Manufacturers, \nCutting Edge Management Consultants, \nEdgars Stores Eswatini, \nFirst National Bank, \nJD Group, \nLetshego Financial Services, \n Maq Alf, \n Marlett Investments, \n Mphumusa Investments, \n Nedbank, \n Nhlangano Funeral Parlour... \n \n Type 'More Corporate Agents' to view more"
     },
     "view agents 1": {
         "name": "Corporate Agents (1/2)",
-        "description": "Bunye Betfu Buhle Betfu SACCO, Buzzby Services, Consolidated Insurance Agency, Crucifix Funeral Directors and Coffin Manufacturers, Cutting Edge Management Consultants, Edgars Stores Eswatini, First National Bank, JD Group , Letshego Financial Services, Maq Alf, Marlett Investments, Mphumusa Investments, Nedbank, Nhlangano Funeral Parlour...Type 'View Agents 2' to view more"
+        "description": "Bunye Betfu Buhle Betfu SACCO, \nBuzzby Services, \nConsolidated Insurance Agency, \nCrucifix Funeral Directors and Coffin Manufacturers, \nCutting Edge Management Consultants, \nEdgars Stores Eswatini, \nFirst National Bank, \nJD Group, \nLetshego Financial Services, \n Maq Alf, \n Marlett Investments, \n Mphumusa Investments, \n Nedbank, \n Nhlangano Funeral Parlour... \n \n Type 'View Agents 2' to view more"
     },
     "view agents 2": {
         "name": "More Corporate Agents (2/2)",
-        "description": "OK Bazaars Mbabane, Select Limited, Standard Bank Eswatini Limited, Standard Bank Swaziland Limited, Swaziland Building Society, Swaziland Conference of Churches, Swaziland Development and Savings Bank, Swaziland Development and Savings Bank, Swaziland Nurses Association, Taurus Investments, WellPoint Investments"
+        "description": "OK Bazaars Mbabane, \n Select Limited, \n Standard Bank Eswatini Limited, \n Standard Bank Swaziland Limited, \n Swaziland Building Society, \n Swaziland Conference of Churches, \n Swaziland Development and Savings Bank, \n Swaziland Development and Savings Bank, \n Swaziland Nurses Association, \n Taurus Investments, \n WellPoint Investments"
     },
     "local retirement funds": {
         "name": "Local Retirement Funds (1/7)",
-        "description": "Central Bank of Eswatini Pension Fund, City Council of Mbabane Employee Pension Fund, City Council of Mbabane Pension and Group Life Assurance Scheme, Conco Limited (SD Branch) Provident Fund, ESRIC Preservation Pension Fund, ESRIC Preservation Provident Fund, ESRIC Staff Pension Fund, ESRIC Umbrella Provident Fund, Eswatini Bank Pension Fund...Type 'View local 2' to view more "
+        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
     },
     "local retirement fund": {
         "name": "Local Retirement Funds (1/7)",
-        "description": "Central Bank of Eswatini Pension Fund, City Council of Mbabane Employee Pension Fund, City Council of Mbabane Pension and Group Life Assurance Scheme, Conco Limited (SD Branch) Provident Fund, ESRIC Preservation Pension Fund, ESRIC Preservation Provident Fund, ESRIC Staff Pension Fund, ESRIC Umbrella Provident Fund, Eswatini Bank Pension Fund...Type 'View local 2' to view more "
+        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
     },
     "view local 1": {
         "name": "Local Retirement Funds (1/7)",
-        "description": "Central Bank of Eswatini Pension Fund, City Council of Mbabane Employee Pension Fund, City Council of Mbabane Pension and Group Life Assurance Scheme, Conco Limited (SD Branch) Provident Fund, ESRIC Preservation Pension Fund, ESRIC Preservation Provident Fund, ESRIC Staff Pension Fund, ESRIC Umbrella Provident Fund, Eswatini Bank Pension Fund...Type 'View local 2' to view more "
+        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
     },
     "view local 2": {
         "name": "More Local Retirement Funds (2/7)",
-        "description": "Eswatini Civil Aviation Authority Provident Fund, Eswatini Electricity Company Pension Fund, Eswatini National Provident Fund, Eswatini National Provident Fund Staff Pension Scheme, Eswatini Nazarene Health Institutions Staff Pension Fund, Eswatini Observer Provident Fund, Eswatini Post & Telecommunications Corporation Pension Fund...Type 'View local 3' to view more"
+        "description": "Eswatini Civil Aviation Authority Provident Fund, \n Eswatini Electricity Company Pension Fund, \n Eswatini National Provident Fund, \n Eswatini National Provident Fund Staff Pension Scheme, \n Eswatini Nazarene Health Institutions Staff Pension Fund, \n Eswatini Observer Provident Fund, \n Eswatini Post & Telecommunications Corporation Pension Fund... \n \n Type 'View local 3' to view more"
     },
     "view local 3": {
         "name": "More Local Retirement Funds (3/7)",
-        "description": "Eswatini Railway Pension Fund, Eswatini Railway Provident Fund, Eswatini Revenue Authority Pension Fund, Eswatini Revenue Authority Provident Fund, Eswatini Sugar Association Staff Provident Fund, Eswatini Television Authority Pension Fund, Eswatini Water Service Corporation Pension Fund, Exams Council Pension Fund...Type 'View local 4' to view more"
+        "description": "Eswatini Railway Pension Fund, \n Eswatini Railway Provident Fund, \n Eswatini Revenue Authority Pension Fund, \n Eswatini Revenue Authority Provident Fund, \n Eswatini Sugar Association Staff Provident Fund, \n Eswatini Television Authority Pension Fund, \n Eswatini Water Service Corporation Pension Fund, \n Exams Council Pension Fund... \n \n Type 'View local 4' to view more"
     },
     "view local 4": {
         "name": "More Local Retirement Funds (4/7)",
-        "description": "First National Bank of Swaziland Pension Fund, FSRA Staff Provident Fund, Institute of Development Management Pension Fund Eswatini, Inyatsi Provident Fund, Lilunga Umbrella Pension Fund, Ludziwo Umbrella Provident Fund, M.V.A Staff Pension Fund, Mananga Provident Fund, Mbabane Hotels Provident Fund, Members of Parliament & Designated Office Bearers Pension Fund...Type 'View local 5' to view more"
+        "description": "First National Bank of Swaziland Pension Fund, \n FSRA Staff Provident Fund, \n Institute of Development Management Pension Fund Eswatini, \n Inyatsi Provident Fund, Lilunga Umbrella Pension Fund, Ludziwo Umbrella Provident Fund, M.V.A Staff Pension Fund, Mananga Provident Fund, Mbabane Hotels Provident Fund, Members of Parliament & Designated Office Bearers Pension Fund...Type 'View local 5' to view more"
     },
     "view local 5": {
         "name": "More Local Retirement Funds (5/7)",
-        "description": "Municipal Council of Manzini Staff Pension Fund, Namboard Pension Fund, NedBank (Swaziland) Limited Pension Fund, Nhlangano Town Council Pension Fund, Non-Governmental Health Sector Pension Fund, Old Mutual Lihawu Umbrella Pension Fund, Old Mutual Lihawu Umbrella Provident Fund, Premier Swazi Bakeries Pension Fund, Public Service Pension Fund, Public Service Pension Fund Staff Pension Scheme...Type 'View local 6' to view more"
+        "description": "Municipal Council of Manzini Staff Pension Fund, \n Namboard Pension Fund, \n NedBank (Swaziland) Limited Pension Fund, \n Nhlangano Town Council Pension Fund, Non-Governmental Health Sector Pension Fund, Old Mutual Lihawu Umbrella Pension Fund, Old Mutual Lihawu Umbrella Provident Fund, \n Premier Swazi Bakeries Pension Fund, \n Public Service Pension Fund, \n Public Service Pension Fund Staff Pension Scheme... \n \n Type 'View local 6' to view more"
     },
     "view local 6": {
         "name": "More Local Retirement Funds (6/7)",
-        "description": "Rainmaker Plus Pension Umbrella Fund Swaziland, Rainmaker Plus Provident Umbrella Fund Swaziland, Royal Eswatini Sugar Corporation Provident Fund, Sebenta National Institute Pension Fund, Sibaya Umbrella Pension Fund, Sibaya Umbrella Provident Fund, Sifundzani School Provident Fund, Silulu Provident Fund, Standard Bank Eswatini Pension Fund, SWAKI Pension Fund, Swaziland Building Society Pension Fund...Type 'View local 7' to view more"
+        "description": "Rainmaker Plus Pension Umbrella Fund Swaziland, \n Rainmaker Plus Provident Umbrella Fund Swaziland, \n Royal Eswatini Sugar Corporation Provident Fund, \n Sebenta National Institute Pension Fund, \n Sibaya Umbrella Pension Fund, \n Sibaya Umbrella Provident Fund, \n Sifundzani School Provident Fund, \n Silulu Provident Fund, \n Standard Bank Eswatini Pension Fund, \n SWAKI Pension Fund, \n Swaziland Building Society Pension Fund... \n \n Type 'View local 7' to view more"
     },
     "view local 7": {
         "name": "More Local Retirement Funds (7/7)",
-        "description": "Thokoza Church Centre Provident Fund, Tibiyo TakaNgwane Pension Fund, Tibiyo TakaNgwane Provident Fund, Tisuka TakaNgwane Provident Fund, Ubombo Sugar Pension Fund, Ubombo Sugar Provident Fund - Umzabalazo, Ubombo-Ingcamu Provident Fund, Umfuso Umbrella Pension Fund, Umfuso Umbrella Retirement Fund, UNESWA Pension Fund, YKK Southern Africa Factory Pension Fund"
+        "description": "Thokoza Church Centre Provident Fund, \n Tibiyo TakaNgwane Pension Fund, \n Tibiyo TakaNgwane Provident Fund, \n Tisuka TakaNgwane Provident Fund, \n Ubombo Sugar Pension Fund, \n Ubombo Sugar Provident Fund - Umzabalazo, \n Ubombo-Ingcamu Provident Fund, \n Umfuso Umbrella Pension Fund, \n Umfuso Umbrella Retirement Fund, \n UNESWA Pension Fund, \n YKK Southern Africa Factory Pension Fund"
     },
     "foreign retirement funds": {
         "name": "Foreign Retirement Funds (1/3)",
-        "description": "Ampath Trust Provident Fund, Aveng (Africa) Ltd-Infraset Pension Fund, BKB Group Retirement Fund, Crookes Brothers Pension Fund, Destiny Umbrella Provident Fund, DHL Provident Fund, Distell Retirement Fund, Engen Pension Fund, Engen Retirement Fund, FSN Southern Africa Pension Fund, Imperial Group Pension Fund, Imperial Group Provident Fund...Type 'View foreign 2' for more"
+        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
     },
     "foreign retirement fund": {
         "name": "Foreign Retirement Funds (1/3)",
-        "description": "Ampath Trust Provident Fund, Aveng (Africa) Ltd-Infraset Pension Fund, BKB Group Retirement Fund, Crookes Brothers Pension Fund, Destiny Umbrella Provident Fund, DHL Provident Fund, Distell Retirement Fund, Engen Pension Fund, Engen Retirement Fund, FSN Southern Africa Pension Fund, Imperial Group Pension Fund, Imperial Group Provident Fund...Type 'View foreign 2' for more"
+        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
     },
     "view foreign 1": {
         "name": "Foreign Retirement Funds (1/3)",
-        "description": "Ampath Trust Provident Fund, Aveng (Africa) Ltd-Infraset Pension Fund, BKB Group Retirement Fund, Crookes Brothers Pension Fund, Destiny Umbrella Provident Fund, DHL Provident Fund, Distell Retirement Fund, Engen Pension Fund, Engen Retirement Fund, FSN Southern Africa Pension Fund, Imperial Group Pension Fund, Imperial Group Provident Fund...Type 'View foreign 2' for more"
+        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
     },
     "view foreign 2": {
         "name": "More Foreign Retirement Funds (2/3)",
-        "description": "Investment Solutions Executive Umbrella Provident Fund, Investment Solutions Retirement Annuity Fund, Knight Piesold Staff Pension Fund, KPMG Provident Fund, Lewis Stores Provident Fund, Mr Price Group Retirement Fund, Nampak Group Pension Fund, Old Mutual Super Fund Pension Fund, Old Mutual Super Funds Provident Fund, Pannar Group Pension Fund, Pricewaterhouse Cooper Staff Provident Fund, Pricewaterhouse Coopers Directors Provident Fund...Type 'View foreign 3' for more"
+        "description": "Investment Solutions Executive Umbrella Provident Fund, \n Investment Solutions Retirement Annuity Fund, \n Knight Piesold Staff Pension Fund, \n KPMG Provident Fund, \n Lewis Stores Provident Fund, \n Mr Price Group Retirement Fund, \n Nampak Group Pension Fund, \n Old Mutual Super Fund Pension Fund, \n Old Mutual Super Funds Provident Fund, \n Pannar Group Pension Fund, \n Pricewaterhouse Cooper Staff Provident Fund, \n Pricewaterhouse Coopers Directors Provident Fund... \n \n Type 'View foreign 3' for more"
     },
     "view foreign 3": {
         "name": "More Foreign Retirement Funds (3/3)",
-        "description": "Retail Provident Fund, Retail Retirement Fund, Retirement-On-Line Pension Fund, Sanlam Staff Umbrella Pension Fund, Sanlam Staff Umbrella Provident Fund, Sanlam Umbrella Provident Fund, Sun International Pension Fund, Sun International Provident Fund, Infraset Provident Fund, The Preservation Pension Fund, The Preservation Provident Fund, The Provident Fund, Total South Africa Provident Fund, Umbrella Provident Fund"
+        "description": "Retail Provident Fund, \n Retail Retirement Fund, \n Retirement-On-Line Pension Fund, \n Sanlam Staff Umbrella Pension Fund, \n Sanlam Staff Umbrella Provident Fund, \n Sanlam Umbrella Provident Fund, \n Sun International Pension Fund, \n Sun International Provident Fund, \n Infraset Provident Fund, \n The Preservation Pension Fund, \n The Preservation Provident Fund, \n The Provident Fund, \n Total South Africa Provident Fund, \n Umbrella Provident Fund"
     },
     "agency": {
         "name": "Organizations that provide that service are",
-        "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
+        "description": "Dups Holdings, \n Ekhaya Funeral Services, \n Eswatini Insurance Brokers (Pty) Ltd, \n Eswatini Royal Insurance Corporation, \n Financial Services Regulatory Authority, \n Healthcare Insurance Brokers, \n Lidwala Insurance, \n Medscheme Administrators (Pty) Ltd, \n Metropolitan Life Swaziland, \n Old Mutual, \n Patula Risk, \n Sincephetelo Motor Vehicle Accidents Fund (SMVAF), \n Swaziland Medical Aid Fund (SwaziMed), \n Tibiyo Insurance Group"
     },
     "funeral parlor": {
         "name": "Organizations that provide that service are",
-        "description": "Dups Holdings, Ekhaya Funeral Services"
+        "description": "Dups Holdings, \n Ekhaya Funeral Services"
     },
     "insurance companies": {
         "name": "Organizations that provide that service are",
-        "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
-    },
-    "brokers": {
-        "name": "Organizations that provide that service are",
-        "description": "Dups Holdings, Ekhaya Funeral Services, Eswatini Insurance Brokers (Pty) Ltd, Eswatini Royal Insurance Corporation, Financial Services Regulatory Authority, Healthcare Insurance Brokers, Lidwala Insurance, Medscheme Administrators (Pty) Ltd, Metropolitan Life Swaziland, Old Mutual, Patula Risk, Sincephetelo Motor Vehicle Accidents Fund (SMVAF), Swaziland Medical Aid Fund (SwaziMed), Tibiyo Insurance Group"
+        "description": "Dups Holdings, \n Ekhaya Funeral Services, \n Eswatini Insurance Brokers (Pty) Ltd, \n Eswatini Royal Insurance Corporation, \n Financial Services Regulatory Authority, \n Healthcare Insurance Brokers, \n Lidwala Insurance, \n Medscheme Administrators (Pty) Ltd, \n Metropolitan Life Swaziland, \n Old Mutual, \n Patula Risk, \n Sincephetelo Motor Vehicle Accidents Fund (SMVAF), \n Swaziland Medical Aid Fund (SwaziMed), \n Tibiyo Insurance Group"
     },
     "medical aid": {
         "name": "Organizations that provide that service are",
-        "description": "Healthcare Insurance Brokers, Medscheme Administrators (Pty) Ltd, Swaziland Medical Aid Fund (SwaziMed)"
-    },
-    "retirement": {
-        "name": "Organizations that provide that service are",
-        "description": "Metropolitan Life Swaziland, Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
-    },
-    "pension": {
-        "name": "Organizations that provide that service are",
-        "description": "Metropolitan Life Swaziland, Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
-    },
-    "agriculture": {
-        "name": "Organizations that provide that service are",
-        "description": "Africa Chicks, Black Duke, Crookes Plantations Limited, Eagle Air (Pty) Ltd, Eagle’s Nest (Pty) Ltd, Eswatini Cane Growers Association, Eswatini Dairy Board, Eswatini Sugar Association, Eswatini Water & Agricultural Development Enterprise (ESWADE), Hurlingham Sugar Estate, Inyoni Yami Swaziland Irrigation Scheme, Mafuteni Ranch (Pty) Ltd, National Agricultural Marketing Board (NAMBOARD), National Chicks Swaziland, National Maize Corporation (NMC), Royal Swaziland Sugar Corporation (RSSC), Scotts Ranch 2000 Limited, Swaziland Citrus Board, Tongaat Hulett t/a Tambankulu Estate, Ubombo Sugar Limited, Umoba (Pty) Ltd"
-    },
-    "building": {
-        "name": "Organizations that provide that service are",
-        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
-    },
-    "construction": {
-        "name": "Organizations that provide that service are",
-        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
-    },
-    "engineering": {
-        "name": "Organizations that provide that service are",
-        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+        "description": "Healthcare Insurance Brokers, \n Medscheme Administrators (Pty) Ltd, \n Swaziland Medical Aid Fund (SwaziMed)"
     },
     "mining": {
         "name": "Organizations that provide that service are",
-        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+        "description": "A G Thomas, \n Alusol Swaziland, \n Construction Logistics (Pty) Ltd, \n Inyatsi Construction (Pty) Ltd, \n Isolution, \n Kukhanya Civil Engineering Contractors, \n Kwalini (Pty) Ltd, \n Maloma Colliery Ltd, \n SBM Enterprises T/A Sdudla Engineering, \n Stefanutti Stocks Swaziland"
     },
     "energy": {
         "name": "Organizations that provide that service are",
@@ -539,39 +499,39 @@
     },
     "forestry": {
         "name": "Organizations that provide that service are",
-        "description": "Montigny Investments Limited, Peak Timbers Ltd, Shiselweni Forestry Company Ltd, Swaziland Plantations Ltd"
+        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
     },
     "timber": {
         "name": "Organizations that provide that service are",
-        "description": "Montigny Investments Limited, Peak Timbers Ltd, Shiselweni Forestry Company Ltd, Swaziland Plantations Ltd"
+        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
     },
     "pulp": {
         "name": "Organizations that provide that service are",
-        "description": "Montigny Investments Limited, Peak Timbers Ltd, Shiselweni Forestry Company Ltd, Swaziland Plantations Ltd"
+        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
     },
     "hotel": {
         "name": "Organizations that provide that service are",
-        "description": "Alliance Foods (Pty) Ltd, Big Game Parks, Happy Valley Hotel, Kusa Kusile (Pty) Ltd t/a Nandos, Mantenga Lodge (Pty) Ltd, Mbabane Hotels t/a Mountain Inn, Mdimba Estates t/a Willows Lodge, Phophonyane Lodge and Nature Reserve, Royal Swazi Spa, Sibane Hotel, Swaziland Tourism Authority, Tibiyo Leisure and Resorts t/a Royal Villas"
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
     },
     "accomodation": {
         "name": "Organizations that provide that service are",
-        "description": "Alliance Foods (Pty) Ltd, Big Game Parks, Happy Valley Hotel, Kusa Kusile (Pty) Ltd t/a Nandos, Mantenga Lodge (Pty) Ltd, Mbabane Hotels t/a Mountain Inn, Mdimba Estates t/a Willows Lodge, Phophonyane Lodge and Nature Reserve, Royal Swazi Spa, Sibane Hotel, Swaziland Tourism Authority, Tibiyo Leisure and Resorts t/a Royal Villas"
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
     },
     "catering": {
         "name": "Organizations that provide that service are",
-        "description": "Alliance Foods (Pty) Ltd, Big Game Parks, Happy Valley Hotel, Kusa Kusile (Pty) Ltd t/a Nandos, Mantenga Lodge (Pty) Ltd, Mbabane Hotels t/a Mountain Inn, Mdimba Estates t/a Willows Lodge, Phophonyane Lodge and Nature Reserve, Royal Swazi Spa, Sibane Hotel, Swaziland Tourism Authority, Tibiyo Leisure and Resorts t/a Royal Villas"
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
     },
     "tourism": {
         "name": "Organizations that provide that service are",
-        "description": "Alliance Foods (Pty) Ltd, Big Game Parks, Happy Valley Hotel, Kusa Kusile (Pty) Ltd t/a Nandos, Mantenga Lodge (Pty) Ltd, Mbabane Hotels t/a Mountain Inn, Mdimba Estates t/a Willows Lodge, Phophonyane Lodge and Nature Reserve, Royal Swazi Spa, Sibane Hotel, Swaziland Tourism Authority, Tibiyo Leisure and Resorts t/a Royal Villas"
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
     },
     "manufacturing": {
         "name": "Organizations that provide that service are",
-        "description": "Afrisam Swaziland (Pty) Ltd, Afrox t/a Swazi Oxyggen, Arrowfeeds Ltd, Atlanta Products (Pty) Ltd, Barrat Board & Timber, Conco Limited, DD Williamson (Pty) Ltd, Dulux Swaziland (Pty) Ltd, Eswatini Beverages Ltd, Exipro Swaziland (Pty) Ltd, Global Paints, Infraset Swazi-Fyfe, Macmillan Education Swaziland (Pty) Ltd, Macsteel Eswatini, Mondelez International (Pty) Ltd, Ngwane Mills (Pty) Ltd, Ngwenya Glass (Pty) Ltd, Parmalat Swaziland (Pty) Ltd, Starpaint (Pty) Ltd, Stonewood Creations, Swazi Gases t/a Air Liquide, Swazi Mahewu (Pty) Ltd, Swazi Wire Industries, Vicker Swaziland"
+        "description": "Afrisam Swaziland (Pty) Ltd, \n Afrox t/a Swazi Oxyggen, \n Arrowfeeds Ltd, \n Atlanta Products (Pty) Ltd, \n Barrat Board & Timber, \n Conco Limited, \n DD Williamson (Pty) Ltd, \n Dulux Swaziland (Pty) Ltd, \n Eswatini Beverages Ltd, \n Exipro Swaziland (Pty) Ltd, \n Global Paints, \n Infraset Swazi-Fyfe, \n Macmillan Education Swaziland (Pty) Ltd, \n Macsteel Eswatini, \n Mondelez International (Pty) Ltd, \n Ngwane Mills (Pty) Ltd, \n Ngwenya Glass (Pty) Ltd, \n Parmalat Swaziland (Pty) Ltd, \n Starpaint (Pty) Ltd, \n Stonewood Creations, \n Swazi Gases t/a Air Liquide, \n Swazi Mahewu (Pty) Ltd, \n Swazi Wire Industries, Vicker Swaziland"
     },
     "processing": {
         "name": "Organizations that provide that service are",
-        "description": "Apollo Services (Pty) Ltd, Black Mamba Foods ( PTY) LTD, Clover Swaziland (Pty) Ltd, Dyson & Lincoln (Pty) Ltd, Elcor Industries (Pty) Ltd, Eswatini Beverages Ltd, Macmillan Education Swaziland (Pty) Ltd, Mananga Sugar Packers, Parmalat Swaziland (Pty) Ltd, Premier Swazi, Printpak, Rhodes Food Group, Stonewood Creations, Swazi Gases t/a Air Liquide, Swazi Mahewu (Pty) Ltd, Swazi Plastic Industries Ltd, Swazi Poultry Processors Ltd, Swazi Wire Industries, Swaziland Meat Industries, Unifoods, Vicker Swaziland, Yebo Art Gallery-Africa Fantasy"
+        "description": "Apollo Services (Pty) Ltd, \n Black Mamba Foods ( PTY) LTD, \n Clover Swaziland (Pty) Ltd, \n Dyson & Lincoln (Pty) Ltd, \n Elcor Industries (Pty) Ltd, \n Eswatini Beverages Ltd, \n Macmillan Education Swaziland (Pty) Ltd, \n Mananga Sugar Packers, \n Parmalat Swaziland (Pty) Ltd, \n Premier Swazi, \n Printpak, \n Rhodes Food Group, \n Stonewood Creations, \n Swazi Gases t/a Air Liquide, \n Swazi Mahewu (Pty) Ltd, \n Swazi Plastic Industries Ltd,\n  Swazi Poultry Processors Ltd, \n Swazi Wire Industries, \n Swaziland Meat Industries, \n Unifoods, \n Vicker Swaziland, \n Yebo Art Gallery-Africa Fantasy"
     },
     "non-government": {
         "name": "Organizations that provide that service are",
@@ -583,19 +543,19 @@
     },
     "ngo": {
         "name": "Organizations that provide that service are",
-        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), Kudvumisa Foundation, Medecins Sans Frontieres, World Vision International"
+        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), \n Kudvumisa Foundation, \n Medecins Sans Frontieres, \n World Vision International"
     },
     "professional services": {
         "name": "Organizations that provide that service are",
-        "description": "A M Consultancy, A M Recruitment Services (Pty) Ltd, Architects International, Bicon Consulting Engineers, Building Design Group Swaziland, Business Doctors Swaziland, ELB Labour Consultancy, Eswatini Economic Policy Analysis and Research Centre, Gundane & Sons, Kobla Quashie & Associates, KPMG, Manyatsi Nhleko Quantity Surveyors, Maphanga Mitchell & Associates, Pricewaterhouse Coopers (PWC), Resolution & Management Consultancy, Small Enterprise Development Company Ltd, Steve Hall Development Consultants (Pty) Ltd, Swaziland Consulting Engineers Inc., Swaziland Occupational Safety & Health, The Team Recruitment, Xpedia Consulting (Pty) Ltd"
+        "description": "A M Consultancy, \n A M Recruitment Services (Pty) Ltd, \n Architects International, \n Bicon Consulting Engineers, \n Building Design Group Swaziland, \n Business Doctors Swaziland, \n ELB Labour Consultancy, \n Eswatini Economic Policy Analysis and Research Centre, \n Gundane & Sons, \n Kobla Quashie & Associates, \n KPMG, Manyatsi Nhleko Quantity Surveyors, \n Maphanga Mitchell & Associates, \n Pricewaterhouse Coopers (PWC), \n Resolution & Management Consultancy, \n Small Enterprise Development Company Ltd, \n Steve Hall Development Consultants (Pty) Ltd, \n Swaziland Consulting Engineers Inc., \n Swaziland Occupational Safety & Health, \n The Team Recruitment, \n Xpedia Consulting (Pty) Ltd"
     },
     "retail": {
         "name": "Organizations that provide that service are",
-        "description": "Afritool, All Stationery (Pty)Ltd, British American Tobacco (Swaziland), Buy & Save Supermarket (Pty) Ltd, C G Trading Company (Pty) Ltd, CJ Trading t/a Furniture Warehouse, Corys Ltd t/a Pansolutions, Dynamic Distributors (Pty) Ltd, Hoageys Ltd, Linac t/a OK Foods, Lojaf Pick n Pay, Matsapha Trading Company, Mormond Electrical Contractors Ltd, NBR Investments t/a Khuba Traders, Ocean Fresh Import & Export (Pty) Ltd, Ocean Traders International (Pty) Ltd, Plate Glass Swaziland, SANO Holdings, Swaziland Agricultural Supplies, Swaziland Liquor Distributors-Distell SD, Swaziland Sales & Marketing t/a Tri-Star Swaziland, Swaziland Supply Centre, Under African Skies t/a Baobab-Batik"
+        "description": "Afritool, \n All Stationery (Pty)Ltd, \n British American Tobacco (Swaziland), \n Buy & Save Supermarket (Pty) Ltd, \n C G Trading Company (Pty) Ltd, \n CJ Trading t/a Furniture Warehouse, \n Corys Ltd t/a Pansolutions, \n Dynamic Distributors (Pty) Ltd, \n Hoageys Ltd, \n Linac t/a OK Foods, \n Lojaf Pick n Pay, \n Matsapha Trading Company, \n Mormond Electrical Contractors Ltd, \n NBR Investments t/a Khuba Traders, \n Ocean Fresh Import & Export (Pty) Ltd, \n Ocean Traders International (Pty) Ltd, \n Plate Glass Swaziland, \n SANO Holdings, \n Swaziland Agricultural Supplies, \n Swaziland Liquor Distributors-Distell SD, \n Swaziland Sales & Marketing t/a Tri-Star Swaziland, \n Swaziland Supply Centre, \n Under African Skies t/a Baobab-Batik"
     },
     "wholesale": {
         "name": "Organizations that provide that service are",
-        "description": "Afritool, All Stationery (Pty)Ltd, British American Tobacco (Swaziland), Buy & Save Supermarket (Pty) Ltd, C G Trading Company (Pty) Ltd, CJ Trading t/a Furniture Warehouse, Corys Ltd t/a Pansolutions, Dynamic Distributors (Pty) Ltd, Hoageys Ltd, Linac t/a OK Foods, Lojaf Pick n Pay, Matsapha Trading Company, Mormond Electrical Contractors Ltd, NBR Investments t/a Khuba Traders, Ocean Fresh Import & Export (Pty) Ltd, Ocean Traders International (Pty) Ltd, Plate Glass Swaziland, SANO Holdings, Swaziland Agricultural Supplies, Swaziland Liquor Distributors-Distell SD, Swaziland Sales & Marketing t/a Tri-Star Swaziland, Swaziland Supply Centre, Under African Skies t/a Baobab-Batik"
+        "description": "Afritool, \n All Stationery (Pty)Ltd, \n British American Tobacco (Swaziland), \n Buy & Save Supermarket (Pty) Ltd, \n C G Trading Company (Pty) Ltd, \n CJ Trading t/a Furniture Warehouse, \n Corys Ltd t/a Pansolutions, Dynamic Distributors (Pty) Ltd, \n Hoageys Ltd, \n Linac t/a OK Foods, \n Lojaf Pick n Pay, \n Matsapha Trading Company, \n Mormond Electrical Contractors Ltd, \n NBR Investments t/a Khuba Traders, \n Ocean Fresh Import & Export (Pty) Ltd, \n Ocean Traders International (Pty) Ltd, \n Plate Glass Swaziland, \n SANO Holdings, \n Swaziland Agricultural Supplies, \n Swaziland Liquor Distributors-Distell SD, \n Swaziland Sales & Marketing t/a Tri-Star Swaziland, \n Swaziland Supply Centre, \n Under African Skies t/a Baobab-Batik"
     },
     "textile": {
         "name": "Organizations that provide that service are",
@@ -2183,15 +2143,15 @@
     },
     "impumelelo contact": {
         "name": "Contact Impumelelo Via",
-        "description": "Email: info@impumelelosacco.com | Phone: (+268) 2505 9847/8"
+        "description": "Email: info@impumelelosacco.com \n Phone: (+268) 2505 9847/8"
     },
     "impumelelo address": {
         "name": "Impumelelo Address",
-        "description": "Impumelelo Sacco Plot 94/868 Trelawney Park, Manzini, Eswatini between Evangelical Bible Church and Kingdom Hall of Jehovah's Witnesses"
+        "description": "Impumelelo Sacco Plot 94/868 Trelawney Park, \n Manzini, \n Eswatini between Evangelical Bible Church and Kingdom Hall of Jehovah's Witnesses"
     },
     "impumelelo location": {
         "name": "Impumelelo Address",
-        "description": "Impumelelo Sacco Plot 94/868 Trelawney Park, Manzini, Eswatini between Evangelical Bible Church and Kingdom Hall of Jehovah's Witnesses"
+        "description": "Impumelelo Sacco Plot 94/868 Trelawney Park, \n Manzini, \n Eswatini between Evangelical Bible Church and Kingdom Hall of Jehovah's Witnesses"
     },
     "impumelelo vision": {
         "name": "Impumelelo Vision",
@@ -2211,35 +2171,35 @@
     },
     "impumelelo values": {
         "name": "Impumelelo Values",
-        "description": "Equality, Integrity, Confidentiality, Accountability, Transparency, Customer Focus, Professionalism, Humanity"
+        "description": "Equality, \n Integrity, \n Confidentiality, \n Accountability, \n Transparency, \n Customer Focus, \n Professionalism, \n Humanity"
     },
     "impumelelo's values": {
         "name": "Impumelelo Values",
-        "description": "Equality, Integrity, Confidentiality, Accountability, Transparency, Customer Focus, Professionalism, Humanity"
+        "description": "Equality, \n Integrity, \n Confidentiality, \n Accountability, \n Transparency, \n Customer Focus, \n Professionalism, \n Humanity"
     },
     "values of impumelelo": {
         "name": "Impumelelo Values",
-        "description": "Equality, Integrity, Confidentiality, Accountability, Transparency, Customer Focus, Professionalism, Humanity"
+        "description": "Equality, \n Integrity, \n Confidentiality, \n Accountability, \n Transparency, \n Customer Focus, \n Professionalism, \n Humanity"
     },
     "impumelelo services": {
         "name": "Impumelelo's Services",
-        "description": "Impumelelo Savings, Impumelelo Investments, Impumelelo Loans"
+        "description": "Impumelelo Savings, \n Impumelelo Investments, \n Impumelelo Loans"
     },
     "impumelelo's services": {
         "name": "Impumelelo's Services",
-        "description": "Impumelelo Savings, Impumelelo Investments, Impumelelo Loans"
+        "description": "Impumelelo Savings, \n Impumelelo Investments, \n Impumelelo Loans"
     },
     "impumelelo savings": {
         "name": "Impumelelo Savings",
-        "description": "Impumelelo Ordinary Savings, Impumelelo Holiday Savings, Impumelelo School Savings"
+        "description": "Impumelelo Ordinary Savings, \n Impumelelo Holiday Savings, \n Impumelelo School Savings"
     },
     "impumelelo investments": {
         "name": "Impumelelo Investments",
-        "description": "Umtfunti Investment, Impumelelo Provisional Shares, Insika Savings, Umliba Savings"
+        "description": "Umtfunti Investment, \n Impumelelo Provisional Shares, \n Insika Savings, \n Umliba Savings"
     },
     "impumelelo loans": {
         "name": "Impumelelo Loans",
-        "description": "Impumelelo Long Term Loan, Impumelelo Executive Loan Term, Impumelelo Relief Loan, Impumelelo Special Loan, Mlamuli Loan, Impumelelo Educational Loan, Titselo Loan, Msimisi Loan, Impumelelo Short Loan"
+        "description": "Impumelelo Long Term Loan, \n Impumelelo Executive Loan Term, \n Impumelelo Relief Loan, \n Impumelelo Special Loan, \n Mlamuli Loan, \n Impumelelo Educational Loan, \n Titselo Loan, \n Msimisi Loan, \n Impumelelo Short Loan"
     },
     "impumelelo long term loan": {
         "name": "Impumelelo Long Term Loan",
@@ -2251,27 +2211,27 @@
     },
     "impumelelo relief loan": {
         "name": "Impumelelo Relief/Special Loan",
-        "description": "Every member is entitled to this loan. Payable over twelve(12) months. No proof is required to obtain this loan. Maximum loan cannot exceed fifteen thousand Emalangeni (E15,000). Can be granted concurrently with other products. A non-defaulting shall be able to revolve to a new loan agreement after 50% repayment, of which can be allowed in the form of cash deposit"
+        "description": "Every member is entitled to this loan. \n Payable over twelve(12) months. \n No proof is required to obtain this loan. \n Maximum loan cannot exceed fifteen thousand Emalangeni (E15,000). \n Can be granted concurrently with other products. \n A non-defaulting shall be able to revolve to a new loan agreement after 50% repayment, of which can be allowed in the form of cash deposit"
     },
     "impumelelo special loan": {
         "name": "Impumelelo Relief/Special Loan",
-        "description": "Every member is entitled to this loan. Payable over twelve(12) months. No proof is required to obtain this loan. Maximum loan cannot exceed fifteen thousand Emalangeni (E15,000). Can be granted concurrently with other products. A non-defaulting shall be able to revolve to a new loan agreement after 50% repayment, of which can be allowed in the form of cash deposit"
+        "description": "Every member is entitled to this loan. \n Payable over twelve(12) months. \n No proof is required to obtain this loan. \n Maximum loan cannot exceed fifteen thousand Emalangeni (E15,000). \n Can be granted concurrently with other products. \n A non-defaulting shall be able to revolve to a new loan agreement after 50% repayment, of which can be allowed in the form of cash deposit"
     },
     "mlamuli loan": {
         "name": "Mlamuli Loan",
-        "description": "They are based on member’s savings. The member is given 75% of his/her total savings. Payable in 24 months. The loan is given in cases of unforseen circumstances such as death"
+        "description": "They are based on member’s savings. \n The member is given 75% of his/her total savings. \n Payable in 24 months. \n The loan is given in cases of unforseen circumstances such as death"
     },
     "educational loan": {
         "name": "Educational Loan",
-        "description": "A member can obtain a maximum amount of E30,000. The maximum repayment is 24 months. Ordinary savings shall be at least E10 000 to obtain this loan"
+        "description": "A member can obtain a maximum amount of E30,000. \n The maximum repayment is 24 months. \n Ordinary savings shall be at least E10 000 to obtain this loan"
     },
     "titselo loan": {
         "name": "Titselo Loan",
-        "description": "This loan is to support members in achieving whatever they would like to achieve to improve their lives. The member has to meet the 5C’s of credit. The member must have fully paid up shares. The member shall be checked through ITC for clearance. Maximum amount of E50,000. The loan shall be repaid within 30 months (T&Cs apply). This loan can be granted concurrently with other products or on its own"
+        "description": "This loan is to support members in achieving whatever they would like to achieve to improve their lives. \n The member has to meet the 5C’s of credit. \n The member must have fully paid up shares. \n The member shall be checked through ITC for clearance. \n Maximum amount of E50,000. \n The loan shall be repaid within 30 months (T&Cs apply). \n This loan can be granted concurrently with other products or on its own"
     },
     "msimisi loan": {
         "name": "Msimisi Loan",
-        "description": "Members are bailed out of other financial institutions. Members must have savings of not less than E20,000. Maximum loan is E100,000. A member is bailed out once in five (5) years"
+        "description": "Members are bailed out of other financial institutions. \n Members must have savings of not less than E20,000. \n Maximum loan is E100,000. \n A member is bailed out once in five (5) years"
     },
     "impumelelo short loan": {
         "name": "Impumelelo Short Loan",
@@ -2279,31 +2239,31 @@
     },
     "impumelelo ordinary savings": {
         "name": "Impumelelo Ordinary Savings",
-        "description": "Money cannot be withdrawn. They are the base of obtaining a loan. They form the backbone of the organisation. They earn interest for members"
+        "description": "Money cannot be withdrawn. \n They are the base of obtaining a loan. \n They form the backbone of the organisation. \n They earn interest for members"
     },
     "impumelelo holiday savings": {
         "name": "Iimpumelelo Holiday Savings",
-        "description": "This is the money saved by members for the year end entertainment. Can be withdrawn on request. Earns interest for the member"
+        "description": "This is the money saved by members for the year end entertainment. \n Can be withdrawn on request. \n Earns interest for the member"
     },
     "impumelelo school savings": {
         "name": "Impumelelo School Savings",
-        "description": "This money is saved to pay school fees. Can be withdrawn on request. Earns interest for the member"
+        "description": "This money is saved to pay school fees. \n Can be withdrawn on request. \n Earns interest for the member"
     },
     "umtfunti investment": {
         "name": "Umtfunti Investment",
-        "description": "This is an investment product for retired members. A lump sum of not less than E30,000 with traceable records shall be deposited once a year. A top-up of not less than E2,500 shall be allowed once a year. There shall be no monthly deposit. Non-withdrawable untill maturity at 12 months. Interest shall be re-invested on the product. On resignation, the member shall be subjected to a penalty of 5% of the interest earned"
+        "description": "This is an investment product for retired members. \n A lump sum of not less than E30,000 with traceable records shall be deposited once a year. \n A top-up of not less than E2,500 shall be allowed once a year. \n There shall be no monthly deposit. \n Non-withdrawable untill maturity at 12 months. \n Interest shall be re-invested on the product. \n On resignation, the member shall be subjected to a penalty of 5% of the interest earned"
     },
     "impumelelo provisional shares": {
         "name": "Impumelelo Provisional Shares",
-        "description": "This is an investment product with an attractive interest. A member shall deposit a minimum of E3,000. Monthly deposits shall be accepted as top up, not exceeding total provisional shares of E60,000. Maximum investment shall not exceed E60,000. Can be transferred to ordinary savings. Can be used as collateral"
+        "description": "This is an investment product with an attractive interest. \n A member shall deposit a minimum of E3,000. \n Monthly deposits shall be accepted as top up, not exceeding total provisional shares of E60,000. \n Maximum investment shall not exceed E60,000. \n Can be transferred to ordinary savings. \n Can be used as collateral"
     },
     "insika savings": {
         "name": "Insika Savings",
-        "description": "This is a non-withdrawable savings product for retirement. Joining is Voluntary. Minimum saving is E50. It acts as immediate pension after retirement. It act as collateral for member’s loan. Interest shall be calculated annually at a rate similar to school or holiday savings. This product is non-withdrawable until retirement however, 30% can be withdrawn once in 10 years. The member shall notify the office in writing, 2 months before the retirement date. If the member resigns before the retirement date funds will be accessible. The lump sum is payable within 2 weeks of retirement as per request"
+        "description": "This is a non-withdrawable savings product for retirement. \n Joining is Voluntary. \n Minimum saving is E50. \n It acts as immediate pension after retirement. \n It act as collateral for member’s loan. \n Interest shall be calculated annually at a rate similar to school or holiday savings. \n This product is non-withdrawable until retirement however, 30% can be withdrawn once in 10 years. \n The member shall notify the office in writing, 2 months before the retirement date. \n If the member resigns before the retirement date funds will be accessible. \n The lump sum is payable within 2 weeks of retirement as per request"
     },
     "umliba savings": {
         "name": "Umliba Savings",
-        "description": "This is a long-term saving product for children below 18 years. Every child must join under principal member. The monthly minimum savings shall be E50. The amount shall be deducted from the principal member. The savings shall be non-withdrawable untill the child is 18 years. The principal member shall not borrow in any loan product against children’s product. To serve as collateral for principal member’s loans. Interest from this product shall be re-invested"
+        "description": "This is a long-term saving product for children below 18 years. \n Every child must join under principal member. \n The monthly minimum savings shall be E50. \n The amount shall be deducted from the principal member. \n The savings shall be non-withdrawable untill the child is 18 years. \n The principal member shall not borrow in any loan product against children’s product. \n To serve as collateral for principal member’s loans. \n Interest from this product shall be re-invested"
     },
     "become a impumelelo member": {
         "name": "Become a Impumelelo Member",
@@ -2325,21 +2285,21 @@
         "name": "Flas Email",
         "description": ""
     },
-    "fFlas phone": {
+    "flas phone": {
         "name": "Call FLAS on",
-        "description": "Manzini: +268 2505 3082 - Mbabane: +268 2404 9916"
+        "description": "Manzini: +268 2505 3082 \n Mbabane: +268 2404 9916"
     },
     "call flas": {
         "name": "Call FLAS on",
-        "description": "Manzini: +268 2505 3082 - Mbabane: +268 2404 9916"
+        "description": "Manzini: +268 2505 3082 \n Mbabane: +268 2404 9916"
     },
     "flas phone": {
         "name": "Call FLAS on",
-        "description": "Manzini: +268 2505 3082 - Mbabane: +268 2404 9916"
+        "description": "Manzini: +268 2505 3082 \n Mbabane: +268 2404 9916"
     },
     "flas number": {
         "name": "Call FLAS on",
-        "description": "Manzini: +268 2505 3082 - Mbabane: +268 2404 9916"
+        "description": "Manzini: +268 2505 3082 \n Mbabane: +268 2404 9916"
     },
     "flas manzini": {
         "name": "Call FLAS on",
@@ -2355,7 +2315,7 @@
     },
     "flas address": {
         "name": "Flas Address",
-        "description": "Mbhabha Street, Beside Swazi Milling Company, Manzini | Mbabane, Along Karl Grant Street, Behind Mona Flats"
+        "description": "Mbhabha Street, Beside Swazi Milling Company, Manzini \n Mbabane, Along Karl Grant Street, Behind Mona Flats"
     },
     "flas mission": {
         "name": "Flas Mission",
@@ -2367,7 +2327,7 @@
     },
     "maternal neonate child health": {
         "name": "Maternal Neonate Child Health",
-        "description": "You can carry out a pregnancy test from the first day after a missed period. Pregnancy tests work by detecting a pregnancy hormone: First visit Antenatal Care, Revisit Antenatal Care, 7 days Post Natal Care, Revisit at six (6) weeks, Child growth monitoring and immunization."
+        "description": "You can carry out a pregnancy test from the first day after a missed period. \n Pregnancy tests work by detecting a pregnancy hormone: \n First visit Antenatal Care, \n Revisit Antenatal Care, \n 7 days Post Natal Care, \n Revisit at six (6) weeks, \n Child growth monitoring and immunization."
     },
     "contraceptives and family planning": {
         "name": "Contraceptives and Family Planning",
@@ -2375,7 +2335,7 @@
     },
     "screening services": {
         "name": "Screening Services",
-        "description": "You can get sexually transmitted infections (STIs) through unprotected sex, including oral, anal and vaginal sex. Any sexually active. Screenings done are: Pregnancy Test, Breast Examination, Cervical Cancer Screening using VIA, Cervical Cancer Screening using water-based Pap Smear, Blood Group Testing, Blood Sugar Testing, Prostate Vancer Screening, Sexually Transmitted Infections"
+        "description": "You can get sexually transmitted infections (STIs) through unprotected sex, including oral, anal and vaginal sex. Any sexually active. \n Screenings done are: \n Pregnancy Test, \n Breast Examination, \n Cervical Cancer Screening using VIA, \n Cervical Cancer Screening using water-based Pap Smear, \n Blood Group Testing, \n Blood Sugar Testing, \n Prostate Vancer Screening, \n Sexually Transmitted Infections"
     },
     "voluntary medical male circumcision": {
         "name": "Voluntary Medical Male Circumcision",
@@ -2383,11 +2343,11 @@
     },
     "ultrasound scan": {
         "name": "Ultrasound Scan",
-        "description": "Services include: 1.Obstetrics, 2.Pelvic Ultrasound, 3.Abdominal Ultrasound, 4.Prostate Screening"
+        "description": "Services include: \n 1.Obstetrics, \n 2.Pelvic Ultrasound, \n 3.Abdominal Ultrasound, \n 4.Prostate Screening"
     },
     "contraception": {
         "name": "CONTRACEPTION AND FAMILY PLANNING SERVICES (TEKUVIKELA KUKHULELWA)",
-        "description": "CONTRACEPTION AND FAMILY PLANNING SERVICES (TEKUVIKELA KUKHULELWA)"
+        "description": "TEKUVIKELA KUKHULELWA"
     },
     "family planning": {
         "name": "CONTRACEPTION AND FAMILY PLANNING",
@@ -2395,11 +2355,11 @@
     },
     "flas services": {
         "name": "Flas Services",
-        "description": "Maternal Neonate Child Health, Contraceptives and Family Planning, Screening Services, Voluntary medical male circumcision, Ultrasound Scan Services, Contraception and Family Planning Services"
+        "description": "Maternal Neonate Child Health, \n Contraceptives and Family Planning, \n Screening Services, \n Voluntary medical male circumcision, \n Ultrasound Scan Services, \n Contraception and Family Planning Services"
     },
     "flas membership": {
         "name": "Flas Membership",
-        "description": "FLAS Individual Members (IM) and FLAS Honorary Life Member (HLM)"
+        "description": "FLAS Individual Members (IM) \n and FLAS Honorary Life Member (HLM)"
     },
     "flas individual members": {
         "name": "Flas Individual Members",
@@ -2427,35 +2387,35 @@
     },
     "snat vision": {
         "name": "Snat Vision",
-        "description": "Ethical Behaviour, Excellence, People Centric, Innovative, Collaboration"
+        "description": "Ethical Behaviour, \n Excellence, \n People Centric, \n Innovative, \n Collaboration"
     },
     "snat email": {
         "name": "Snat Email",
-        "description": "customerservice@snatco-ops.co.sz OR admin@snatco-ops.co.sz"
+        "description": "customerservice@snatco-ops.co.sz \n admin@snatco-ops.co.sz"
     },
     "snat phone": {
         "name": "Call SNAT SACCO on",
-        "description": "+268 2505 6459 OR +268 7632 6853 OR +268 7932 6853"
+        "description": "+268 2505 6459 OR +268 7632 6853 \n +268 7932 6853"
     },
     "snat address": {
         "name": "SNAT Address",
-        "description": "1st & 2nd Floor, SNAT CO-OP House, Mancishane Street, P O Box 1917, Manzini, M200, Eswatini"
+        "description": "1st & 2nd Floor, \n SNAT CO-OP House, \n Mancishane Street, \n P O Box 1917, \n Manzini, \n M200, \n Eswatini"
     },
     "snat sacco address": {
         "name": "SNAT Address",
-        "description": "1st & 2nd Floor, SNAT CO-OP House, Mancishane Street, P O Box 1917, Manzini, M200, Eswatini"
+        "description": "1st & 2nd Floor, \n SNAT CO-OP House, \n Mancishane Street, \n P O Box 1917, \n Manzini, \n M200, \n Eswatini"
     },
     "snat location": {
         "name": "SNAT Address",
-        "description": "1st & 2nd Floor, SNAT CO-OP House, Mancishane Street, P O Box 1917, Manzini, M200, Eswatini"
+        "description": "1st & 2nd Floor, \n SNAT CO-OP House, \n Mancishane Street, \n P O Box 1917, \n Manzini, \n M200, \n Eswatini"
     },
     "snat sacco location": {
         "name": "SNAT Address",
-        "description": "1st & 2nd Floor, SNAT CO-OP House, Mancishane Street, P O Box 1917, Manzini, M200, Eswatini"
+        "description": "1st & 2nd Floor, \n SNAT CO-OP House, \n Mancishane Street, \n P O Box 1917, \n Manzini, \n M200, \n Eswatini"
     },
     "snat operation hours": {
         "name": "SNAT Operation Hours",
-        "description": "Mon - Fri (8:30am - 4pm) | Sat (8:30am - 12:00 noon)"
+        "description": "Mon - Fri (8:30am - 4pm) \n Sat (8:30am - 12:00 noon)"
     },
     "khulisa umntfwana shoe drive": {
         "name": "Khulisa Umntfwana Shoe Drive",
@@ -2463,75 +2423,75 @@
     },
     "snat services": {
         "name": "SNAT Services",
-        "description": "SNAT Savings, SNAT Loans, SNAT Funeral Cover, SNAT Family Cover"
+        "description": "SNAT Savings, \n SNAT Loans, \n SNAT Funeral Cover, \n SNAT Family Cover"
     },
     "snat savings": {
         "name": "SNAT Savings",
-        "description": "SNAT Ordinary Savings, SNAT Withdrawable (School) Savings"
+        "description": "SNAT Ordinary Savings, \n SNAT Withdrawable (School) Savings"
     },
     "snat ordinary savings": {
         "name": "SNAT Ordinary Savings",
-        "description": "Compulsory Saving Account, Non-Withdrawable, Minimum is E100.00, Generate interest, distributed annually according to the SNAT SACCO financial performance. "
+        "description": "Compulsory Saving Account, \n Non-Withdrawable, \n Minimum is E100.00, \n Generate interest, \n distributed annually according to the SNAT SACCO financial performance. "
     },
     "snat withdrawable savings": {
         "name": "SNAT Withdrawable Savings",
-        "description": "Optional Savings Account, Withdrawable once in 3 months, Minimum E100.00, Generate interest, distributed annually according to the SNAT SACCO financial performance."
+        "description": "Optional Savings Account, \n Withdrawable once in 3 months, \n Minimum E100.00, \n Generate interest, \n distributed annually according to the SNAT SACCO financial performance."
     },
     "snat loans": {
         "name": "SNAT Loans",
-        "description": "SNAT Standard Loan, SNAT Personal Loan, SNAT Short Loan, SNAT School Fees Loan, SNAT Special Loan, SNAT Hybrid Loan, SNAT Car Loan, SNAT Helpline Loan, SNAT Business Loan, SNAT Consolidation Loan"
+        "description": "SNAT Standard Loan, \n SNAT Personal Loan, \n SNAT Short Loan, \n SNAT School Fees Loan, \n SNAT Special Loan, \n SNAT Hybrid Loan, \n SNAT Car Loan, \n SNAT Helpline Loan, \n SNAT Business Loan, \n SNAT Consolidation Loan"
     },
     "snat standard loan": {
         "name": "SNAT Standard Loan",
-        "description": "Borrow up to 3 times of members general savings. Maximum amount is E300 000.00. Maximum period is 120 months. Interest is on a reducing balance."
+        "description": "Borrow up to 3 times of members general savings. \n Maximum amount is E300 000.00. \n Maximum period is 120 months. \n Interest is on a reducing balance."
     },
     "snat personal loan": {
         "name": "SNAT Personal Loan",
-        "description": "Borrow Up to 3/4 of the members general savings. Maximum amount is E60 000.00 (subject to members savings). Maximum period is 18 months. Interest is on a reducing balance."
+        "description": "Borrow Up to 3/4 of the members general savings. \n Maximum amount is E60 000.00 (subject to members savings). \n Maximum period is 18 months. \n Interest is on a reducing balance."
     },
     "snat short loan": {
         "name": "SNAT Short Loan",
-        "description": "Maximum amount is E5 000.00. Maximum period is 5 months. Interest is on a reducing balance"
+        "description": "Maximum amount is E5 000.00. \n Maximum period is 5 months. \n Interest is on a reducing balance"
     },
     "snat school fees loan": {
         "name": "SNAT School Fees Loan",
-        "description": "Borrow up to 2 times of members savings. Maximum amount subject to members savings. Maximum period is 12 months. Interest is on a reducing balance. "
+        "description": "Borrow up to 2 times of members savings. \n Maximum amount subject to members savings. \n Maximum period is 12 months. \n Interest is on a reducing balance. "
     },
     "snat special loan": {
         "name": "SNAT Special Loan",
-        "description": "Mainly for Title deed and immovable property. Maximum amount is E500 000.00. Maximum period is 15 years. Interest is on a reducing balance."
+        "description": "Mainly for Title deed and immovable property. \n Maximum amount is E500 000.00. \n Maximum period is 15 years. \n Interest is on a reducing balance."
     },
     "snat hybrid loan": {
         "name": "SNAT Hybrid Loan",
-        "description": "Requires property (title deed) as collateral/ security. Maximum amount is 90% of the value of property. Maximum period is 10 years. Interest is on a reducing balance. "
+        "description": "Requires property (title deed) as collateral/ security. \n Maximum amount is 90% of the value of property. \n Maximum period is 10 years. \n Interest is on a reducing balance. "
     },
     "snat car loan": {
         "name": "SNAT Car Loan",
-        "description": "Requires the car as collateral/security. Maximum amount is E350 000.00. Maximum repayment period determined by the vehicle year of manufacture not exceeding 60 months. Interest is on a reducing balance."
+        "description": "Requires the car as collateral/security. \n Maximum amount is E350 000.00. \n Maximum repayment period determined by the vehicle year of manufacture not exceeding 60 months. \n Interest is on a reducing balance."
     },
     "snat helpline loan": {
         "name": "SNAT Helpline Loan",
-        "description": "Maximum amount is E20 000.00. Maximum period is 12 months. Interest is on a reducing balance. "
+        "description": "Maximum amount is E20 000.00. \n Maximum period is 12 months. \n Interest is on a reducing balance. "
     },
     "snat business loan": {
         "name": "SNAT Business Loan",
-        "description": "Maximum amount is E200 000.00. Maximum period is 60 months. On repayment 50% of the installment is from the business. Interest is on a reducing balance."
+        "description": "Maximum amount is E200 000.00. \n Maximum period is 60 months. \n On repayment 50% of the installment is from the business. \n Interest is on a reducing balance."
     },
     "snat consolidation loan": {
         "name": "SNAT Consolidation Loan",
-        "description": "Maximum amount is E200 000.00. Maximum period is 84 months. Interest is 1.375% per month on a reducing balance. Settlement fee shall be charged at 3.5%."
+        "description": "Maximum amount is E200 000.00. \n Maximum period is 84 months. \n Interest is 1.375% per month on a reducing balance. \n Settlement fee shall be charged at 3.5%."
     },
     "snat funeral cover": {
         "name": "SNAT Funeral Cover",
-        "description": "All SNAT SACCO active members are entitled to E20 000.00 funeral cover benefit, without paying a monthly premium. Claims are processed and paid within 48hrs. (Funeral Cover Claim) Deceased Documents: 1. Three (3) certified copied of National ID card, 2. Three (3) certified copies of death certificate, 3. Current payslip, 4. Doctors’ death confirmation letter (BMD1), 5. Body confirmation letter from mortuary. Beneficiary Documents: 1. One (1) certified copy of national ID card, 2. Bank statement. NB: All Document must be submitted to the office within 6 months of the deceased date."
+        "description": "All SNAT SACCO active members are entitled to E20 000.00 funeral cover benefit, without paying a monthly premium. \n Claims are processed and paid within 48hrs. \n (Funeral Cover Claim) \n Deceased Documents: \n 1. Three (3) certified copied of National ID card, \n 2. Three (3) certified copies of death certificate, \n 3. Current payslip, \n 4. Doctors’ death confirmation letter (BMD1), \n 5. Body confirmation letter from mortuary. \n Beneficiary Documents: 1. One (1) certified copy of national ID card, 2. Bank statement. NB: All Document must be submitted to the office within 6 months of the deceased date."
     },
     "snat family cover": {
         "name": "SNAT Family Cover",
-        "description": "SNAT SACCO through Orchard Insurance provides a family support cover that cover the death of a member or a spouse. This family support cover is designed to provide monthly support to members’ beneficiaries in the unfortunate event of death of our member or their spouse. There is a monthly premium with two options: Option 1 is E15.00 and Option 2 is E35.00. Our Family Support Cover provides a E12 000.00 cover which is paid to the members beneficiary in instalments of E2 000.00 per month for 6 months. "
+        "description": "SNAT SACCO through Orchard Insurance provides a family support cover that cover the death of a member or a spouse. \n This family support cover is designed to provide monthly support to members’ beneficiaries in the unfortunate event of death of our member or their spouse. \n There is a monthly premium with two options: \n Option 1 is E15.00 \n Option 2 is E35.00. \n Our Family Support Cover provides a E12 000.00 cover which is paid to the members beneficiary in instalments of E2 000.00 per month for 6 months. "
     },
     "snat loan requirements": {
         "name": "SNAT Loan Requirements",
-        "description": "SNAT SACCO loans are based on members ordinary savings. The following document are requirement of a loan application: 1. Current Payslip, 2. 3 months Bank statement (except for short loans), 3. Member’s net pay should be within 33%"
+        "description": "SNAT SACCO loans are based on members ordinary savings. \n The following document are requirement of a loan application: \n 1. Current Payslip, \n 2. 3 months Bank statement (except for short loans), \n 3. Member’s net pay should be within 33%"
     },
     "snat sacco joininig fee": {
         "name": "SNAT SACCO",
@@ -2551,23 +2511,23 @@
     },
     "documents do i need to join snat sacco": {
         "name": "Documents needed to join SNAT SACCO",
-        "description": "1. Current Payslip, 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+        "description": "1. Current Payslip, \n 2. ID Card, \n 3. Passport Coloured Photo, \n 4. Proof of resident, \n 5. ID numbers of beneficiaries, \n 6. Name and address of two (2) next of Kins"
     },
     "documents i need to join snat": {
         "name": "Documents needed to join SNAT SACCO",
-        "description": "1. Current Payslip, 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+        "description": "1. Current Payslip, \n 2. ID Card, \n 3. Passport Coloured Photo, \n 4. Proof of resident, \n 5. ID numbers of beneficiaries, \n 6. Name and address of two (2) next of Kins"
     },
     "documents needed to join snat sacco": {
         "name": "Documents needed to join SNAT SACCO",
-        "description": "1. Current Payslip, 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+        "description": "1. Current Payslip, \n 2. ID Card, \n 3. Passport Coloured Photo, \n 4. Proof of resident, \n 5. ID numbers of beneficiaries, \n 6. Name and address of two (2) next of Kins"
     },
     "documents do i need to bring when joining snat sacco": {
         "name": "Documents needed to join SNAT SACCO",
-        "description": "1. Current Payslip, 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+        "description": "1. Current Payslip, \n 2. ID Card, \n 3. Passport Coloured Photo, \n 4. Proof of resident, \n 5. ID numbers of beneficiaries, \n 6. Name and address of two (2) next of Kins"
     },
     "documents do i need to bring when joining snat": {
         "name": "Documents needed to join SNAT SACCO",
-        "description": "1. Current Payslip, \n 2. ID Card, 3. Passport Coloured Photo, 4. Proof of resident, 5. ID numbers of beneficiaries, 6. Name and address of two (2) next of Kins"
+        "description": "1. Current Payslip, \n 2. ID Card, \n 3. Passport Coloured Photo, \n 4. Proof of resident, \n 5. ID numbers of beneficiaries, \n 6. Name and address of two (2) next of Kins"
     },
     "swazimed": {
         "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
@@ -4212,5 +4172,41 @@
     "no": {
         "name": "Okay",
         "description": "no problem. I am on standby if you need my assistance"
+    },
+    "insurance": {
+        "name": "Which category do you want",
+        "description": "Short-Term Insurers, Composite Insurers, \nLong-Term Insurers, \nReinsurers, \nMicro-Insurers, \nBeneficiary Funds, \nInsurance Brokers, \nForeign Retirement Funds, \nLocal Retirement Funds, \nMedical Aid Funds, \nCorporate Agents, \nMedical Aid Schemes Administrators, \nFund Administrators"
+    },
+    "brokers": {
+        "name": "Insurance Brokers (1/2)",
+        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
+    },
+    "broker": {
+        "name": "Insurance Brokers (1/2)",
+        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
+    },
+    "retirement": {
+        "name": "Organizations that provide that service are",
+        "description": "Metropolitan Life Swaziland, Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
+    },
+    "pension": {
+        "name": "Organizations that provide that service are",
+        "description": "Metropolitan Life Swaziland, Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
+    },
+    "agriculture": {
+        "name": "Organizations that provide that service are",
+        "description": "Africa Chicks, Black Duke, Crookes Plantations Limited, Eagle Air (Pty) Ltd, Eagle’s Nest (Pty) Ltd, Eswatini Cane Growers Association, Eswatini Dairy Board, Eswatini Sugar Association, Eswatini Water & Agricultural Development Enterprise (ESWADE), Hurlingham Sugar Estate, Inyoni Yami Swaziland Irrigation Scheme, Mafuteni Ranch (Pty) Ltd, National Agricultural Marketing Board (NAMBOARD), National Chicks Swaziland, National Maize Corporation (NMC), Royal Swaziland Sugar Corporation (RSSC), Scotts Ranch 2000 Limited, Swaziland Citrus Board, Tongaat Hulett t/a Tambankulu Estate, Ubombo Sugar Limited, Umoba (Pty) Ltd"
+    },
+    "building": {
+        "name": "Organizations that provide that service are",
+        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+    },
+    "construction": {
+        "name": "Organizations that provide that service are",
+        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+    },
+    "engineering": {
+        "name": "Organizations that provide that service are",
+        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
     }
 }
