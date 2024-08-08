@@ -37,11 +37,11 @@
     },
     "ncfe objectives": {
         "name": "NCFE Core Objectives",
-        "description": "The Core objectives of the Federation is to build a strong, united , resilient, competitive and autonomous co-operatives' movement."
+        "description": "The Core objectives of the Federation is to build a strong, united, resilient, competitive and autonomous co-operatives' movement."
     },
     "ncfe objective": {
         "name": "NCFE Core Objectives",
-        "description": "The Core objectives of the Federation is to build a strong, united , resilient, competitive and autonomous co-operatives' movement."
+        "description": "The Core objectives of the Federation is to build a strong, united, resilient, competitive and autonomous co-operatives' movement."
     },
     "membership": {
         "name": "Membership Structure of The Federation",
@@ -57,15 +57,15 @@
     },
     "ncfe services": {
         "name": "List of NCFE Services",
-        "description": "Manage CCF Contributions, Grant Loans to Affiliated Co-operatives, Provide Education and Trainings, Ensure Good Governance in co-operative, Conflict Resolution, Access to Core functions of Co-operatives"
+        "description": "Manage CCF Contributions, \n Grant Loans to Affiliated Co-operatives, \n Provide Education and Trainings, \n Ensure Good Governance in co-operative, \n Conflict Resolution, \n Access to Core functions of Co-operatives"
     },
     "ncfe service": {
         "name": "List of NCFE Services",
-        "description": "Manage CCF Contributions, Grant Loans to Affiliated Co-operatives, Provide Education and Trainings, Ensure Good Governance in co-operative, Conflict Resolution, Access to Core functions of Co-operatives"
+        "description": "Manage CCF Contributions, \n Grant Loans to Affiliated Co-operatives, \n Provide Education and Trainings, \n Ensure Good Governance in co-operative, \n Conflict Resolution, \n Access to Core functions of Co-operatives"
     },
     "ncfe values": {
         "name": "NCFE Values",
-        "description": "Caring for others, Honesty, Solidarity, Democracy, Openness, Social responsibility, Equity, Self-help, Equality, Self-responsibility"
+        "description": "Caring for others, \n Honesty, \n Solidarity, \n Democracy, \n Openness, \n Social responsibility, \n Equity, \n Self-help, \n Equality, \n Self-responsibility"
     },
     "ncfe address": {
         "name": "NCFE Address",
@@ -89,7 +89,7 @@
     },
     "ncfe contact": {
         "name": "NCFE Contact Details",
-        "description": "Phone: +268 35402414, Email: info@ncfeswatini.coop"
+        "description": "Phone: +268 35402414, \n Email: info@ncfeswatini.coop"
     },
     "ncfe phone": {
         "name": "NCFE Phone",
@@ -169,15 +169,15 @@
     },
     "cooperatives": {
         "name": "Co-operatives",
-        "description": "ESWAFCU - Farming Co-ops, ESYNCA - Youth Co-ops, ESSASSCO - Saving and Credit Co-op"
+        "description": "ESWAFCU - Farming Co-ops, \n ESYNCA - Youth Co-ops, \n ESASCCO - Saving and Credit Co-op"
     },
     "coop": {
         "name": "Co-operatives",
-        "description": "ESWAFCU - Farming Co-ops, ESYNCA - Youth Co-ops, ESSASSCO - Saving and Credit Co-op"
+        "description": "ESWAFCU - Farming Co-ops, \n ESYNCA - Youth Co-ops, \n ESASCCO - Saving and Credit Co-op"
     },
     "co op": {
         "name": "Co-operatives",
-        "description": "ESWAFCU - Farming Co-ops, ESYNCA - Youth Co-ops, ESSASSCO - Saving and Credit Co-op"
+        "description": "ESWAFCU - Farming Co-ops, \n ESYNCA - Youth Co-ops, \n ESASCCO - Saving and Credit Co-op"
     },
     "hi": {
         "name": "Hi there",
@@ -217,7 +217,7 @@
     },
     "ncfe functions": {
         "name": "NCFE Functions",
-        "description": "Represent co-operatives, lobbying and advocate for their needs and aspirations. Mobilization, management and deployement of resources for the benefit of members. Faciliate and co-ordinate all national co-operatives training initiatives and development programmes. Custodianship of good corporate governance and compliance with co-operatives principles and values by co-operatives. Providing universal access to affordable none core functions of co-operatives principles and values of co-operatives and affliliates."
+        "description": "Represent co-operatives, lobbying and advocate for their needs and aspirations. \n Mobilization, management and deployement of resources for the benefit of members. \n Faciliate and co-ordinate all national co-operatives training initiatives and development programmes. \n Custodianship of good corporate governance and compliance with co-operatives principles and values by co-operatives. \n Providing universal access to affordable none core functions of co-operatives principles and values of co-operatives and affliliates."
     },
     "ncfe website": {
         "name": "Website",
@@ -241,7 +241,7 @@
         "name": "Grant Loans to Affiliated Co-operatives",
         "description": "A Revolving Fund was established accessible by full Members for onward lending to members. The interest rates and the period of the loan shall be determined by the loan policy from time to time as deemed neccesary"
     },
-    "education and trainings": {
+    "ncfe education and trainings": {
         "name": "Provide Education and Trainings",
         "description": "Participating in the organization of fairs, exhibitions, lectures, seminars, symposia, conferences, forums, congresses etc"
     },
@@ -308,334 +308,6 @@
     "you feel": {
         "name": "",
         "description": "I am unable incapable of any emotion since I am a program"
-    },
-    "restuarant": {
-        "name": "Organizations that provide that service are",
-        "description": "Willows Lodge, \n Mantenga Lodge"
-    },
-    "restaurant": {
-        "name": "Organizations that provide that service are",
-        "description": "Willows Lodge, \n Mantenga Lodge"
-    },
-    "micro insurers": {
-        "name": "Micro-Insurers (1/1)",
-        "description": "B3 Insurance"
-    },
-    "micro insurance": {
-        "name": "Micro-Insurers (1/1)",
-        "description": "B3 Insurance"
-    },
-    "short term insurer": {
-        "name": "Short-Term Insurers (1/1)",
-        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
-    },
-    "short term insurance": {
-        "name": "Short-Term Insurers (1/1)",
-        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
-    },
-    "short term": {
-        "name": "Short-Term Insurers (1/1)",
-        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
-    },
-    "long term insurers": {
-        "name": "Long-Term Insurers (1/1)",
-        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
-    },
-    "long term insurance": {
-        "name": "Long-Term Insurers (1/1)",
-        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
-    },
-    "long term": {
-        "name": "Long-Term Insurers (1/1)",
-        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
-    },
-    "medical aid schemes administrators": {
-        "name": "Medical Aid Schemes Administrators (1/1)",
-        "description": "Medscheme Administrators"
-    },
-    "medical aid schemes": {
-        "name": "Medical Aid Schemes Administrators (1/1)",
-        "description": "Medscheme Administrators"
-    },
-    "composite insurers": {
-        "name": "Composite Insures (1/1)",
-        "description": "Eswatini Royal Insurance Corporation"
-    },
-    "composite insurance": {
-        "name": "Composite Insures (1/1)",
-        "description": "Eswatini Royal Insurance Corporation"
-    },
-    "composite": {
-        "name": "Composite Insures (1/1)",
-        "description": "Eswatini Royal Insurance Corporation"
-    },
-    "reinsurers": {
-        "name": "Reinsurers (1/1)",
-        "description": "Eswatini Re-Limited, \n Ezulwini Reinsurance Company"
-    },
-    "fund administrators": {
-        "name": "Fund Administrators (1/1)",
-        "description": "Eswatini Insurance Brokers, \n Eswatini Royal Insurance Corporation, \n Negotiated Benefit Consultant Swaziland, \n Oracle Life, \n Swaziland Employee Benefit Consultants"
-    },
-    "medical aid funds": {
-        "name": "Medical Aid Funds (1/1)",
-        "description": "emaSwati Care, \n Swazi HMO-Mpilwenhle, \n Swaziland Medical Aid Fund"
-    },
-    "beneficiary funds": {
-        "name": "Beneficiary Funds (1/1)",
-        "description": "ESRIC Beneficiary Fund, \n Fairlife Benefit Services, \n Likhwane Beneficiary"
-    },
-    "beneficiary fund": {
-        "name": "Beneficiary Funds (1/1)",
-        "description": "ESRIC Beneficiary Fund, \n Fairlife Benefit Services, \n Likhwane Beneficiary"
-    },
-    "insurance brokers": {
-        "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, \n B3 Group, \n BSK Insurance Brokers, \n Client First Insurance Brokers, \n Coverite Insurance Brokers, \n Eazy Grow International, \n Eliz Corporate Consultants, \n Ensure Insurance Brokers, \n Eswatini Employee Benefit Consultants, \n Eswatini Insurance Brokers, \n Excellence Financial Services, \n Excorp Insurance, \n Fingroup Swaziland, \n Finsure Insurance Brokers...\n \n Type 'View Brokers 2' to view more"
-    },
-    "view broker 1": {
-        "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, \n B3 Group, \n BSK Insurance Brokers, \n Client First Insurance Brokers, \n Coverite Insurance Brokers, \n Eazy Grow International, \n Eliz Corporate Consultants, \n Ensure Insurance Brokers, \n Eswatini Employee Benefit Consultants, \n Eswatini Insurance Brokers, \n Excellence Financial Services, \n Excorp Insurance, \n Fingroup Swaziland, \n Finsure Insurance Brokers...\n \n Type 'View Brokers 2' to view more"
-    },
-    "view broker 2": {
-        "name": "More Insurance Brokers (2/2)",
-        "description": "Glenrand MIB, \n Global Impact Consultancy, \n Healthcare Insurance Brokers, \n LG Financial Services and Consultancy, \n Mbabane Burial Benefit Society, \n Minx Insurance Brokers, \n Namaga Consultancy, \n Nico Insurance Brokers, \n Optimal Investment Solutions, \n Patula Risk, \n SASCCO, \n Sekusile Insurance Brokers, \n The Link Insurance Brokers, \n Tibiyo Insurance Brokers, \n Zanton Insurance Brokers"
-    },
-    "corporate agents": {
-        "name": "Corporate Agents (1/2)",
-        "description": "Bunye Betfu Buhle Betfu SACCO, \nBuzzby Services, \nConsolidated Insurance Agency, \nCrucifix Funeral Directors and Coffin Manufacturers, \nCutting Edge Management Consultants, \nEdgars Stores Eswatini, \nFirst National Bank, \nJD Group, \nLetshego Financial Services, \n Maq Alf, \n Marlett Investments, \n Mphumusa Investments, \n Nedbank, \n Nhlangano Funeral Parlour... \n \n Type 'More Corporate Agents' to view more"
-    },
-    "view agents 1": {
-        "name": "Corporate Agents (1/2)",
-        "description": "Bunye Betfu Buhle Betfu SACCO, \nBuzzby Services, \nConsolidated Insurance Agency, \nCrucifix Funeral Directors and Coffin Manufacturers, \nCutting Edge Management Consultants, \nEdgars Stores Eswatini, \nFirst National Bank, \nJD Group, \nLetshego Financial Services, \n Maq Alf, \n Marlett Investments, \n Mphumusa Investments, \n Nedbank, \n Nhlangano Funeral Parlour... \n \n Type 'View Agents 2' to view more"
-    },
-    "view agents 2": {
-        "name": "More Corporate Agents (2/2)",
-        "description": "OK Bazaars Mbabane, \n Select Limited, \n Standard Bank Eswatini Limited, \n Standard Bank Swaziland Limited, \n Swaziland Building Society, \n Swaziland Conference of Churches, \n Swaziland Development and Savings Bank, \n Swaziland Development and Savings Bank, \n Swaziland Nurses Association, \n Taurus Investments, \n WellPoint Investments"
-    },
-    "local retirement funds": {
-        "name": "Local Retirement Funds (1/7)",
-        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
-    },
-    "local retirement fund": {
-        "name": "Local Retirement Funds (1/7)",
-        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
-    },
-    "view local 1": {
-        "name": "Local Retirement Funds (1/7)",
-        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
-    },
-    "view local 2": {
-        "name": "More Local Retirement Funds (2/7)",
-        "description": "Eswatini Civil Aviation Authority Provident Fund, \n Eswatini Electricity Company Pension Fund, \n Eswatini National Provident Fund, \n Eswatini National Provident Fund Staff Pension Scheme, \n Eswatini Nazarene Health Institutions Staff Pension Fund, \n Eswatini Observer Provident Fund, \n Eswatini Post & Telecommunications Corporation Pension Fund... \n \n Type 'View local 3' to view more"
-    },
-    "view local 3": {
-        "name": "More Local Retirement Funds (3/7)",
-        "description": "Eswatini Railway Pension Fund, \n Eswatini Railway Provident Fund, \n Eswatini Revenue Authority Pension Fund, \n Eswatini Revenue Authority Provident Fund, \n Eswatini Sugar Association Staff Provident Fund, \n Eswatini Television Authority Pension Fund, \n Eswatini Water Service Corporation Pension Fund, \n Exams Council Pension Fund... \n \n Type 'View local 4' to view more"
-    },
-    "view local 4": {
-        "name": "More Local Retirement Funds (4/7)",
-        "description": "First National Bank of Swaziland Pension Fund, \n FSRA Staff Provident Fund, \n Institute of Development Management Pension Fund Eswatini, \n Inyatsi Provident Fund, Lilunga Umbrella Pension Fund, Ludziwo Umbrella Provident Fund, M.V.A Staff Pension Fund, Mananga Provident Fund, Mbabane Hotels Provident Fund, Members of Parliament & Designated Office Bearers Pension Fund...Type 'View local 5' to view more"
-    },
-    "view local 5": {
-        "name": "More Local Retirement Funds (5/7)",
-        "description": "Municipal Council of Manzini Staff Pension Fund, \n Namboard Pension Fund, \n NedBank (Swaziland) Limited Pension Fund, \n Nhlangano Town Council Pension Fund, Non-Governmental Health Sector Pension Fund, Old Mutual Lihawu Umbrella Pension Fund, Old Mutual Lihawu Umbrella Provident Fund, \n Premier Swazi Bakeries Pension Fund, \n Public Service Pension Fund, \n Public Service Pension Fund Staff Pension Scheme... \n \n Type 'View local 6' to view more"
-    },
-    "view local 6": {
-        "name": "More Local Retirement Funds (6/7)",
-        "description": "Rainmaker Plus Pension Umbrella Fund Swaziland, \n Rainmaker Plus Provident Umbrella Fund Swaziland, \n Royal Eswatini Sugar Corporation Provident Fund, \n Sebenta National Institute Pension Fund, \n Sibaya Umbrella Pension Fund, \n Sibaya Umbrella Provident Fund, \n Sifundzani School Provident Fund, \n Silulu Provident Fund, \n Standard Bank Eswatini Pension Fund, \n SWAKI Pension Fund, \n Swaziland Building Society Pension Fund... \n \n Type 'View local 7' to view more"
-    },
-    "view local 7": {
-        "name": "More Local Retirement Funds (7/7)",
-        "description": "Thokoza Church Centre Provident Fund, \n Tibiyo TakaNgwane Pension Fund, \n Tibiyo TakaNgwane Provident Fund, \n Tisuka TakaNgwane Provident Fund, \n Ubombo Sugar Pension Fund, \n Ubombo Sugar Provident Fund - Umzabalazo, \n Ubombo-Ingcamu Provident Fund, \n Umfuso Umbrella Pension Fund, \n Umfuso Umbrella Retirement Fund, \n UNESWA Pension Fund, \n YKK Southern Africa Factory Pension Fund"
-    },
-    "foreign retirement funds": {
-        "name": "Foreign Retirement Funds (1/3)",
-        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
-    },
-    "foreign retirement fund": {
-        "name": "Foreign Retirement Funds (1/3)",
-        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
-    },
-    "view foreign 1": {
-        "name": "Foreign Retirement Funds (1/3)",
-        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
-    },
-    "view foreign 2": {
-        "name": "More Foreign Retirement Funds (2/3)",
-        "description": "Investment Solutions Executive Umbrella Provident Fund, \n Investment Solutions Retirement Annuity Fund, \n Knight Piesold Staff Pension Fund, \n KPMG Provident Fund, \n Lewis Stores Provident Fund, \n Mr Price Group Retirement Fund, \n Nampak Group Pension Fund, \n Old Mutual Super Fund Pension Fund, \n Old Mutual Super Funds Provident Fund, \n Pannar Group Pension Fund, \n Pricewaterhouse Cooper Staff Provident Fund, \n Pricewaterhouse Coopers Directors Provident Fund... \n \n Type 'View foreign 3' for more"
-    },
-    "view foreign 3": {
-        "name": "More Foreign Retirement Funds (3/3)",
-        "description": "Retail Provident Fund, \n Retail Retirement Fund, \n Retirement-On-Line Pension Fund, \n Sanlam Staff Umbrella Pension Fund, \n Sanlam Staff Umbrella Provident Fund, \n Sanlam Umbrella Provident Fund, \n Sun International Pension Fund, \n Sun International Provident Fund, \n Infraset Provident Fund, \n The Preservation Pension Fund, \n The Preservation Provident Fund, \n The Provident Fund, \n Total South Africa Provident Fund, \n Umbrella Provident Fund"
-    },
-    "agency": {
-        "name": "Organizations that provide that service are",
-        "description": "Dups Holdings, \n Ekhaya Funeral Services, \n Eswatini Insurance Brokers (Pty) Ltd, \n Eswatini Royal Insurance Corporation, \n Financial Services Regulatory Authority, \n Healthcare Insurance Brokers, \n Lidwala Insurance, \n Medscheme Administrators (Pty) Ltd, \n Metropolitan Life Swaziland, \n Old Mutual, \n Patula Risk, \n Sincephetelo Motor Vehicle Accidents Fund (SMVAF), \n Swaziland Medical Aid Fund (SwaziMed), \n Tibiyo Insurance Group"
-    },
-    "funeral parlor": {
-        "name": "Organizations that provide that service are",
-        "description": "Dups Holdings, \n Ekhaya Funeral Services"
-    },
-    "insurance companies": {
-        "name": "Organizations that provide that service are",
-        "description": "Dups Holdings, \n Ekhaya Funeral Services, \n Eswatini Insurance Brokers (Pty) Ltd, \n Eswatini Royal Insurance Corporation, \n Financial Services Regulatory Authority, \n Healthcare Insurance Brokers, \n Lidwala Insurance, \n Medscheme Administrators (Pty) Ltd, \n Metropolitan Life Swaziland, \n Old Mutual, \n Patula Risk, \n Sincephetelo Motor Vehicle Accidents Fund (SMVAF), \n Swaziland Medical Aid Fund (SwaziMed), \n Tibiyo Insurance Group"
-    },
-    "medical aid": {
-        "name": "Organizations that provide that service are",
-        "description": "Healthcare Insurance Brokers, \n Medscheme Administrators (Pty) Ltd, \n Swaziland Medical Aid Fund (SwaziMed)"
-    },
-    "mining": {
-        "name": "Organizations that provide that service are",
-        "description": "A G Thomas, \n Alusol Swaziland, \n Construction Logistics (Pty) Ltd, \n Inyatsi Construction (Pty) Ltd, \n Isolution, \n Kukhanya Civil Engineering Contractors, \n Kwalini (Pty) Ltd, \n Maloma Colliery Ltd, \n SBM Enterprises T/A Sdudla Engineering, \n Stefanutti Stocks Swaziland"
-    },
-    "energy": {
-        "name": "Organizations that provide that service are",
-        "description": "Eswatini Electricity Company"
-    },
-    "water": {
-        "name": "Organizations that provide that service are",
-        "description": "Eswatini Water Services Corporation"
-    },
-    "forestry": {
-        "name": "Organizations that provide that service are",
-        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
-    },
-    "timber": {
-        "name": "Organizations that provide that service are",
-        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
-    },
-    "pulp": {
-        "name": "Organizations that provide that service are",
-        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
-    },
-    "hotel": {
-        "name": "Organizations that provide that service are",
-        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
-    },
-    "accomodation": {
-        "name": "Organizations that provide that service are",
-        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
-    },
-    "catering": {
-        "name": "Organizations that provide that service are",
-        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
-    },
-    "tourism": {
-        "name": "Organizations that provide that service are",
-        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
-    },
-    "manufacturing": {
-        "name": "Organizations that provide that service are",
-        "description": "Afrisam Swaziland (Pty) Ltd, \n Afrox t/a Swazi Oxyggen, \n Arrowfeeds Ltd, \n Atlanta Products (Pty) Ltd, \n Barrat Board & Timber, \n Conco Limited, \n DD Williamson (Pty) Ltd, \n Dulux Swaziland (Pty) Ltd, \n Eswatini Beverages Ltd, \n Exipro Swaziland (Pty) Ltd, \n Global Paints, \n Infraset Swazi-Fyfe, \n Macmillan Education Swaziland (Pty) Ltd, \n Macsteel Eswatini, \n Mondelez International (Pty) Ltd, \n Ngwane Mills (Pty) Ltd, \n Ngwenya Glass (Pty) Ltd, \n Parmalat Swaziland (Pty) Ltd, \n Starpaint (Pty) Ltd, \n Stonewood Creations, \n Swazi Gases t/a Air Liquide, \n Swazi Mahewu (Pty) Ltd, \n Swazi Wire Industries, Vicker Swaziland"
-    },
-    "processing": {
-        "name": "Organizations that provide that service are",
-        "description": "Apollo Services (Pty) Ltd, \n Black Mamba Foods ( PTY) LTD, \n Clover Swaziland (Pty) Ltd, \n Dyson & Lincoln (Pty) Ltd, \n Elcor Industries (Pty) Ltd, \n Eswatini Beverages Ltd, \n Macmillan Education Swaziland (Pty) Ltd, \n Mananga Sugar Packers, \n Parmalat Swaziland (Pty) Ltd, \n Premier Swazi, \n Printpak, \n Rhodes Food Group, \n Stonewood Creations, \n Swazi Gases t/a Air Liquide, \n Swazi Mahewu (Pty) Ltd, \n Swazi Plastic Industries Ltd,\n  Swazi Poultry Processors Ltd, \n Swazi Wire Industries, \n Swaziland Meat Industries, \n Unifoods, \n Vicker Swaziland, \n Yebo Art Gallery-Africa Fantasy"
-    },
-    "non-government": {
-        "name": "Organizations that provide that service are",
-        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), Kudvumisa Foundation, Medecins Sans Frontieres, World Vision International"
-    },
-    "ngos": {
-        "name": "Organizations that provide that service are",
-        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), Kudvumisa Foundation, Medecins Sans Frontieres, World Vision International"
-    },
-    "ngo": {
-        "name": "Organizations that provide that service are",
-        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), \n Kudvumisa Foundation, \n Medecins Sans Frontieres, \n World Vision International"
-    },
-    "professional services": {
-        "name": "Organizations that provide that service are",
-        "description": "A M Consultancy, \n A M Recruitment Services (Pty) Ltd, \n Architects International, \n Bicon Consulting Engineers, \n Building Design Group Swaziland, \n Business Doctors Swaziland, \n ELB Labour Consultancy, \n Eswatini Economic Policy Analysis and Research Centre, \n Gundane & Sons, \n Kobla Quashie & Associates, \n KPMG, Manyatsi Nhleko Quantity Surveyors, \n Maphanga Mitchell & Associates, \n Pricewaterhouse Coopers (PWC), \n Resolution & Management Consultancy, \n Small Enterprise Development Company Ltd, \n Steve Hall Development Consultants (Pty) Ltd, \n Swaziland Consulting Engineers Inc., \n Swaziland Occupational Safety & Health, \n The Team Recruitment, \n Xpedia Consulting (Pty) Ltd"
-    },
-    "retail": {
-        "name": "Organizations that provide that service are",
-        "description": "Afritool, \n All Stationery (Pty)Ltd, \n British American Tobacco (Swaziland), \n Buy & Save Supermarket (Pty) Ltd, \n C G Trading Company (Pty) Ltd, \n CJ Trading t/a Furniture Warehouse, \n Corys Ltd t/a Pansolutions, \n Dynamic Distributors (Pty) Ltd, \n Hoageys Ltd, \n Linac t/a OK Foods, \n Lojaf Pick n Pay, \n Matsapha Trading Company, \n Mormond Electrical Contractors Ltd, \n NBR Investments t/a Khuba Traders, \n Ocean Fresh Import & Export (Pty) Ltd, \n Ocean Traders International (Pty) Ltd, \n Plate Glass Swaziland, \n SANO Holdings, \n Swaziland Agricultural Supplies, \n Swaziland Liquor Distributors-Distell SD, \n Swaziland Sales & Marketing t/a Tri-Star Swaziland, \n Swaziland Supply Centre, \n Under African Skies t/a Baobab-Batik"
-    },
-    "wholesale": {
-        "name": "Organizations that provide that service are",
-        "description": "Afritool, \n All Stationery (Pty)Ltd, \n British American Tobacco (Swaziland), \n Buy & Save Supermarket (Pty) Ltd, \n C G Trading Company (Pty) Ltd, \n CJ Trading t/a Furniture Warehouse, \n Corys Ltd t/a Pansolutions, Dynamic Distributors (Pty) Ltd, \n Hoageys Ltd, \n Linac t/a OK Foods, \n Lojaf Pick n Pay, \n Matsapha Trading Company, \n Mormond Electrical Contractors Ltd, \n NBR Investments t/a Khuba Traders, \n Ocean Fresh Import & Export (Pty) Ltd, \n Ocean Traders International (Pty) Ltd, \n Plate Glass Swaziland, \n SANO Holdings, \n Swaziland Agricultural Supplies, \n Swaziland Liquor Distributors-Distell SD, \n Swaziland Sales & Marketing t/a Tri-Star Swaziland, \n Swaziland Supply Centre, \n Under African Skies t/a Baobab-Batik"
-    },
-    "textile": {
-        "name": "Organizations that provide that service are",
-        "description": "Fashion International Swd (Pty) Ltd"
-    },
-    "garment": {
-        "name": "Organizations that provide that service are",
-        "description": "Fashion International Swd (Pty) Ltd"
-    },
-    "apparel": {
-        "name": "Organizations that provide that service are",
-        "description": "Fashion International Swd (Pty) Ltd"
-    },
-    "banking": {
-        "name": "Organizations that provide that service are",
-        "description": "Central Bank of Eswatini, Eswatini Bank, Farmers Bank, First National Bank of Swaziland Ltd, Nedbank (Swaziland) Limited, Standard Bank Swaziland Ltd, Swaziland Building Society"
-    },
-    "education": {
-        "name": "Organizations that provide that service are",
-        "description": "Institute of Development Management (IDM), Macmillan Education Swaziland (Pty) Ltd, Pips Pre-School, Sebenta National Institute, St. Michaels High School, Waterford KaMhlababa"
-    },
-    "training": {
-        "name": "Organizations that provide that service are",
-        "description": "Institute of Development Management (IDM), Macmillan Education Swaziland (Pty) Ltd, Pips Pre-School, Sebenta National Institute, St. Michaels High School, Waterford KaMhlababa"
-    },
-    "financial services": {
-        "name": "Organizations that provide that service are",
-        "description": "Bizzacc Mbabane, Eswatini National Provident Fund (ENPF), Fairlife Benefit Services Swaziland (Pty) Ltd, Financial Services Regulatory Authority (FSRA), Industrial Development Company of Eswatini (IDCE), Inhlonhla, Public Service Pension Fund, Select Management Services, Stanlib Swaziland, Swaziland Development Finance Corporation (FINCORP)"
-    },
-    "financial service": {
-        "name": "Organizations that provide that service are",
-        "description": "Bizzacc Mbabane, Eswatini National Provident Fund (ENPF), Fairlife Benefit Services Swaziland (Pty) Ltd, Financial Services Regulatory Authority (FSRA), Industrial Development Company of Eswatini (IDCE), Inhlonhla, Public Service Pension Fund, Select Management Services, Stanlib Swaziland, Swaziland Development Finance Corporation (FINCORP)"
-    },
-    "health care": {
-        "name": "Organizations that provide that service are",
-        "description": "Eswatini Nazarene Health Institute, Good Shepherd Hospital, Lancet Laboratories, Mbabane Pharmacy, Mdumo Oral Health Services, Medisun Clinic, Mkhiwa Clinic, MSO Eswatini Pty Ltd, Swazi Pharm Wholesalers (Pty) Ltd, The Clinic Group (Pty) Ltd, V & H Surgical & Patient Care"
-    },
-    "communication services": {
-        "name": "Organizations that provide that service are",
-        "description": "Anot Publishing t/a Times of Swaziland, Data Network Services, Eswatini Mobile Ltd, Eswatini Post and Telecommunications Corporation, Eswatini Television Authority, MTN Swaziland Ltd, Netcomm Swaziland, PC Sytems, Real Image Internet, The Swazi Observer (Pty) Ltd"
-    },
-    "tech": {
-        "name": "Organizations that provide that service are",
-        "description": "Anot Publishing t/a Times of Swaziland, Data Network Services, Eswatini Mobile Ltd, Eswatini Post and Telecommunications Corporation, Eswatini Television Authority, MTN Swaziland Ltd, Netcomm Swaziland, PC Sytems, Real Image Internet, The Swazi Observer (Pty) Ltd"
-    },
-    "technology": {
-        "name": "Organizations that provide that service are",
-        "description": "Anot Publishing t/a Times of Swaziland, Data Network Services, Eswatini Mobile Ltd, Eswatini Post and Telecommunications Corporation, Eswatini Television Authority, MTN Swaziland Ltd, Netcomm Swaziland, PC Sytems, Real Image Internet, The Swazi Observer (Pty) Ltd"
-    },
-    "motoring": {
-        "name": "Organizations that provide that service are",
-        "description": "GD Holdings t/a Kia Motors, Leites Toyota, Mbabane Motors Ltd, Swazi Trac (Pty) Ltd, Swaziland Earthmoving Equipment"
-    },
-    "property": {
-        "name": "Organizations that provide that service are",
-        "description": "Mbabane Estate Agents, Swaki Investment Corporation (Pty) Ltd, Swazi Plaza Properties, Swaziland National Housing Board, Tisuka Taka Ngwane"
-    },
-    "real estate": {
-        "name": "Organizations that provide that service are",
-        "description": "Mbabane Estate Agents, Swaki Investment Corporation (Pty) Ltd, Swazi Plaza Properties, Swaziland National Housing Board, Tisuka Taka Ngwane"
-    },
-    "service industry": {
-        "name": "Organizations that provide that service are",
-        "description": "A J Electrical Ltd, Africa Power Comms, Atlas Motors (Pty) Ltd, Capital Motor Corporation, Copier Corporation, Eswatini Standards Authority (SWASA), Ezulwini Municipality, Gallagher Electrical (Pty) Ltd, Instrument & Control Systems (Pty) Ltd, Komati Basin Water Authority (KOBWA), Macnabs Refrigeration (Pty) Ltd, Manzini City Council, Matsapha Town Board, Municipal Council of Mbabane, Pigg’s Peak Town Council, Radio Link Security t/a Guard Alert, Swazi Tronix (Pty) Ltd, Swaziland National Sports Council, Swaziland National Trust Commission, T & F Motors, Turbo Diesel, Usizo Technical Services"
-    },
-    "transport": {
-        "name": "Organizations that provide that service are",
-        "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
-    },
-    "logistics": {
-        "name": "Organizations that provide that service are",
-        "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
-    },
-    "courier": {
-        "name": "Organizations that provide that service are",
-        "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
-    },
-    "couriers": {
-        "name": "Organizations that provide that service are",
-        "description": "Airlink Swaziland (Pty) Ltd, Cargo Carriers (Swaziland) (Pty) Ltd, DHL Swaziland, Eswatini Civil Aviation Authority, Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
     },
     "esric": {
         "name": "ESRIC Beneficiary Fund",
@@ -3837,9 +3509,325 @@
         "name": "As always, I am great",
         "description": "any enquiry you need assistance with?"
     },
+    "restuarant": {
+        "name": "Organizations that provide that service are",
+        "description": "Willows Lodge, \n Mantenga Lodge"
+    },
+    "restaurant": {
+        "name": "Organizations that provide that service are",
+        "description": "Willows Lodge, \n Mantenga Lodge"
+    },
+    "micro insurers": {
+        "name": "Micro-Insurers (1/1)",
+        "description": "B3 Insurance"
+    },
+    "micro insurance": {
+        "name": "Micro-Insurers (1/1)",
+        "description": "B3 Insurance"
+    },
+    "short term insurer": {
+        "name": "Short-Term Insurers (1/1)",
+        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
+    },
+    "short term insurance": {
+        "name": "Short-Term Insurers (1/1)",
+        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
+    },
+    "short term": {
+        "name": "Short-Term Insurers (1/1)",
+        "description": "Lidwala Insurance, \n Medscheme Health Insurance, \n Oracle Insure, \n Phoenix of Swaziland Assurance, \n United General Insurance, \n United Health Insurance"
+    },
+    "long term insurers": {
+        "name": "Long-Term Insurers (1/1)",
+        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
+    },
+    "long term insurance": {
+        "name": "Long-Term Insurers (1/1)",
+        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
+    },
+    "long term": {
+        "name": "Long-Term Insurers (1/1)",
+        "description": "Dups Direct Insurance, \n Finsure Assurance, \n Liberty Life, \n Old Mutual Life Assurance, \n Oracle Life, \n Orchard Insurance, \n Safrican Swaziland Insurance"
+    },
+    "medical aid schemes administrators": {
+        "name": "Medical Aid Schemes Administrators (1/1)",
+        "description": "Medscheme Administrators"
+    },
+    "medical aid schemes": {
+        "name": "Medical Aid Schemes Administrators (1/1)",
+        "description": "Medscheme Administrators"
+    },
+    "composite insurers": {
+        "name": "Composite Insures (1/1)",
+        "description": "Eswatini Royal Insurance Corporation"
+    },
+    "composite insurance": {
+        "name": "Composite Insures (1/1)",
+        "description": "Eswatini Royal Insurance Corporation"
+    },
+    "composite": {
+        "name": "Composite Insures (1/1)",
+        "description": "Eswatini Royal Insurance Corporation"
+    },
+    "reinsurers": {
+        "name": "Reinsurers (1/1)",
+        "description": "Eswatini Re-Limited, \n Ezulwini Reinsurance Company"
+    },
+    "fund administrators": {
+        "name": "Fund Administrators (1/1)",
+        "description": "Eswatini Insurance Brokers, \n Eswatini Royal Insurance Corporation, \n Negotiated Benefit Consultant Swaziland, \n Oracle Life, \n Swaziland Employee Benefit Consultants"
+    },
+    "medical aid funds": {
+        "name": "Medical Aid Funds (1/1)",
+        "description": "emaSwati Care, \n Swazi HMO-Mpilwenhle, \n Swaziland Medical Aid Fund"
+    },
+    "beneficiary funds": {
+        "name": "Beneficiary Funds (1/1)",
+        "description": "ESRIC Beneficiary Fund, \n Fairlife Benefit Services, \n Likhwane Beneficiary"
+    },
+    "beneficiary fund": {
+        "name": "Beneficiary Funds (1/1)",
+        "description": "ESRIC Beneficiary Fund, \n Fairlife Benefit Services, \n Likhwane Beneficiary"
+    },
+    "insurance brokers": {
+        "name": "Insurance Brokers (1/2)",
+        "description": "Amazon Insurance Brokers, \n B3 Group, \n BSK Insurance Brokers, \n Client First Insurance Brokers, \n Coverite Insurance Brokers, \n Eazy Grow International, \n Eliz Corporate Consultants, \n Ensure Insurance Brokers, \n Eswatini Employee Benefit Consultants, \n Eswatini Insurance Brokers, \n Excellence Financial Services, \n Excorp Insurance, \n Fingroup Swaziland, \n Finsure Insurance Brokers...\n \n Type 'View Brokers 2' to view more"
+    },
+    "view broker 1": {
+        "name": "Insurance Brokers (1/2)",
+        "description": "Amazon Insurance Brokers, \n B3 Group, \n BSK Insurance Brokers, \n Client First Insurance Brokers, \n Coverite Insurance Brokers, \n Eazy Grow International, \n Eliz Corporate Consultants, \n Ensure Insurance Brokers, \n Eswatini Employee Benefit Consultants, \n Eswatini Insurance Brokers, \n Excellence Financial Services, \n Excorp Insurance, \n Fingroup Swaziland, \n Finsure Insurance Brokers...\n \n Type 'View Brokers 2' to view more"
+    },
+    "view broker 2": {
+        "name": "More Insurance Brokers (2/2)",
+        "description": "Glenrand MIB, \n Global Impact Consultancy, \n Healthcare Insurance Brokers, \n LG Financial Services and Consultancy, \n Mbabane Burial Benefit Society, \n Minx Insurance Brokers, \n Namaga Consultancy, \n Nico Insurance Brokers, \n Optimal Investment Solutions, \n Patula Risk, \n SASCCO, \n Sekusile Insurance Brokers, \n The Link Insurance Brokers, \n Tibiyo Insurance Brokers, \n Zanton Insurance Brokers"
+    },
+    "corporate agents": {
+        "name": "Corporate Agents (1/2)",
+        "description": "Bunye Betfu Buhle Betfu SACCO, \nBuzzby Services, \nConsolidated Insurance Agency, \nCrucifix Funeral Directors and Coffin Manufacturers, \nCutting Edge Management Consultants, \nEdgars Stores Eswatini, \nFirst National Bank, \nJD Group, \nLetshego Financial Services, \n Maq Alf, \n Marlett Investments, \n Mphumusa Investments, \n Nedbank, \n Nhlangano Funeral Parlour... \n \n Type 'More Corporate Agents' to view more"
+    },
+    "view agents 1": {
+        "name": "Corporate Agents (1/2)",
+        "description": "Bunye Betfu Buhle Betfu SACCO, \nBuzzby Services, \nConsolidated Insurance Agency, \nCrucifix Funeral Directors and Coffin Manufacturers, \nCutting Edge Management Consultants, \nEdgars Stores Eswatini, \nFirst National Bank, \nJD Group, \nLetshego Financial Services, \n Maq Alf, \n Marlett Investments, \n Mphumusa Investments, \n Nedbank, \n Nhlangano Funeral Parlour... \n \n Type 'View Agents 2' to view more"
+    },
+    "view agents 2": {
+        "name": "More Corporate Agents (2/2)",
+        "description": "OK Bazaars Mbabane, \n Select Limited, \n Standard Bank Eswatini Limited, \n Standard Bank Swaziland Limited, \n Swaziland Building Society, \n Swaziland Conference of Churches, \n Swaziland Development and Savings Bank, \n Swaziland Development and Savings Bank, \n Swaziland Nurses Association, \n Taurus Investments, \n WellPoint Investments"
+    },
+    "local retirement funds": {
+        "name": "Local Retirement Funds (1/7)",
+        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
+    },
+    "local retirement fund": {
+        "name": "Local Retirement Funds (1/7)",
+        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
+    },
+    "view local 1": {
+        "name": "Local Retirement Funds (1/7)",
+        "description": "Central Bank of Eswatini Pension Fund, \n City Council of Mbabane Employee Pension Fund, \n City Council of Mbabane Pension and Group Life Assurance Scheme, \n Conco Limited (SD Branch) Provident Fund, \n ESRIC Preservation Pension Fund, \n ESRIC Preservation Provident Fund, \n ESRIC Staff Pension Fund, \n ESRIC Umbrella Provident Fund, \n Eswatini Bank Pension Fund... \n \n Type 'View local 2' to view more "
+    },
+    "view local 2": {
+        "name": "More Local Retirement Funds (2/7)",
+        "description": "Eswatini Civil Aviation Authority Provident Fund, \n Eswatini Electricity Company Pension Fund, \n Eswatini National Provident Fund, \n Eswatini National Provident Fund Staff Pension Scheme, \n Eswatini Nazarene Health Institutions Staff Pension Fund, \n Eswatini Observer Provident Fund, \n Eswatini Post & Telecommunications Corporation Pension Fund... \n \n Type 'View local 3' to view more"
+    },
+    "view local 3": {
+        "name": "More Local Retirement Funds (3/7)",
+        "description": "Eswatini Railway Pension Fund, \n Eswatini Railway Provident Fund, \n Eswatini Revenue Authority Pension Fund, \n Eswatini Revenue Authority Provident Fund, \n Eswatini Sugar Association Staff Provident Fund, \n Eswatini Television Authority Pension Fund, \n Eswatini Water Service Corporation Pension Fund, \n Exams Council Pension Fund... \n \n Type 'View local 4' to view more"
+    },
+    "view local 4": {
+        "name": "More Local Retirement Funds (4/7)",
+        "description": "First National Bank of Swaziland Pension Fund, \n FSRA Staff Provident Fund, \n Institute of Development Management Pension Fund Eswatini, \n Inyatsi Provident Fund, Lilunga Umbrella Pension Fund, Ludziwo Umbrella Provident Fund, M.V.A Staff Pension Fund, Mananga Provident Fund, Mbabane Hotels Provident Fund, Members of Parliament & Designated Office Bearers Pension Fund...Type 'View local 5' to view more"
+    },
+    "view local 5": {
+        "name": "More Local Retirement Funds (5/7)",
+        "description": "Municipal Council of Manzini Staff Pension Fund, \n Namboard Pension Fund, \n NedBank (Swaziland) Limited Pension Fund, \n Nhlangano Town Council Pension Fund, Non-Governmental Health Sector Pension Fund, Old Mutual Lihawu Umbrella Pension Fund, Old Mutual Lihawu Umbrella Provident Fund, \n Premier Swazi Bakeries Pension Fund, \n Public Service Pension Fund, \n Public Service Pension Fund Staff Pension Scheme... \n \n Type 'View local 6' to view more"
+    },
+    "view local 6": {
+        "name": "More Local Retirement Funds (6/7)",
+        "description": "Rainmaker Plus Pension Umbrella Fund Swaziland, \n Rainmaker Plus Provident Umbrella Fund Swaziland, \n Royal Eswatini Sugar Corporation Provident Fund, \n Sebenta National Institute Pension Fund, \n Sibaya Umbrella Pension Fund, \n Sibaya Umbrella Provident Fund, \n Sifundzani School Provident Fund, \n Silulu Provident Fund, \n Standard Bank Eswatini Pension Fund, \n SWAKI Pension Fund, \n Swaziland Building Society Pension Fund... \n \n Type 'View local 7' to view more"
+    },
+    "view local 7": {
+        "name": "More Local Retirement Funds (7/7)",
+        "description": "Thokoza Church Centre Provident Fund, \n Tibiyo TakaNgwane Pension Fund, \n Tibiyo TakaNgwane Provident Fund, \n Tisuka TakaNgwane Provident Fund, \n Ubombo Sugar Pension Fund, \n Ubombo Sugar Provident Fund - Umzabalazo, \n Ubombo-Ingcamu Provident Fund, \n Umfuso Umbrella Pension Fund, \n Umfuso Umbrella Retirement Fund, \n UNESWA Pension Fund, \n YKK Southern Africa Factory Pension Fund"
+    },
+    "foreign retirement funds": {
+        "name": "Foreign Retirement Funds (1/3)",
+        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
+    },
+    "foreign retirement fund": {
+        "name": "Foreign Retirement Funds (1/3)",
+        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
+    },
+    "view foreign 1": {
+        "name": "Foreign Retirement Funds (1/3)",
+        "description": "Ampath Trust Provident Fund, \n Aveng (Africa) Ltd-Infraset Pension Fund, \n BKB Group Retirement Fund, \n Crookes Brothers Pension Fund, \n Destiny Umbrella Provident Fund, \n DHL Provident Fund, \n Distell Retirement Fund, \n Engen Pension Fund, \n Engen Retirement Fund, \n FSN Southern Africa Pension Fund, \n Imperial Group Pension Fund, \n Imperial Group Provident Fund... \n \n Type 'View foreign 2' for more"
+    },
+    "view foreign 2": {
+        "name": "More Foreign Retirement Funds (2/3)",
+        "description": "Investment Solutions Executive Umbrella Provident Fund, \n Investment Solutions Retirement Annuity Fund, \n Knight Piesold Staff Pension Fund, \n KPMG Provident Fund, \n Lewis Stores Provident Fund, \n Mr Price Group Retirement Fund, \n Nampak Group Pension Fund, \n Old Mutual Super Fund Pension Fund, \n Old Mutual Super Funds Provident Fund, \n Pannar Group Pension Fund, \n Pricewaterhouse Cooper Staff Provident Fund, \n Pricewaterhouse Coopers Directors Provident Fund... \n \n Type 'View foreign 3' for more"
+    },
+    "view foreign 3": {
+        "name": "More Foreign Retirement Funds (3/3)",
+        "description": "Retail Provident Fund, \n Retail Retirement Fund, \n Retirement-On-Line Pension Fund, \n Sanlam Staff Umbrella Pension Fund, \n Sanlam Staff Umbrella Provident Fund, \n Sanlam Umbrella Provident Fund, \n Sun International Pension Fund, \n Sun International Provident Fund, \n Infraset Provident Fund, \n The Preservation Pension Fund, \n The Preservation Provident Fund, \n The Provident Fund, \n Total South Africa Provident Fund, \n Umbrella Provident Fund"
+    },
+    "agency": {
+        "name": "Organizations that provide that service are",
+        "description": "Dups Holdings, \n Ekhaya Funeral Services, \n Eswatini Insurance Brokers (Pty) Ltd, \n Eswatini Royal Insurance Corporation, \n Financial Services Regulatory Authority, \n Healthcare Insurance Brokers, \n Lidwala Insurance, \n Medscheme Administrators (Pty) Ltd, \n Metropolitan Life Swaziland, \n Old Mutual, \n Patula Risk, \n Sincephetelo Motor Vehicle Accidents Fund (SMVAF), \n Swaziland Medical Aid Fund (SwaziMed), \n Tibiyo Insurance Group"
+    },
+    "funeral parlor": {
+        "name": "Organizations that provide that service are",
+        "description": "Dups Holdings, \n Ekhaya Funeral Services"
+    },
+    "insurance companies": {
+        "name": "Organizations that provide that service are",
+        "description": "Dups Holdings, \n Ekhaya Funeral Services, \n Eswatini Insurance Brokers (Pty) Ltd, \n Eswatini Royal Insurance Corporation, \n Financial Services Regulatory Authority, \n Healthcare Insurance Brokers, \n Lidwala Insurance, \n Medscheme Administrators (Pty) Ltd, \n Metropolitan Life Swaziland, \n Old Mutual, \n Patula Risk, \n Sincephetelo Motor Vehicle Accidents Fund (SMVAF), \n Swaziland Medical Aid Fund (SwaziMed), \n Tibiyo Insurance Group"
+    },
+    "medical aid": {
+        "name": "Organizations that provide that service are",
+        "description": "Healthcare Insurance Brokers, \n Medscheme Administrators (Pty) Ltd, \n Swaziland Medical Aid Fund (SwaziMed)"
+    },
+    "mining": {
+        "name": "Organizations that provide that service are",
+        "description": "A G Thomas, \n Alusol Swaziland, \n Construction Logistics (Pty) Ltd, \n Inyatsi Construction (Pty) Ltd, \n Isolution, \n Kukhanya Civil Engineering Contractors, \n Kwalini (Pty) Ltd, \n Maloma Colliery Ltd, \n SBM Enterprises T/A Sdudla Engineering, \n Stefanutti Stocks Swaziland"
+    },
+    "energy": {
+        "name": "Organizations that provide that service are",
+        "description": "Eswatini Electricity Company"
+    },
+    "water": {
+        "name": "Organizations that provide that service are",
+        "description": "Eswatini Water Services Corporation"
+    },
+    "forestry": {
+        "name": "Organizations that provide that service are",
+        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
+    },
+    "timber": {
+        "name": "Organizations that provide that service are",
+        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
+    },
+    "pulp": {
+        "name": "Organizations that provide that service are",
+        "description": "Montigny Investments Limited, \n Peak Timbers Ltd, \n Shiselweni Forestry Company Ltd, \n Swaziland Plantations Ltd"
+    },
+    "hotel": {
+        "name": "Organizations that provide that service are",
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
+    },
+    "accomodation": {
+        "name": "Organizations that provide that service are",
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
+    },
+    "accommodation": {
+        "name": "Organizations that provide that service are",
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
+    },
+    "catering": {
+        "name": "Organizations that provide that service are",
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
+    },
+    "tourism": {
+        "name": "Organizations that provide that service are",
+        "description": "Happy Valley Hotel, \n Mantenga Lodge (Pty) Ltd, \n Mbabane Hotels t/a Mountain Inn, \n Mdimba Estates t/a Willows Lodge, \n Phophonyane Lodge and Nature Reserve, \n Royal Swazi Spa, \n Sibane Hotel, \n Swaziland Tourism Authority, \n Tibiyo Leisure and Resorts t/a Royal Villas"
+    },
+    "manufacturing": {
+        "name": "Organizations that provide that service are",
+        "description": "Afrisam Swaziland (Pty) Ltd, \n Afrox t/a Swazi Oxyggen, \n Arrowfeeds Ltd, \n Atlanta Products (Pty) Ltd, \n Barrat Board & Timber, \n Conco Limited, \n DD Williamson (Pty) Ltd, \n Dulux Swaziland (Pty) Ltd, \n Eswatini Beverages Ltd, \n Exipro Swaziland (Pty) Ltd, \n Global Paints, \n Infraset Swazi-Fyfe, \n Macmillan Education Swaziland (Pty) Ltd, \n Macsteel Eswatini, \n Mondelez International (Pty) Ltd, \n Ngwane Mills (Pty) Ltd, \n Ngwenya Glass (Pty) Ltd, \n Parmalat Swaziland (Pty) Ltd, \n Starpaint (Pty) Ltd, \n Stonewood Creations, \n Swazi Gases t/a Air Liquide, \n Swazi Mahewu (Pty) Ltd, \n Swazi Wire Industries, Vicker Swaziland"
+    },
+    "processing": {
+        "name": "Organizations that provide that service are",
+        "description": "Apollo Services (Pty) Ltd, \n Black Mamba Foods ( PTY) LTD, \n Clover Swaziland (Pty) Ltd, \n Dyson & Lincoln (Pty) Ltd, \n Elcor Industries (Pty) Ltd, \n Eswatini Beverages Ltd, \n Macmillan Education Swaziland (Pty) Ltd, \n Mananga Sugar Packers, \n Parmalat Swaziland (Pty) Ltd, \n Premier Swazi, \n Printpak, \n Rhodes Food Group, \n Stonewood Creations, \n Swazi Gases t/a Air Liquide, \n Swazi Mahewu (Pty) Ltd, \n Swazi Plastic Industries Ltd,\n  Swazi Poultry Processors Ltd, \n Swazi Wire Industries, \n Swaziland Meat Industries, \n Unifoods, \n Vicker Swaziland, \n Yebo Art Gallery-Africa Fantasy"
+    },
+    "non-government": {
+        "name": "Organizations that provide that service are",
+        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), Kudvumisa Foundation, Medecins Sans Frontieres, World Vision International"
+    },
+    "ngos": {
+        "name": "Organizations that provide that service are",
+        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), Kudvumisa Foundation, Medecins Sans Frontieres, World Vision International"
+    },
+    "ngo": {
+        "name": "Organizations that provide that service are",
+        "description": "Centre for HIV/AIDS Prevention Studies (CHAPS), \n Kudvumisa Foundation, \n Medecins Sans Frontieres, \n World Vision International"
+    },
+    "professional services": {
+        "name": "Organizations that provide that service are",
+        "description": "A M Consultancy, \n A M Recruitment Services (Pty) Ltd, \n Architects International, \n Bicon Consulting Engineers, \n Building Design Group Swaziland, \n Business Doctors Swaziland, \n ELB Labour Consultancy, \n Eswatini Economic Policy Analysis and Research Centre, \n Gundane & Sons, \n Kobla Quashie & Associates, \n KPMG, Manyatsi Nhleko Quantity Surveyors, \n Maphanga Mitchell & Associates, \n Pricewaterhouse Coopers (PWC), \n Resolution & Management Consultancy, \n Small Enterprise Development Company Ltd, \n Steve Hall Development Consultants (Pty) Ltd, \n Swaziland Consulting Engineers Inc., \n Swaziland Occupational Safety & Health, \n The Team Recruitment, \n Xpedia Consulting (Pty) Ltd"
+    },
+    "textile": {
+        "name": "Organizations that provide that service are",
+        "description": "Fashion International Swd (Pty) Ltd"
+    },
+    "garment": {
+        "name": "Organizations that provide that service are",
+        "description": "Fashion International Swd (Pty) Ltd"
+    },
+    "apparel": {
+        "name": "Organizations that provide that service are",
+        "description": "Fashion International Swd (Pty) Ltd"
+    },
+    "banking": {
+        "name": "Organizations that provide that service are",
+        "description": "Central Bank of Eswatini, \n Eswatini Bank, \n Farmers Bank, \n First National Bank of Swaziland Ltd, \n Nedbank (Swaziland) Limited, \n Standard Bank Swaziland Ltd, \n Swaziland Building Society"
+    },
+    "education": {
+        "name": "Organizations that provide that service are",
+        "description": "Institute of Development Management (IDM), \n Macmillan Education Swaziland (Pty) Ltd, \n Pips Pre-School, \n Sebenta National Institute, \n St. Michaels High School, \n Waterford KaMhlababa"
+    },
+    "training": {
+        "name": "Organizations that provide that service are",
+        "description": "Institute of Development Management (IDM), \n Macmillan Education Swaziland (Pty) Ltd, \n Pips Pre-School, \n Sebenta National Institute, \n St. Michaels High School, \n Waterford KaMhlababa"
+    },
+    "financial services": {
+        "name": "Organizations that provide that service are",
+        "description": "Bizzacc Mbabane, \n Eswatini National Provident Fund (ENPF), \n Fairlife Benefit Services Swaziland (Pty) Ltd, \n Financial Services Regulatory Authority (FSRA), \n Industrial Development Company of Eswatini (IDCE), \n Inhlonhla, \n Public Service Pension Fund, \n Select Management Services, \n Stanlib Swaziland, \n Swaziland Development Finance Corporation (FINCORP)"
+    },
+    "financial service": {
+        "name": "Organizations that provide that service are",
+        "description": "Bizzacc Mbabane, \n Eswatini National Provident Fund (ENPF), \n Fairlife Benefit Services Swaziland (Pty) Ltd, \n Financial Services Regulatory Authority (FSRA), \n Industrial Development Company of Eswatini (IDCE), \n Inhlonhla, \n Public Service Pension Fund, \n Select Management Services, \n Stanlib Swaziland, \n Swaziland Development Finance Corporation (FINCORP)"
+    },
+    "health care": {
+        "name": "Organizations that provide that service are",
+        "description": "Eswatini Nazarene Health Institute, \n Good Shepherd Hospital, \n Lancet Laboratories, \n Mbabane Pharmacy, \n Mdumo Oral Health Services, \n Medisun Clinic, \n Mkhiwa Clinic, \n MSO Eswatini Pty Ltd, \n Swazi Pharm Wholesalers (Pty) Ltd, \n The Clinic Group (Pty) Ltd, \n V & H Surgical & Patient Care"
+    },
+    "communication services": {
+        "name": "Organizations that provide that service are",
+        "description": "Anot Publishing t/a Times of Swaziland, \n Data Network Services, \n Eswatini Mobile Ltd, \n Eswatini Post and Telecommunications Corporation, \n Eswatini Television Authority, \n MTN Swaziland Ltd, \n Netcomm Swaziland, \n PC Sytems, \n Real Image Internet, \n The Swazi Observer (Pty) Ltd"
+    },
+    "tech": {
+        "name": "Organizations that provide that service are",
+        "description": "Anot Publishing t/a Times of Swaziland, \n Data Network Services, \n Eswatini Mobile Ltd, \n Eswatini Post and Telecommunications Corporation, \n Eswatini Television Authority, \n MTN Swaziland Ltd, \n Netcomm Swaziland, \n PC Sytems, \n Real Image Internet, \n The Swazi Observer (Pty) Ltd"
+    },
+    "technology": {
+        "name": "Organizations that provide that service are",
+        "description": "Anot Publishing t/a Times of Swaziland, \n Data Network Services, \n Eswatini Mobile Ltd, \n Eswatini Post and Telecommunications Corporation, \n Eswatini Television Authority, \n MTN Swaziland Ltd, \n Netcomm Swaziland, \n PC Sytems, \n Real Image Internet, \n The Swazi Observer (Pty) Ltd"
+    },
+    "motoring": {
+        "name": "Organizations that provide that service are",
+        "description": "GD Holdings t/a Kia Motors, \n Leites Toyota, \n Mbabane Motors Ltd, \n Swazi Trac (Pty) Ltd, \n Swaziland Earthmoving Equipment"
+    },
+    "property": {
+        "name": "Organizations that provide that service are",
+        "description": "Mbabane Estate Agents, \n Swaki Investment Corporation (Pty) Ltd, \n Swazi Plaza Properties, \n Swaziland National Housing Board, \n Tisuka Taka Ngwane"
+    },
+    "real estate": {
+        "name": "Organizations that provide that service are",
+        "description": "Mbabane Estate Agents, \n Swaki Investment Corporation (Pty) Ltd, \n Swazi Plaza Properties, \n Swaziland National Housing Board, \n Tisuka Taka Ngwane"
+    },
+    "service industry": {
+        "name": "Organizations that provide that service are",
+        "description": "A J Electrical Ltd, \n Africa Power Comms, \n Atlas Motors (Pty) Ltd, \n Capital Motor Corporation, \n Copier Corporation, \n Eswatini Standards Authority (SWASA), \n Ezulwini Municipality, \n Gallagher Electrical (Pty) Ltd, \n Instrument & Control Systems (Pty) Ltd, \n Komati Basin Water Authority (KOBWA), \n Macnabs Refrigeration (Pty) Ltd, \n Manzini City Council, \n Matsapha Town Board, \n Municipal Council of Mbabane, \n Pigg’s Peak Town Council, \n Radio Link Security t/a Guard Alert, \n Swazi Tronix (Pty) Ltd, \n Swaziland National Sports Council, \n Swaziland National Trust Commission, \n T & F Motors, \n Turbo Diesel, \n Usizo Technical Services"
+    },
+    "transport": {
+        "name": "Organizations that provide that service are",
+        "description": "Airlink Swaziland (Pty) Ltd, \n Cargo Carriers (Swaziland) (Pty) Ltd, \n DHL Swaziland, \n Eswatini Civil Aviation Authority, \n Eswatini Railway, H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
+    },
+    "logistics": {
+        "name": "Organizations that provide that service are",
+        "description": "Airlink Swaziland (Pty) Ltd, \n Cargo Carriers (Swaziland) (Pty) Ltd, \n DHL Swaziland, \n Eswatini Civil Aviation Authority, \n Eswatini Railway, \n H. S. Transport, Interfreight (Pty) Ltd, Logico Unlimited, Mediterranean Shipping Company Swaziland (Pty) Ltd, MotherTruckers, SiyeSwatini TransMagnific, Southern Star Logistics, Swaziland Road Freight Association, Transship (Pty) Ltd, XL Travel Eswatini"
+    },
     "lodge": {
         "name": "Organizations that provide that service are",
-        "description": "Phophonyane Lodge, Willows Lodge, Mantenga Lodge"
+        "description": "Phophonyane Lodge, \n Willows Lodge, \n Mantenga Lodge"
     },
     "game reserve": {
         "name": "Organizations that provide that service are",
@@ -3851,7 +3839,7 @@
     },
     "conference": {
         "name": "Organizations that provide that service are",
-        "description": "Willows Lodge, Mantenga Lodge, Sibane Hotel"
+        "description": "Willows Lodge, \n Mantenga Lodge, \n Sibane Hotel"
     },
     "resort": {
         "name": "Organizations that provide that service are",
@@ -3863,7 +3851,7 @@
     },
     "welding": {
         "name": "Organizations that provide that service are",
-        "description": "Afrox, Swazi Oxyggen"
+        "description": "Afrox, \n Swazi Oxyggen"
     },
     "printing": {
         "name": "Organizations that provide that service are",
@@ -3871,19 +3859,19 @@
     },
     "stationery": {
         "name": "Organizations that provide that service are",
-        "description": "Apollo, All Stationery"
+        "description": "Apollo, \n All Stationery"
     },
     "packing": {
         "name": "Organizations that provide that service are",
-        "description": "Dyson & Lincoln, Atlanta Products"
+        "description": "Dyson & Lincoln, \n Atlanta Products"
     },
     "paint": {
         "name": "Organizations that provide that service are",
-        "description": "Global Paints, Starpaint"
+        "description": "Global Paints, \n Starpaint"
     },
     "gas": {
         "name": "Organizations that provide that service are",
-        "description": "Elcor Industries, Afrox, Swazi Oxyggen"
+        "description": "Elcor Industries, \n Afrox, \n Swazi Oxyggen"
     },
     "concrete": {
         "name": "Organizations that provide that service are",
@@ -3895,7 +3883,7 @@
     },
     "glass": {
         "name": "Organizations that provide that service are",
-        "description": "Plate Glass Swaziland, Ngwenya Glass"
+        "description": "Plate Glass Swaziland, \n Ngwenya Glass"
     },
     "bakery": {
         "name": "Organizations that provide that service are",
@@ -3903,15 +3891,15 @@
     },
     "printers": {
         "name": "Organizations that provide that service are",
-        "description": "Printpak, Apollo"
+        "description": "Printpak, \n Apollo"
     },
     "fruit": {
         "name": "Organizations that provide that service are",
-        "description": "Rhodes Food Group, Swaziland Citrus Board"
+        "description": "Rhodes Food Group, \n Swaziland Citrus Board"
     },
     "fruits": {
         "name": "Organizations that provide that service are",
-        "description": "Rhodes Food Group, Swaziland Citrus Board"
+        "description": "Rhodes Food Group, \n Swaziland Citrus Board"
     },
     "fittings": {
         "name": "Organizations that provide that service are",
@@ -3927,11 +3915,11 @@
     },
     "metal": {
         "name": "Organizations that provide that service are",
-        "description": "Macsteel Eswatini, Swazi Wire Industries, Sdudla Engineering / SBM Enterprises"
+        "description": "Macsteel Eswatini, \n Swazi Wire Industries, \n Sdudla Engineering / SBM Enterprises"
     },
     "steel": {
         "name": "Organizations that provide that service are",
-        "description": "Macsteel Eswatini, Swazi Wire Industries, Sdudla Engineering / SBM Enterprises"
+        "description": "Macsteel Eswatini, \n Swazi Wire Industries, \n Sdudla Engineering / SBM Enterprises"
     },
     "meat": {
         "name": "Organizations that provide that service are",
@@ -3959,35 +3947,35 @@
     },
     "accounting": {
         "name": "Organizations that provide that service are",
-        "description": "A M Consultancy, Kobla Quashie & Associates, KPMG, Pricewaterhouse Coopers (PWC)"
+        "description": "A M Consultancy, \n Kobla Quashie & Associates, \n KPMG, \n Pricewaterhouse Coopers (PWC)"
     },
     "recruitment": {
         "name": "Organizations that provide that service are",
-        "description": "The Team Recruitment, A M Recruitment Services (Pty) Ltd"
+        "description": "The Team Recruitment, \n A M Recruitment Services (Pty) Ltd"
     },
     "architect": {
         "name": "Organizations that provide that service are",
-        "description": "Architects International, Building Design Group Swaziland, Steve Hall Development Consultants (Pty) Ltd"
+        "description": "Architects International, \n Building Design Group Swaziland, \n Steve Hall Development Consultants (Pty) Ltd"
     },
     "architects": {
         "name": "Organizations that provide that service are",
-        "description": "Architects International, Building Design Group Swaziland, Steve Hall Development Consultants (Pty) Ltd"
+        "description": "Architects International, \n Building Design Group Swaziland, \n Steve Hall Development Consultants (Pty) Ltd"
     },
     "architecture": {
         "name": "Organizations that provide that service are",
-        "description": "Architects International, Building Design Group Swaziland, Steve Hall Development Consultants (Pty) Ltd"
+        "description": "Architects International, \n Building Design Group Swaziland, \n Steve Hall Development Consultants (Pty) Ltd"
     },
     "consulting": {
         "name": "Organizations that provide that service are",
-        "description": "Swaziland Consulting Engineers Inc, Xpedia Consulting (Pty) Ltd, Bicon Consulting Engineers "
+        "description": "Swaziland Consulting Engineers Inc, \n Xpedia Consulting (Pty) Ltd, \n Bicon Consulting Engineers "
     },
     "auditor": {
         "name": "Organizations that provide that service are",
-        "description": "Kobla Quashie & Associates, KPMG"
+        "description": "Kobla Quashie & Associates, \n KPMG"
     },
     "auditors": {
         "name": "Organizations that provide that service are",
-        "description": "Kobla Quashie & Associates, KPMG"
+        "description": "Kobla Quashie & Associates, \n KPMG"
     },
     "chartered accountants": {
         "name": "Organizations that provide that service are",
@@ -3995,67 +3983,63 @@
     },
     "accountant": {
         "name": "Organizations that provide that service are",
-        "description": "A M Consultancy, Kobla Quashie & Associates, KPMG, Pricewaterhouse Coopers (PWC)"
+        "description": "A M Consultancy, \n Kobla Quashie & Associates, \n KPMG, \n Pricewaterhouse Coopers (PWC)"
     },
     "surveyor": {
         "name": "Organizations that provide that service are",
-        "description": "Manyatsi Nhleko Quantity Surveyors, Maphanga Mitchell & Associates"
+        "description": "Manyatsi Nhleko Quantity Surveyors, \n Maphanga Mitchell & Associates"
     },
     "surveying": {
         "name": "Organizations that provide that service are",
-        "description": "Manyatsi Nhleko Quantity Surveyors, Maphanga Mitchell & Associates"
+        "description": "Manyatsi Nhleko Quantity Surveyors, \n Maphanga Mitchell & Associates"
     },
     "civil engineering": {
         "name": "Organizations that provide that service are",
-        "description": "Swaziland Consulting Engineers Inc, Kukhanya Civil Engineering Contractors"
+        "description": "Swaziland Consulting Engineers Inc, \n Kukhanya Civil Engineering Contractors"
     },
     "civil engineer": {
         "name": "Organizations that provide that service are",
-        "description": "Swaziland Consulting Engineers Inc, Kukhanya Civil Engineering Contractors"
-    },
-    "wholesale": {
-        "name": "Organizations that provide that service are",
-        "description": "Dyson & Lincoln (Pty) Ltd, Afritool, All Stationery (Pty)Ltd, British American Tobacco, Buy & Save Supermarket, Furniture Warehouse / CJ Trading, Pansolutions, Dynamic Distributors (Pty) Ltd, Hoageys Ltd, Matsapha Trading Company, Ocean Fresh Import & Export, Ocean Traders International (Pty) Ltd, Plate Glass Swaziland, Swaziland Agricultural Supplies, Swaziland Liquor Distributors-Distell SD, Tri-Star Swaziland, Swaziland Supply Centre, Baobab-Batik, Swazi Pharm Wholesalers (Pty) Ltd    "
+        "description": "Swaziland Consulting Engineers Inc, \n Kukhanya Civil Engineering Contractors"
     },
     "investment": {
         "name": "Organizations that provide that service are",
-        "description": "Stanlib Swaziland, Select Management Services, Inhlonhla"
+        "description": "Stanlib Swaziland, \n Select Management Services, \n Inhlonhla"
     },
     "investments": {
         "name": "Organizations that provide that service are",
-        "description": "Stanlib Swaziland, Select Management Services, Inhlonhla"
+        "description": "Stanlib Swaziland, \n Select Management Services, \n Inhlonhla"
     },
     "hospital": {
         "name": "Organizations that provide that service are",
-        "description": "Eswatini Nazarene Health Institute, Good Shepherd Hospital"
+        "description": "Eswatini Nazarene Health Institute, \n Good Shepherd Hospital"
     },
     "medical": {
         "name": "Organizations that provide that service are",
-        "description": "MSO Eswatini Pty Ltd, Medisun Clinic, Lancet Laboratories, Medecins Sans Frontieres, Swaziland Medical Aid Fund (SwaziMed), Medscheme Administrators (Pty) Ltd, Healthcare Insurance Brokers"
+        "description": "MSO Eswatini Pty Ltd, \n Medisun Clinic, \n Lancet Laboratories, \n Medecins Sans Frontieres, \n Swaziland Medical Aid Fund (SwaziMed), \n Medscheme Administrators (Pty) Ltd, \n Healthcare Insurance Brokers"
     },
     "clinic": {
         "name": "Organizations that provide that service are",
-        "description": "Medisun Clinic, Mkhiwa Clinic, The Clinic Group (Pty) Ltd "
+        "description": "Medisun Clinic, \n Mkhiwa Clinic, \n The Clinic Group (Pty) Ltd "
     },
     "pharmacy": {
         "name": "Organizations that provide that service are",
-        "description": "Mbabane Pharmacy, Swazi Pharm Wholesalers (Pty) Ltd"
+        "description": "Mbabane Pharmacy, \n Swazi Pharm Wholesalers (Pty) Ltd"
     },
     "pharmaceutical": {
         "name": "Organizations that provide that service are",
-        "description": "Swazi Pharm Wholesalers (Pty) Ltd, Mbabane Pharmacy"
+        "description": "Swazi Pharm Wholesalers (Pty) Ltd, \n Mbabane Pharmacy"
     },
     "newspaper": {
         "name": "Organizations that provide that service are",
-        "description": "Times of Swaziland, The Swazi Observer (Pty) Ltd"
+        "description": "Times of Swaziland, \n The Swazi Observer (Pty) Ltd"
     },
     "repair": {
         "name": "Organizations that provide that service are",
-        "description": "Macnabs Refrigeration (Pty) Ltd, Gallagher Electrical (Pty) Ltd, Netcomm Swaziland, V & H Surgical & Patient Care"
+        "description": "Macnabs Refrigeration (Pty) Ltd, \n Gallagher Electrical (Pty) Ltd, \n Netcomm Swaziland, \n V & H Surgical & Patient Care"
     },
     "computers": {
         "name": "Organizations that provide that service are",
-        "description": "PC Sytems, Pansolutions, Copier Corporation, Netcomm Swaziland"
+        "description": "PC Sytems, \n Pansolutions, \n Copier Corporation, \n Netcomm Swaziland"
     },
     "internet": {
         "name": "Organizations that provide that service are",
@@ -4063,15 +4047,15 @@
     },
     "motor dealers": {
         "name": "Organizations that provide that service are",
-        "description": "Kia Motors, Mbabane Motors Ltd, Swaziland Earthmoving Equipment"
+        "description": "Kia Motors, \n Mbabane Motors Ltd, \n Swaziland Earthmoving Equipment"
     },
     "motor dealer": {
         "name": "Organizations that provide that service are",
-        "description": "Kia Motors, Mbabane Motors Ltd, Swaziland Earthmoving Equipment"
+        "description": "Kia Motors, \n Mbabane Motors Ltd, \n Swaziland Earthmoving Equipment"
     },
     "dealer": {
         "name": "Organizations that provide that service are",
-        "description": "Kia Motors, Mbabane Motors Ltd, Swaziland Earthmoving Equipment"
+        "description": "Kia Motors, \n Mbabane Motors Ltd, \n Swaziland Earthmoving Equipment"
     },
     "property valuation": {
         "name": "Organizations that provide that service are",
@@ -4091,27 +4075,27 @@
     },
     "office equipment": {
         "name": "Organizations that provide that service are",
-        "description": "Copier Corporation, Pansolutions"
+        "description": "Copier Corporation, \n Pansolutions"
     },
     "council": {
         "name": "Organizations that provide that service are",
-        "description": "Manzini City Council, Municipal Council of Mbabane, Pigg’s Peak Town Council, Swaziland National Sports Council"
+        "description": "Manzini City Council, \n Municipal Council of Mbabane, \n Pigg’s Peak Town Council, \n Swaziland National Sports Council"
     },
     "electrical": {
         "name": "Organizations that provide that service are",
-        "description": "Gallagher Electrical (Pty) Ltd, A J Electrical Ltd, Mormond Electrical Contractors Ltd, Hoageys Ltd"
+        "description": "Gallagher Electrical (Pty) Ltd, \n A J Electrical Ltd, \n Mormond Electrical Contractors Ltd, \n Hoageys Ltd"
     },
     "electricity": {
         "name": "Organizations that provide that service are",
-        "description": "Gallagher Electrical (Pty) Ltd, A J Electrical Ltd, Mormond Electrical Contractors Ltd, Hoageys Ltd"
+        "description": "Gallagher Electrical (Pty) Ltd, \n A J Electrical Ltd, \n Mormond Electrical Contractors Ltd, \n Hoageys Ltd"
     },
     "security": {
         "name": "Organizations that provide that service are",
-        "description": "Guard Alert / Radio Link Security, Swazi Tronix (Pty) Ltd"
+        "description": "Guard Alert / Radio Link Security, \n Swazi Tronix (Pty) Ltd"
     },
     "courier": {
         "name": "Organizations that provide that service are",
-        "description": "DHL Swaziland, Interfreight (Pty) Ltd"
+        "description": "DHL Swaziland, \n Interfreight (Pty) Ltd"
     },
     "airline": {
         "name": "Organizations that provide that service are",
@@ -4131,7 +4115,7 @@
     },
     "interior design": {
         "name": "Organizations that provide that service are",
-        "description": "Construction Logistics (Pty) Ltd, Isolution"
+        "description": "Construction Logistics (Pty) Ltd, \n Isolution"
     },
     "quarry": {
         "name": "Organizations that provide that service are",
@@ -4147,7 +4131,7 @@
     },
     "animal feed": {
         "name": "Organizations that provide that service are",
-        "description": "Swaki Investment Corporation (Pty) Ltd, Arrowfeeds Ltd, Eagle’s Nest (Pty) Ltd"
+        "description": "Swaki Investment Corporation (Pty) Ltd, \n Arrowfeeds Ltd, \n Eagle’s Nest (Pty) Ltd"
     },
     "eggs": {
         "name": "Organizations that provide that service are",
@@ -4163,7 +4147,7 @@
     },
     "farming": {
         "name": "Organizations that provide that service are",
-        "description": "Hurlingham Sugar Estate, Mafutseni Ranch, NAMBOARD"
+        "description": "Hurlingham Sugar Estate, Mafutseni Ranch, \n NAMBOARD"
     },
     "maize": {
         "name": "Organizations that provide that service are",
@@ -4183,38 +4167,46 @@
     },
     "insurance": {
         "name": "Which category do you want",
-        "description": "Short-Term Insurers, Composite Insurers, \nLong-Term Insurers, \nReinsurers, \nMicro-Insurers, \nBeneficiary Funds, \nInsurance Brokers, \nForeign Retirement Funds, \nLocal Retirement Funds, \nMedical Aid Funds, \nCorporate Agents, \nMedical Aid Schemes Administrators, \nFund Administrators"
+        "description": "Short-Term Insurers, \n Composite Insurers, \n Long-Term Insurers, \n Reinsurers, \n Micro-Insurers, \n Beneficiary Funds, \n Insurance Brokers, \n Foreign Retirement Funds, \n Local Retirement Funds, \n Medical Aid Funds, \n Corporate Agents, \n Medical Aid Schemes Administrators, \n Fund Administrators"
     },
     "brokers": {
         "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
+        "description": "Amazon Insurance Brokers, \n B3 Group, \n BSK Insurance Brokers, \n Client First Insurance Brokers, \n Coverite Insurance Brokers, \n Eazy Grow International, \n Eliz Corporate Consultants, \n Ensure Insurance Brokers, \n Eswatini Employee Benefit Consultants, \n Eswatini Insurance Brokers, \n Excellence Financial Services, \n Excorp Insurance, \n Fingroup Swaziland, \n Finsure Insurance Brokers... \n \n Type 'View Brokers 2' to view more"
     },
     "broker": {
         "name": "Insurance Brokers (1/2)",
-        "description": "Amazon Insurance Brokers, B3 Group, BSK Insurance Brokers, Client First Insurance Brokers, Coverite Insurance Brokers, Eazy Grow International, Eliz Corporate Consultants, Ensure Insurance Brokers, Eswatini Employee Benefit Consultants, Eswatini Insurance Brokers, Excellence Financial Services, Excorp Insurance, Fingroup Swaziland, Finsure Insurance Brokers...Type 'View Brokers 2' to view more"
+        "description": "Amazon Insurance Brokers, \n B3 Group, \n BSK Insurance Brokers, \n Client First Insurance Brokers, \n Coverite Insurance Brokers, \n Eazy Grow International, \n Eliz Corporate Consultants, \n Ensure Insurance Brokers, \n Eswatini Employee Benefit Consultants, \n Eswatini Insurance Brokers, \n Excellence Financial Services, \n Excorp Insurance, \n Fingroup Swaziland, \n Finsure Insurance Brokers... \n \n Type 'View Brokers 2' to view more"
     },
     "retirement": {
         "name": "Organizations that provide that service are",
-        "description": "Metropolitan Life Swaziland, Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
+        "description": "Metropolitan Life Swaziland, \n Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
     },
     "pension": {
         "name": "Organizations that provide that service are",
-        "description": "Metropolitan Life Swaziland, Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
+        "description": "Metropolitan Life Swaziland, \n Sincephetelo Motor Vehicle Accidents Fund (SMVAF)"
     },
     "agriculture": {
         "name": "Organizations that provide that service are",
-        "description": "Africa Chicks, Black Duke, Crookes Plantations Limited, Eagle Air (Pty) Ltd, Eagle’s Nest (Pty) Ltd, Eswatini Cane Growers Association, Eswatini Dairy Board, Eswatini Sugar Association, Eswatini Water & Agricultural Development Enterprise (ESWADE), Hurlingham Sugar Estate, Inyoni Yami Swaziland Irrigation Scheme, Mafuteni Ranch (Pty) Ltd, National Agricultural Marketing Board (NAMBOARD), National Chicks Swaziland, National Maize Corporation (NMC), Royal Swaziland Sugar Corporation (RSSC), Scotts Ranch 2000 Limited, Swaziland Citrus Board, Tongaat Hulett t/a Tambankulu Estate, Ubombo Sugar Limited, Umoba (Pty) Ltd"
+        "description": "Africa Chicks, \n Black Duke, \n Crookes Plantations Limited, \n Eagle Air (Pty) Ltd, \n Eagle’s Nest (Pty) Ltd, \n Eswatini Cane Growers Association, \n Eswatini Dairy Board, \n Eswatini Sugar Association, \n Eswatini Water & Agricultural Development Enterprise (ESWADE), \n Hurlingham Sugar Estate, \n Inyoni Yami Swaziland Irrigation Scheme, \n Mafuteni Ranch (Pty) Ltd, \n National Agricultural Marketing Board (NAMBOARD), \n National Chicks Swaziland, \n National Maize Corporation (NMC), \n Royal Swaziland Sugar Corporation (RSSC), \n Scotts Ranch 2000 Limited, \n Swaziland Citrus Board, \n Tongaat Hulett t/a Tambankulu Estate, \n Ubombo Sugar Limited, \n Umoba (Pty) Ltd"
     },
     "building": {
         "name": "Organizations that provide that service are",
-        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+        "description": "A G Thomas, \n Alusol Swaziland, \n Construction Logistics (Pty) Ltd, \n Inyatsi Construction (Pty) Ltd, \n Isolution, \n Kukhanya Civil Engineering Contractors, \n Kwalini (Pty) Ltd, \n Maloma Colliery Ltd, \n SBM Enterprises T/A Sdudla Engineering, \n Stefanutti Stocks Swaziland"
     },
     "construction": {
         "name": "Organizations that provide that service are",
-        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+        "description": "A G Thomas, \n Alusol Swaziland, \n Construction Logistics (Pty) Ltd, \n Inyatsi Construction (Pty) Ltd, \n Isolution, \n Kukhanya Civil Engineering Contractors, \n Kwalini (Pty) Ltd, \n Maloma Colliery Ltd, \n SBM Enterprises T/A Sdudla Engineering, \n Stefanutti Stocks Swaziland"
     },
     "engineering": {
         "name": "Organizations that provide that service are",
-        "description": "A G Thomas, Alusol Swaziland, Construction Logistics (Pty) Ltd, Inyatsi Construction (Pty) Ltd, Isolution, Kukhanya Civil Engineering Contractors, Kwalini (Pty) Ltd, Maloma Colliery Ltd, SBM Enterprises T/A Sdudla Engineering, Stefanutti Stocks Swaziland"
+        "description": "A G Thomas, \n Alusol Swaziland, \n Construction Logistics (Pty) Ltd, \n Inyatsi Construction (Pty) Ltd, \n Isolution, \n Kukhanya Civil Engineering Contractors, \n Kwalini (Pty) Ltd, \n Maloma Colliery Ltd, \n SBM Enterprises T/A Sdudla Engineering, \n Stefanutti Stocks Swaziland"
+    },
+    "retail": {
+        "name": "Organizations that provide that service are",
+        "description": "Afritool, \n All Stationery (Pty)Ltd, \n British American Tobacco (Swaziland), \n Buy & Save Supermarket (Pty) Ltd, \n C G Trading Company (Pty) Ltd, \n CJ Trading t/a Furniture Warehouse, \n Corys Ltd t/a Pansolutions, \n Dynamic Distributors (Pty) Ltd, \n Hoageys Ltd, \n Linac t/a OK Foods, \n Lojaf Pick n Pay, \n Matsapha Trading Company, \n Mormond Electrical Contractors Ltd, \n NBR Investments t/a Khuba Traders, \n Ocean Fresh Import & Export (Pty) Ltd, \n Ocean Traders International (Pty) Ltd, \n Plate Glass Swaziland, \n SANO Holdings, \n Swaziland Agricultural Supplies, \n Swaziland Liquor Distributors-Distell SD, \n Swaziland Sales & Marketing t/a Tri-Star Swaziland, \n Swaziland Supply Centre, \n Under African Skies t/a Baobab-Batik"
+    },
+    "wholesale": {
+        "name": "Organizations that provide that service are",
+        "description": "Dyson & Lincoln (Pty) Ltd, \n Afritool, \n All Stationery (Pty)Ltd, \n British American Tobacco, \n Buy & Save Supermarket, \n Furniture Warehouse / CJ Trading, \n Pansolutions, \n Dynamic Distributors (Pty) Ltd, \n Hoageys Ltd, \n Matsapha Trading Company, \n Ocean Fresh Import & Export, \n Ocean Traders International (Pty) Ltd, \n Plate Glass Swaziland, \n Swaziland Agricultural Supplies, \n Swaziland Liquor Distributors-Distell SD, \n Tri-Star Swaziland, \n Swaziland Supply Centre, \n Baobab-Batik, \n Swazi Pharm Wholesalers (Pty) Ltd    "
     }
 }
