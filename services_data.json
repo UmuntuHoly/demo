@@ -2269,15 +2269,15 @@
         "name": "Become a Impumelelo Member",
         "description": "Go to: www.impumelelosacco.com/members/forms/"
     },
+    "impumelelo": {
+        "name": "Impumelelo Savings and Credit Cooperative Society",
+        "description": "is a financial service entity that provides its members the opportunity to own their economic future through savings and then providing credit in form of loans to the members."
+    },
     "family life association of eswatini": {
         "name": "Family Life Association of Eswatini (FLAS)",
         "description": "The Family Life Association of Eswatini (FLAS) is a volunteer-based non-profit organization which focuses on the provision of integrated Sexual and Reproductive Health (SRH) and HIV services and information with a primary target on young people aged 10 – 24 while adults and those below 10 become a secondary target."
     },
     "family life association of swaziland": {
-        "name": "Family Life Association of Eswatini (FLAS)",
-        "description": "The Family Life Association of Eswatini (FLAS) is a volunteer-based non-profit organization which focuses on the provision of integrated Sexual and Reproductive Health (SRH) and HIV services and information with a primary target on young people aged 10 – 24 while adults and those below 10 become a secondary target."
-    },
-    "flas": {
         "name": "Family Life Association of Eswatini (FLAS)",
         "description": "The Family Life Association of Eswatini (FLAS) is a volunteer-based non-profit organization which focuses on the provision of integrated Sexual and Reproductive Health (SRH) and HIV services and information with a primary target on young people aged 10 – 24 while adults and those below 10 become a secondary target."
     },
@@ -2376,6 +2376,10 @@
     "flas donate": {
         "name": "Flas Donate",
         "description": "When philantropy invests in women's foundations and gender justice funders, we empower a deeply intersectional movement that fights for policies and standards across lines of race, class & gender. WFN is the largest philanthropic alliance in the world dedicated to advancing the essential role of these funders in the unwavering fight for gender equality & justice. To donate, go to: www.flas.org.sz/donate"
+    },
+    "flas": {
+        "name": "Family Life Association of Eswatini (FLAS)",
+        "description": "The Family Life Association of Eswatini (FLAS) is a volunteer-based non-profit organization which focuses on the provision of integrated Sexual and Reproductive Health (SRH) and HIV services and information with a primary target on young people aged 10 – 24 while adults and those below 10 become a secondary target."
     },
     "snat sacco": {
         "name": "SNAT SACCO",
@@ -2528,6 +2532,10 @@
     "documents do i need to bring when joining snat": {
         "name": "Documents needed to join SNAT SACCO",
         "description": "1. Current Payslip, \n 2. ID Card, \n 3. Passport Coloured Photo, \n 4. Proof of resident, \n 5. ID numbers of beneficiaries, \n 6. Name and address of two (2) next of Kins"
+    },
+    "snat": {
+        "name": "SNAT SACCO",
+        "description": "SNAT SACCO an exclusively teachers’ Savings and Credit Co-operative in the Kingdom of Eswatini, formed and launched in 1986. SNAT SACCO is the leading savings and credit cooperative in the kingdom both in membership and assets. The SACCO is affiliated to the Eswatini Association of Savings and Credit Co-operatives (ESASCCO), regulated by the Co-operatives Societies Act of 2003 and the Financial Services Regulatory Authority Act of 2010. SNAT. Led by a Board of Directors that comprise the Executive, Supervisory, Credit and Education Committees, the SACCO has a management team that is led by the General Manager, with about 40 employees."
     },
     "swazimed": {
         "name": "Unfortunately they are not registered with Suku, hopefully they will soon",
