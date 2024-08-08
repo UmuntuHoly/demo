@@ -1797,6 +1797,10 @@
         "name": "Impumelelo Savings and Credit Cooperative Society",
         "description": "is a financial service entity that provides its members the opportunity to own their economic future through savings and then providing credit in form of loans to the members."
     },
+    "impumelelo co-op": {
+        "name": "Impumelelo Savings and Credit Cooperative Society",
+        "description": "is a financial service entity that provides its members the opportunity to own their economic future through savings and then providing credit in form of loans to the members."
+    },
     "impumelelo email": {
         "name": "Impumelelo Email",
         "description": "info@impumelelosacco.com"
@@ -1854,6 +1858,10 @@
         "description": "Equality, \n Integrity, \n Confidentiality, \n Accountability, \n Transparency, \n Customer Focus, \n Professionalism, \n Humanity"
     },
     "impumelelo services": {
+        "name": "Impumelelo's Services",
+        "description": "Impumelelo Savings, \n Impumelelo Investments, \n Impumelelo Loans"
+    },
+    "impumelelo service": {
         "name": "Impumelelo's Services",
         "description": "Impumelelo Savings, \n Impumelelo Investments, \n Impumelelo Loans"
     },
@@ -1955,9 +1963,21 @@
     },
     "flas email": {
         "name": "Flas Email",
-        "description": ""
+        "description": "info@flas.org.sz"
     },
     "flas phone": {
+        "name": "Call FLAS on",
+        "description": "Manzini: +268 2505 3082 \n Mbabane: +268 2404 9916"
+    },
+    "flas cell": {
+        "name": "Call FLAS on",
+        "description": "Manzini: +268 2505 3082 \n Mbabane: +268 2404 9916"
+    },
+    "flas number": {
+        "name": "Call FLAS on",
+        "description": "Manzini: +268 2505 3082 \n Mbabane: +268 2404 9916"
+    },
+    "contact flas": {
         "name": "Call FLAS on",
         "description": "Manzini: +268 2505 3082 \n Mbabane: +268 2404 9916"
     },
@@ -1986,6 +2006,18 @@
         "description": "Monday to Friday (8:00am - 4:30pm)"
     },
     "flas address": {
+        "name": "Flas Address",
+        "description": "Mbhabha Street, Beside Swazi Milling Company, Manzini \n Mbabane, Along Karl Grant Street, Behind Mona Flats"
+    },
+    "flas location": {
+        "name": "Flas Address",
+        "description": "Mbhabha Street, Beside Swazi Milling Company, Manzini \n Mbabane, Along Karl Grant Street, Behind Mona Flats"
+    },
+    "flas headquarter": {
+        "name": "Flas Address",
+        "description": "Mbhabha Street, Beside Swazi Milling Company, Manzini \n Mbabane, Along Karl Grant Street, Behind Mona Flats"
+    },
+    "flas headquarters": {
         "name": "Flas Address",
         "description": "Mbhabha Street, Beside Swazi Milling Company, Manzini \n Mbabane, Along Karl Grant Street, Behind Mona Flats"
     },
@@ -2029,6 +2061,10 @@
         "name": "Flas Services",
         "description": "Maternal Neonate Child Health, \n Contraceptives and Family Planning, \n Screening Services, \n Voluntary medical male circumcision, \n Ultrasound Scan Services, \n Contraception and Family Planning Services"
     },
+    "flas service": {
+        "name": "Flas Services",
+        "description": "Maternal Neonate Child Health, \n Contraceptives and Family Planning, \n Screening Services, \n Voluntary medical male circumcision, \n Ultrasound Scan Services, \n Contraception and Family Planning Services"
+    },
     "flas membership": {
         "name": "Flas Membership",
         "description": "FLAS Individual Members (IM) \n and FLAS Honorary Life Member (HLM)"
@@ -2046,6 +2082,10 @@
         "description": "This is for Non-Government Organisations (NGOs) that pay a once off annual fee of E250. These are organisations that have a similar version and mission as FLAS and wish to contribute to the organisation. Members will receive regular emails & other communication that will update them about FLAS' activities and achievements. These will include newsletters, annual reports and other related information. Collaborative activities prioritised."
     },
     "flas donate": {
+        "name": "Flas Donate",
+        "description": "When philantropy invests in women's foundations and gender justice funders, we empower a deeply intersectional movement that fights for policies and standards across lines of race, class & gender. WFN is the largest philanthropic alliance in the world dedicated to advancing the essential role of these funders in the unwavering fight for gender equality & justice. To donate, go to: www.flas.org.sz/donate"
+    },
+    "flas donation": {
         "name": "Flas Donate",
         "description": "When philantropy invests in women's foundations and gender justice funders, we empower a deeply intersectional movement that fights for policies and standards across lines of race, class & gender. WFN is the largest philanthropic alliance in the world dedicated to advancing the essential role of these funders in the unwavering fight for gender equality & justice. To donate, go to: www.flas.org.sz/donate"
     },
@@ -2070,6 +2110,18 @@
         "description": "customerservice@snatco-ops.co.sz \n admin@snatco-ops.co.sz"
     },
     "snat phone": {
+        "name": "Call SNAT SACCO on",
+        "description": "+268 2505 6459 OR +268 7632 6853 \n +268 7932 6853"
+    },
+    "snat number": {
+        "name": "Call SNAT SACCO on",
+        "description": "+268 2505 6459 OR +268 7632 6853 \n +268 7932 6853"
+    },
+    "snat cellnumber": {
+        "name": "Call SNAT SACCO on",
+        "description": "+268 2505 6459 OR +268 7632 6853 \n +268 7932 6853"
+    },
+    "call snat": {
         "name": "Call SNAT SACCO on",
         "description": "+268 2505 6459 OR +268 7632 6853 \n +268 7932 6853"
     },
@@ -2098,6 +2150,10 @@
         "description": "SNAT SACCO incorporate the true spirit of corporate social responsibility and it is committed to the highest standards. It has a deeply rooted tradition of acting in a responsible and ethical manner, and of being actively and positively present in the communities more especially in children’s lives. Hence the development of the KHULISA UMNTFWANA SHOE DRIVE where SNAT SACCO donate school shoes to the less privilege kids in schools."
     },
     "snat services": {
+        "name": "SNAT Services",
+        "description": "SNAT Savings, \n SNAT Loans, \n SNAT Funeral Cover, \n SNAT Family Cover"
+    },
+    "snat service": {
         "name": "SNAT Services",
         "description": "SNAT Savings, \n SNAT Loans, \n SNAT Funeral Cover, \n SNAT Family Cover"
     },
