@@ -3,6 +3,10 @@
         "name": "You are welcome",
         "description": "Feel free to ask a query and I will try to the best of my abilities to help."
     },
+    "buy mtn airtime": {
+        "name": "Dial",
+        "description": " *686#"
+    },
     "development officer": {
         "name": "Co-operative Development Officer of NCFE",
         "description": "Sheena LitchField",
@@ -4264,9 +4268,5 @@
     "wholesale": {
         "name": "Organizations that provide that service are",
         "description": "Dyson & Lincoln (Pty) Ltd, \n Afritool, \n All Stationery (Pty)Ltd, \n British American Tobacco, \n Buy & Save Supermarket, \n Furniture Warehouse / CJ Trading, \n Pansolutions, \n Dynamic Distributors (Pty) Ltd, \n Hoageys Ltd, \n Matsapha Trading Company, \n Ocean Fresh Import & Export, \n Ocean Traders International (Pty) Ltd, \n Plate Glass Swaziland, \n Swaziland Agricultural Supplies, \n Swaziland Liquor Distributors-Distell SD, \n Tri-Star Swaziland, \n Swaziland Supply Centre, \n Baobab-Batik, \n Swazi Pharm Wholesalers (Pty) Ltd    "
-    },
-    "buy mtn airtime": {
-        "name": "Dial",
-        "description": " *686#"
     }
 }
