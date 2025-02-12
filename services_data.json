@@ -1,7 +1,7 @@
 {
   "greetings": {
-    "name": "Greeting Service",
-    "description": "Friendly greetings to start your day.",
+    "name": " ",
+    "description": " ",
     "patterns": ["hi", "hello", "hey", "good morning", "good afternoon"],
     "responses": ["Hello! How can I assist you today?", "Hi there! How can I help?"],
     "follow_ups": ["What would you like to do today?", "Can I guide you to our services?"]
