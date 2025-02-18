@@ -1,20 +1,40 @@
 {
   "greetings": {
-    "name": " ",
-    "description": " ",
+    "name": "Hi there!",
+    "description": "",
     "patterns": ["hi", "hello", "hey", "good morning", "good afternoon"],
-    "responses": ["Hello! How can I assist you today?", "Hi there! How can I help?"],
-    "follow_ups": ["What would you like to do today?", "Can I guide you to our services?"]
+    "responses": ["How can I help?"],
+    "follow_ups": ["How would you like me to help?"]
   },
   "services": {
     "name": "Our Services",
     "description": "A list of services we provide.",
     "patterns": ["what services do you offer", "list of services", "services provided", "can you tell me about your services"],
-    "responses": [
-      "We offer consulting, product support, and development services.",
-      "Our services include development, support, and consulting tailored to your needs."
-    ],
+    "responses": ["We are a PR Agency that offers consulting, management and Public Relations services."],
     "follow_ups": ["Would you like to know more about a specific service?", "I can provide details about any service you're interested in."]
+  },
+  "hof": {
+    "name": "Our Services",
+    "description": "A list of services we provide.",
+    "patterns": ["who is hof", "what is hof", "tell me about hof"],
+    "responses": ["We are a PR Agency that offers consulting, management and Public Relations services."],
+    "follow_ups": ["Would you like to know more about a specific service?", "I can provide details about any service you're interested in."]
+    "image_url": "https://example.com/support_image.jpg"
+  },
+  "artists": {
+    "name": "Our Artists",
+    "description": "A list of HOF's Artists",
+    "patterns": ["who are your artists", "who do you manage", "your artists", "hof roster"],
+    "responses": ["We have Cici, Donald, Liema and Nosipho so far"],
+    "follow_ups": ["Would you like to know more about a specific artist? Just say the name"]
+  },
+  "cici": {
+    "name": "Cici",
+    "description": "Our Artist",
+    "patterns": ["who is cici", "tell me about cici"],
+    "responses": ["Cici full name Busiswa Thwala is a South African Independent Singer-Songwriter and actress who is 38 years young (born on February 15,1987). She is an R&B / Afro Pop Artist who won Metro FM Music Award for Best R&B single in 2016. Songs by Cici are Ndidinge, Hamba Nawe, Hamba Juba and Xola. Albums so far: Busisiwe (2017) and Sukulila (2021)"],
+    "follow_ups": [""]
+    "image_url": "https://example.com/support_image.jpg"
   },
   "product_info": {
     "name": "Product Information",
