@@ -18,8 +18,7 @@
     "description": "A list of services we provide.",
     "patterns": ["who is hof", "what is hof", "tell me about hof"],
     "responses": ["We are a PR Agency that offers consulting, management and Public Relations services."],
-    "follow_ups": ["Would you like to know more about a specific service?", "I can provide details about any service you're interested in."],
-    "image": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/8.jpg"
+    "follow_ups": ["Would you like to know more about a specific service?", "I can provide details about any service you're interested in."]
   },
   "artists": {
     "name": "Our Artists",
@@ -32,9 +31,8 @@
     "name": "Cici",
     "description": "Our Artist",
     "patterns": ["who is cici", "tell me about cici"],
-    "responses": ["Cici full name Busiswa Thwala is a South African Independent Singer-Songwriter and actress who is 38 years young (born on February 15,1987). She is an R&B / Afro Pop Artist who won Metro FM Music Award for Best R&B single in 2016. Songs by Cici are Ndidinge, Hamba Nawe, Hamba Juba and Xola. Albums so far: Busisiwe (2017) and Sukulila (2021)"],
-    "follow_ups": [],
-    "image": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/2.jpg"
+    "responses": ["Cici full name Busiswa Thwala is a South African Independent Singer-Songwriter and actress who is 38 years young (born on February 15,1987). She is an R&B / Afro Pop Artist who won Metro FM Music Award for Best R&B single in 2016"],
+    "follow_ups": ["..."]
   },
   "product_info": {
     "name": "Product Information",
@@ -54,18 +52,16 @@
       "You can reach support via email at support@example.com or call us at +1-800-555-5555.",
       "Our team is here to help! Contact us through chat or email at help@example.com."
     ],
-    "follow_ups": ["Do you need help resolving a specific issue?", "Can I assist with anything else?"],
-    "image": "https://example.com/support_image.jpg"
+    "follow_ups": ["Do you need help resolving a specific issue?", "Can I assist with anything else?"]
   },
   "fallback": {
     "name": "Fallback Response",
     "description": "Responses when the bot cannot understand the user.",
-    "patterns": [],
+    "patterns": ["..."],
     "responses": [
       "I'm sorry, I couldn't understand that. Could you please rephrase?",
       "I didn’t quite catch that. Can you provide more details?"
     ],
-    "follow_ups": ["Feel free to ask about our services, products, or support.", "I'm here to help with any queries you have."],
-    "image": "https://example.com/fallback_image.jpg"
+    "follow_ups": ["Feel free to ask about our services, products, or support.", "I'm here to help with any queries you have."]
   }
 }
