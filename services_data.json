@@ -18,7 +18,7 @@
     "description": "A list of services we provide.",
     "patterns": ["who is hof", "what is hof", "tell me about hof"],
     "responses": ["We are a PR Agency that offers consulting, management and Public Relations services."],
-    "follow_ups": ["Would you like to know more about a specific service?", "I can provide details about any service you're interested in."]
+    "follow_ups": ["Would you like to know more about a specific service?", "I can provide details about any service you're interested in."],
     "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/8.jpg"
   },
   "artists": {
@@ -27,5 +27,45 @@
     "patterns": ["who are your artists", "who do you manage", "your artists", "hof roster"],
     "responses": ["We have Cici, Donald, Liema and Nosipho so far"],
     "follow_ups": ["Would you like to know more about a specific artist? Just say the name"]
+  },
+  "cici": {
+    "name": "Cici",
+    "description": "Our Artist",
+    "patterns": ["who is cici", "tell me about cici"],
+    "responses": ["Cici full name Busiswa Thwala is a South African Independent Singer-Songwriter and actress who is 38 years young (born on February 15,1987). She is an R&B / Afro Pop Artist who won Metro FM Music Award for Best R&B single in 2016. Songs by Cici are Ndidinge, Hamba Nawe, Hamba Juba and Xola. Albums so far: Busisiwe (2017) and Sukulila (2021)"],
+    "follow_ups": [],
+    "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/2.jpg"
+  },
+  "product_info": {
+    "name": "Product Information",
+    "description": "Details about our products.",
+    "patterns": ["tell me about your products", "what products do you have", "product details", "information about products"],
+    "responses": [
+      "Our products are designed for efficiency and growth. Would you like details about a specific product?",
+      "We offer innovative software solutions. Can I help with details about a particular product?"
+    ],
+    "follow_ups": ["You can explore more details on our website.", "Let me know if you’d like further assistance."]
+  },
+  "customer_support": {
+    "name": "Customer Support",
+    "description": "Contact us for assistance.",
+    "patterns": ["how do I contact support", "customer support", "help with an issue", "I need assistance"],
+    "responses": [
+      "You can reach support via email at support@example.com or call us at +1-800-555-5555.",
+      "Our team is here to help! Contact us through chat or email at help@example.com."
+    ],
+    "follow_ups": ["Do you need help resolving a specific issue?", "Can I assist with anything else?"],
+    "image_url": "https://example.com/support_image.jpg"
+  },
+  "fallback": {
+    "name": "Fallback Response",
+    "description": "Responses when the bot cannot understand the user.",
+    "patterns": [],
+    "responses": [
+      "I'm sorry, I couldn't understand that. Could you please rephrase?",
+      "I didn’t quite catch that. Can you provide more details?"
+    ],
+    "follow_ups": ["Feel free to ask about our services, products, or support.", "I'm here to help with any queries you have."],
+    "image_url": "https://example.com/fallback_image.jpg"
   }
 }
