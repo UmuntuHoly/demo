@@ -5,5 +5,27 @@
     "patterns": ["hi", "hello", "hey", "good morning", "good afternoon"],
     "responses": ["How can I help?"],
     "follow_ups": ["How would you like me to help?"]
+  },
+  "services": {
+    "name": "Our Services",
+    "description": "A list of services we provide.",
+    "patterns": ["what services do you offer", "list of services", "services provided", "can you tell me about your services"],
+    "responses": ["We are a PR Agency that offers consulting, management and Public Relations services."],
+    "follow_ups": ["Would you like to know more about a specific service?", "I can provide details about any service you're interested in."]
+  },
+  "hof": {
+    "name": "Our Services",
+    "description": "A list of services we provide.",
+    "patterns": ["who is hof", "what is hof", "tell me about hof"],
+    "responses": ["We are a PR Agency that offers consulting, management and Public Relations services."],
+    "follow_ups": ["Would you like to know more about a specific service?", "I can provide details about any service you're interested in."]
+    "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/8.jpg"
+  },
+  "artists": {
+    "name": "Our Artists",
+    "description": "A list of HOF's Artists",
+    "patterns": ["who are your artists", "who do you manage", "your artists", "hof roster"],
+    "responses": ["We have Cici, Donald, Liema and Nosipho so far"],
+    "follow_ups": ["Would you like to know more about a specific artist? Just say the name"]
   }
 }
