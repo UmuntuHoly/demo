@@ -33,7 +33,7 @@
     "description": "Our Artist",
     "patterns": ["who is cici", "tell me about cici"],
     "responses": ["Cici full name Busiswa Thwala is a South African Independent Singer-Songwriter and actress who is 38 years young (born on February 15,1987). She is an R&B / Afro Pop Artist who won Metro FM Music Award for Best R&B single in 2016. Songs by Cici are Ndidinge, Hamba Nawe, Hamba Juba and Xola. Albums so far: Busisiwe (2017) and Sukulila (2021)"],
-    "follow_ups": [""]
+    "follow_ups": [],
     "image_url": "https://raw.githubusercontent.com/UmuntuHoly/demo/main/2.jpg"
   },
   "product_info": {
